@@ -1,0 +1,7 @@
+{
+  "created_utc": "2026-11-16T18:25:58.419026+00:00",
+  "original_archive_sha256": "450d08e5099a6992786a95ed227ac3131c1d0edb12dc81c5f06c8ce80a8a307f",
+  "source": "vendor/room-action-v0.3.1/rc",
+  "destination": "game/rc",
+  "note": "Editable inherited copy only; not the new hands implementation."
+}

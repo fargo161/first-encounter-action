@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>First Encounter — Hands First</title>
+  <style>/* HANDS_STYLE */</style>
+</head>
+<body>
+  <main class="machine">
+    <header class="masthead">
+      <h1>FIRST ENCOUNTER <span> / HANDS FIRST</span></h1>
+      <div class="head-actions">
+        <button id="mute" type="button" aria-pressed="false">Sound on</button>
+        <button id="controls" type="button">Controls / Feel</button>
+      </div>
+    </header>
+    <section id="stage" class="stage" aria-label="Sparring floor">
+      <canvas id="arena" tabindex="0" aria-label="Sparring floor. Focus here for gameplay input."></canvas>
+      <div class="match" aria-hidden="true">
+        <div class="fighter home">
+          <div class="fighter-title"><strong id="home-name">Blue</strong><span>YOU</span></div>
+          <div class="meter"><i id="home-guard"></i></div>
+          <div class="meter-caption"><span id="home-state">Hands down</span><span id="home-momentum"></span></div>
+        </div>
+        <div class="match-label"><span>SPARRING</span><strong id="clock">00:00</strong></div>
+        <div class="fighter away">
+          <div class="fighter-title"><strong id="away-name">Red</strong><span>PARTNER</span></div>
+          <div class="meter"><i id="away-guard"></i></div>
+          <div class="meter-caption"><span id="away-state">Hands down</span><span id="away-momentum"></span></div>
+        </div>
+      </div>
+      <div id="crosshair" class="crosshair" aria-hidden="true"></div>
+      <div id="callout" class="callout" role="status"></div>
+      <pre id="diagnostics" class="diagnostics" hidden></pre>
+      <div id="start-screen" class="overlay">
+        <div class="intro">
+          <h2>Hands first.</h2>
+          <p>Step in, put your hands up and read the other fighter. A well-timed light can intercept their strike.</p>
+          <button class="primary" id="start" type="button">Start sparring <span aria-hidden="true">↗</span></button>
+        </div>
+      </div>
+      <div id="pause-screen" class="overlay" hidden>
+        <div class="intro">
+          <h2>Paused</h2>
+          <button class="primary" id="resume" type="button">Resume sparring <span aria-hidden="true">↗</span></button>
+        </div>
+      </div>
+    </section>
+    <div class="console">
+      <div id="quick-controls" class="quick-controls" aria-label="Current sparring controls"></div>
+      <div class="round-actions">
+        <button id="capture" type="button" title="Capture the pointer for unlimited mouse look">Capture mouse</button>
+        <button id="switch" type="button" title="Switch controlled fighter without resetting the exchange">Switch fighter</button>
+        <button id="restart" type="button" title="Restart the sparring exchange">Restart</button>
+      </div>
+    </div>
+    <div class="utility">
+      <div class="view-actions">
+        <button id="view" type="button" aria-pressed="false">External view</button>
+        <label id="orbit-label" hidden>Angle <select id="orbit"><option value="0">Front</option><option value="45">Front ¾</option><option value="90">Side</option><option value="135">Rear ¾</option><option value="180">Rear</option></select></label>
+        <button id="debug" type="button" aria-pressed="false">Timing &amp; contact</button>
+        <button id="pose-step" type="button" hidden>Step hand pose</button>
+        <button id="pose-live" type="button" hidden>Live poses</button>
+      </div>
+      <span id="capture-status" role="status">Move the mouse inside the arena to look. Esc pauses.</span>
+    </div>
+  </main>
+  <dialog id="feel-dialog" aria-labelledby="feel-title">
+    <form id="profile-form">
+      <header class="modal-header">
+        <div><h2 id="feel-title">Controls / Feel</h2><p>Bindings belong to the arena while sparring. Enter a browser key code, mouse button or wheel direction.</p></div>
+        <button id="close-controls" type="button" aria-label="Close Controls and Feel">Close</button>
+      </header>
+      <div class="feel-grid">
+        <div>
+          <h3>Sketch A bindings</h3>
+          <div id="binding-fields" class="field-list"></div>
+          <p class="field-note"><code>KeyJ</code>, <code>Mouse2</code>, <code>WheelUp</code>. Q, F and Space are reserved in the default sketch.</p>
+        </div>
+        <div>
+          <h3>Tuning</h3>
+          <div class="field-list">
+            <label for="right_tap_max_ms">Heavy tap limit (ms) <input id="right_tap_max_ms" type="number" min="50" max="500" step="1"></label>
+            <label for="input_buffer_ms">Input buffer (ms) <input id="input_buffer_ms" type="number" min="0" max="300" step="1"></label>
+            <label for="guard_steps">Guard steps <input id="guard_steps" type="number" min="2" max="12" step="1"></label>
+            <label for="lookSensitivity">Look sensitivity <input id="lookSensitivity" type="number" min="0.04" max="1.25" step="0.01"></label>
+          </div>
+          <div class="feel-toggles">
+            <label><input id="momentum" type="checkbox" checked> Momentum pressure bonus</label>
+            <label><input id="effects" type="checkbox" checked> Camera impulse</label>
+            <label><input id="hold" type="checkbox" checked> Presentation contact hold</label>
+            <label><input id="practice" type="checkbox"> Quiet practice partner</label>
+          </div>
+        </div>
+      </div>
+      <div class="profile-tools">
+        <label for="profile-json">Profile JSON</label>
+        <textarea id="profile-json" rows="4" spellcheck="false" placeholder="Export your profile here, or paste a saved profile to import it."></textarea>
+        <div class="profile-actions">
+          <button id="profile-save" class="primary" type="submit">Apply controls</button>
+          <button id="profile-export" type="button">Export JSON</button>
+          <button id="profile-import" type="button">Import JSON</button>
+          <button id="profile-reset" type="button">Reset Sketch A</button>
+        </div>
+        <output id="profile-status" role="status"></output>
+      </div>
+    </form>
+  </dialog>
+  <!-- HANDS_SCRIPTS -->
+</body>
+</html>

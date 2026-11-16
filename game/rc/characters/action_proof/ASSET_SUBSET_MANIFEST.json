@@ -1,0 +1,8534 @@
+{
+  "schema": "room-action-subset@0.1",
+  "count": 140,
+  "sources": {
+    "PLB": {
+      "file": "iH9foXw.png",
+      "sha256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "dimensions": [
+        756,
+        1044
+      ],
+      "manifestSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "manifestDimensions": [
+        756,
+        1044
+      ],
+      "coordinateScale": [
+        1.0,
+        1.0
+      ],
+      "status": "BYTE_IDENTICAL",
+      "note": ""
+    },
+    "GNC": {
+      "file": "24175.png",
+      "sha256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "dimensions": [
+        1825,
+        2048
+      ],
+      "manifestSHA256": "7c48e6b7f3470e75cbae8690d0345eb24d0fea194e32524370cc409a31b4fc1a",
+      "manifestDimensions": [
+        2945,
+        3304
+      ],
+      "coordinateScale": [
+        0.6196943972835314,
+        0.6198547215496368
+      ],
+      "status": "REVIEWED_RESIZED_OWNER_UPLOAD",
+      "note": "Original upload is a resized rendering of the same sheet. 42 gray records mapped by pixel ratios and visually checked. Original full-resolution bytes not supplied. No upsampling."
+    },
+    "GNR": {
+      "file": "dm54n38-e8f0900b-c660-4192-b158-858426919e1c.png",
+      "sha256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "dimensions": [
+        500,
+        700
+      ],
+      "manifestSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "manifestDimensions": [
+        500,
+        700
+      ],
+      "coordinateScale": [
+        1.0,
+        1.0
+      ],
+      "status": "BYTE_IDENTICAL",
+      "note": ""
+    },
+    "TH1": {
+      "file": "w0DngzM.png",
+      "sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "dimensions": [
+        594,
+        738
+      ],
+      "manifestSHA256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "manifestDimensions": [
+        594,
+        738
+      ],
+      "coordinateScale": [
+        1.0,
+        1.0
+      ],
+      "status": "BYTE_IDENTICAL",
+      "note": ""
+    },
+    "FPW": {
+      "file": "140567.png",
+      "sha256": "b8dcde97d45598e1a7d375b487467ac5fac7007f41415f97473068fc4382c85c",
+      "dimensions": [
+        815,
+        1064
+      ],
+      "manifestSHA256": "b8dcde97d45598e1a7d375b487467ac5fac7007f41415f97473068fc4382c85c",
+      "manifestDimensions": [
+        815,
+        1064
+      ],
+      "coordinateScale": [
+        1.0,
+        1.0
+      ],
+      "status": "BYTE_IDENTICAL",
+      "note": ""
+    }
+  },
+  "records": [
+    {
+      "id": "GNR.run1.F",
+      "sheet": "GNR",
+      "set": "run1",
+      "key": "F",
+      "sourceRect": [
+        29,
+        6,
+        43,
+        88
+      ],
+      "sourceCell": [
+        0,
+        0,
+        100,
+        100
+      ],
+      "actualCut": [
+        0,
+        0,
+        100,
+        100
+      ],
+      "sourceSeeds": [],
+      "ax": 51.5,
+      "ay": 94.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        29,
+        6,
+        72,
+        94
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        2,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run1.FQ-L",
+      "sheet": "GNR",
+      "set": "run1",
+      "key": "FQ-L",
+      "sourceRect": [
+        112,
+        6,
+        76,
+        88
+      ],
+      "sourceCell": [
+        100,
+        0,
+        100,
+        100
+      ],
+      "actualCut": [
+        100,
+        0,
+        200,
+        100
+      ],
+      "sourceSeeds": [],
+      "ax": 61.0,
+      "ay": 94.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        12,
+        6,
+        88,
+        94
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        104,
+        2,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run1.S-L",
+      "sheet": "GNR",
+      "set": "run1",
+      "key": "S-L",
+      "sourceRect": [
+        209,
+        6,
+        82,
+        88
+      ],
+      "sourceCell": [
+        200,
+        0,
+        100,
+        100
+      ],
+      "actualCut": [
+        200,
+        0,
+        300,
+        100
+      ],
+      "sourceSeeds": [],
+      "ax": 60.5,
+      "ay": 94.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        9,
+        6,
+        91,
+        94
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        206,
+        2,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run1.BQ-L",
+      "sheet": "GNR",
+      "set": "run1",
+      "key": "BQ-L",
+      "sourceRect": [
+        325,
+        6,
+        50,
+        88
+      ],
+      "sourceCell": [
+        300,
+        0,
+        100,
+        100
+      ],
+      "actualCut": [
+        300,
+        0,
+        400,
+        100
+      ],
+      "sourceSeeds": [],
+      "ax": 54.5,
+      "ay": 94.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        25,
+        6,
+        75,
+        94
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        308,
+        2,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run1.B",
+      "sheet": "GNR",
+      "set": "run1",
+      "key": "B",
+      "sourceRect": [
+        429,
+        6,
+        42,
+        88
+      ],
+      "sourceCell": [
+        400,
+        0,
+        100,
+        100
+      ],
+      "actualCut": [
+        400,
+        0,
+        500,
+        100
+      ],
+      "sourceSeeds": [],
+      "ax": 47.0,
+      "ay": 94.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        29,
+        6,
+        71,
+        94
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        410,
+        2,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run2.F",
+      "sheet": "GNR",
+      "set": "run2",
+      "key": "F",
+      "sourceRect": [
+        28,
+        104,
+        44,
+        92
+      ],
+      "sourceCell": [
+        0,
+        100,
+        100,
+        100
+      ],
+      "actualCut": [
+        0,
+        100,
+        100,
+        200
+      ],
+      "sourceSeeds": [],
+      "ax": 42.0,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        28,
+        4,
+        72,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        512,
+        2,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run2.FQ-L",
+      "sheet": "GNR",
+      "set": "run2",
+      "key": "FQ-L",
+      "sourceRect": [
+        115,
+        104,
+        70,
+        92
+      ],
+      "sourceCell": [
+        100,
+        100,
+        100,
+        100
+      ],
+      "actualCut": [
+        100,
+        100,
+        200,
+        200
+      ],
+      "sourceSeeds": [],
+      "ax": 60.5,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        15,
+        4,
+        85,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        614,
+        2,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run2.S-L",
+      "sheet": "GNR",
+      "set": "run2",
+      "key": "S-L",
+      "sourceRect": [
+        211,
+        104,
+        78,
+        92
+      ],
+      "sourceCell": [
+        200,
+        100,
+        100,
+        100
+      ],
+      "actualCut": [
+        200,
+        100,
+        300,
+        200
+      ],
+      "sourceSeeds": [],
+      "ax": 69.5,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        11,
+        4,
+        89,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        716,
+        2,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run2.BQ-L",
+      "sheet": "GNR",
+      "set": "run2",
+      "key": "BQ-L",
+      "sourceRect": [
+        323,
+        104,
+        54,
+        92
+      ],
+      "sourceCell": [
+        300,
+        100,
+        100,
+        100
+      ],
+      "actualCut": [
+        300,
+        100,
+        400,
+        200
+      ],
+      "sourceSeeds": [],
+      "ax": 66.0,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        23,
+        4,
+        77,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        818,
+        2,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run2.B",
+      "sheet": "GNR",
+      "set": "run2",
+      "key": "B",
+      "sourceRect": [
+        430,
+        104,
+        40,
+        92
+      ],
+      "sourceCell": [
+        400,
+        100,
+        100,
+        100
+      ],
+      "actualCut": [
+        400,
+        100,
+        500,
+        200
+      ],
+      "sourceSeeds": [],
+      "ax": 56.0,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        30,
+        4,
+        70,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        920,
+        2,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run3.F",
+      "sheet": "GNR",
+      "set": "run3",
+      "key": "F",
+      "sourceRect": [
+        32,
+        206,
+        39,
+        88
+      ],
+      "sourceCell": [
+        0,
+        200,
+        100,
+        100
+      ],
+      "actualCut": [
+        0,
+        200,
+        100,
+        300
+      ],
+      "sourceSeeds": [],
+      "ax": 53.0,
+      "ay": 94.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        32,
+        6,
+        71,
+        94
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        104,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run3.FQ-L",
+      "sheet": "GNR",
+      "set": "run3",
+      "key": "FQ-L",
+      "sourceRect": [
+        116,
+        206,
+        68,
+        88
+      ],
+      "sourceCell": [
+        100,
+        200,
+        100,
+        100
+      ],
+      "actualCut": [
+        100,
+        200,
+        200,
+        300
+      ],
+      "sourceSeeds": [],
+      "ax": 67.0,
+      "ay": 94.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        16,
+        6,
+        84,
+        94
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        104,
+        104,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run3.S-L",
+      "sheet": "GNR",
+      "set": "run3",
+      "key": "S-L",
+      "sourceRect": [
+        209,
+        206,
+        82,
+        88
+      ],
+      "sourceCell": [
+        200,
+        200,
+        100,
+        100
+      ],
+      "actualCut": [
+        200,
+        200,
+        300,
+        300
+      ],
+      "sourceSeeds": [],
+      "ax": 62.0,
+      "ay": 94.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        9,
+        6,
+        91,
+        94
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        206,
+        104,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run3.BQ-L",
+      "sheet": "GNR",
+      "set": "run3",
+      "key": "BQ-L",
+      "sourceRect": [
+        320,
+        206,
+        60,
+        88
+      ],
+      "sourceCell": [
+        300,
+        200,
+        100,
+        100
+      ],
+      "actualCut": [
+        300,
+        200,
+        400,
+        300
+      ],
+      "sourceSeeds": [],
+      "ax": 52.0,
+      "ay": 94.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        20,
+        6,
+        80,
+        94
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        308,
+        104,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run3.B",
+      "sheet": "GNR",
+      "set": "run3",
+      "key": "B",
+      "sourceRect": [
+        430,
+        206,
+        40,
+        88
+      ],
+      "sourceCell": [
+        400,
+        200,
+        100,
+        100
+      ],
+      "actualCut": [
+        400,
+        200,
+        500,
+        300
+      ],
+      "sourceSeeds": [],
+      "ax": 50.0,
+      "ay": 94.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        30,
+        6,
+        70,
+        94
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        410,
+        104,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run4.F",
+      "sheet": "GNR",
+      "set": "run4",
+      "key": "F",
+      "sourceRect": [
+        28,
+        304,
+        43,
+        92
+      ],
+      "sourceCell": [
+        0,
+        300,
+        100,
+        100
+      ],
+      "actualCut": [
+        0,
+        300,
+        100,
+        400
+      ],
+      "sourceSeeds": [],
+      "ax": 61.0,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        28,
+        4,
+        71,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        512,
+        104,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run4.FQ-L",
+      "sheet": "GNR",
+      "set": "run4",
+      "key": "FQ-L",
+      "sourceRect": [
+        120,
+        304,
+        60,
+        92
+      ],
+      "sourceCell": [
+        100,
+        300,
+        100,
+        100
+      ],
+      "actualCut": [
+        100,
+        300,
+        200,
+        400
+      ],
+      "sourceSeeds": [],
+      "ax": 72.5,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        20,
+        4,
+        80,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        614,
+        104,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run4.S-L",
+      "sheet": "GNR",
+      "set": "run4",
+      "key": "S-L",
+      "sourceRect": [
+        213,
+        304,
+        74,
+        92
+      ],
+      "sourceCell": [
+        200,
+        300,
+        100,
+        100
+      ],
+      "actualCut": [
+        200,
+        300,
+        300,
+        400
+      ],
+      "sourceSeeds": [],
+      "ax": 64.5,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        13,
+        4,
+        87,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        716,
+        104,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run4.BQ-L",
+      "sheet": "GNR",
+      "set": "run4",
+      "key": "BQ-L",
+      "sourceRect": [
+        320,
+        304,
+        59,
+        92
+      ],
+      "sourceCell": [
+        300,
+        300,
+        100,
+        100
+      ],
+      "actualCut": [
+        300,
+        300,
+        400,
+        400
+      ],
+      "sourceSeeds": [],
+      "ax": 46.5,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        20,
+        4,
+        79,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        818,
+        104,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.run4.B",
+      "sheet": "GNR",
+      "set": "run4",
+      "key": "B",
+      "sourceRect": [
+        429,
+        304,
+        41,
+        92
+      ],
+      "sourceCell": [
+        400,
+        300,
+        100,
+        100
+      ],
+      "actualCut": [
+        400,
+        300,
+        500,
+        400
+      ],
+      "sourceSeeds": [],
+      "ax": 38.5,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        29,
+        4,
+        70,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        920,
+        104,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.aim.F",
+      "sheet": "GNR",
+      "set": "aim",
+      "key": "F",
+      "sourceRect": [
+        28,
+        405,
+        43,
+        90
+      ],
+      "sourceCell": [
+        0,
+        400,
+        100,
+        100
+      ],
+      "actualCut": [
+        0,
+        400,
+        100,
+        500
+      ],
+      "sourceSeeds": [],
+      "ax": 51.5,
+      "ay": 95.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        28,
+        5,
+        71,
+        95
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        206,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.aim.FQ-L",
+      "sheet": "GNR",
+      "set": "aim",
+      "key": "FQ-L",
+      "sourceRect": [
+        121,
+        405,
+        58,
+        90
+      ],
+      "sourceCell": [
+        100,
+        400,
+        100,
+        100
+      ],
+      "actualCut": [
+        100,
+        400,
+        200,
+        500
+      ],
+      "sourceSeeds": [],
+      "ax": 65.5,
+      "ay": 95.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        21,
+        5,
+        79,
+        95
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        104,
+        206,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.aim.S-L",
+      "sheet": "GNR",
+      "set": "aim",
+      "key": "S-L",
+      "sourceRect": [
+        214,
+        405,
+        72,
+        90
+      ],
+      "sourceCell": [
+        200,
+        400,
+        100,
+        100
+      ],
+      "actualCut": [
+        200,
+        400,
+        300,
+        500
+      ],
+      "sourceSeeds": [],
+      "ax": 62.0,
+      "ay": 95.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        14,
+        5,
+        86,
+        95
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        206,
+        206,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.aim.BQ-L",
+      "sheet": "GNR",
+      "set": "aim",
+      "key": "BQ-L",
+      "sourceRect": [
+        325,
+        405,
+        50,
+        90
+      ],
+      "sourceCell": [
+        300,
+        400,
+        100,
+        100
+      ],
+      "actualCut": [
+        300,
+        400,
+        400,
+        500
+      ],
+      "sourceSeeds": [],
+      "ax": 49.5,
+      "ay": 95.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        25,
+        5,
+        75,
+        95
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        308,
+        206,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.aim.B",
+      "sheet": "GNR",
+      "set": "aim",
+      "key": "B",
+      "sourceRect": [
+        430,
+        405,
+        40,
+        90
+      ],
+      "sourceCell": [
+        400,
+        400,
+        100,
+        100
+      ],
+      "actualCut": [
+        400,
+        400,
+        500,
+        500
+      ],
+      "sourceSeeds": [],
+      "ax": 47.5,
+      "ay": 95.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        30,
+        5,
+        70,
+        95
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        410,
+        206,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.fire.F",
+      "sheet": "GNR",
+      "set": "fire",
+      "key": "F",
+      "sourceRect": [
+        30,
+        505,
+        46,
+        90
+      ],
+      "sourceCell": [
+        0,
+        500,
+        100,
+        100
+      ],
+      "actualCut": [
+        0,
+        500,
+        100,
+        600
+      ],
+      "sourceSeeds": [],
+      "ax": 56.5,
+      "ay": 95.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        24,
+        4,
+        76,
+        95
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        512,
+        206,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.fire.FQ-L",
+      "sheet": "GNR",
+      "set": "fire",
+      "key": "FQ-L",
+      "sourceRect": [
+        113,
+        505,
+        78,
+        90
+      ],
+      "sourceCell": [
+        100,
+        500,
+        100,
+        100
+      ],
+      "actualCut": [
+        100,
+        500,
+        200,
+        600
+      ],
+      "sourceSeeds": [],
+      "ax": 77.5,
+      "ay": 95.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        8,
+        5,
+        91,
+        95
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        614,
+        206,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.fire.S-L",
+      "sheet": "GNR",
+      "set": "fire",
+      "key": "S-L",
+      "sourceRect": [
+        207,
+        505,
+        91,
+        90
+      ],
+      "sourceCell": [
+        200,
+        500,
+        100,
+        100
+      ],
+      "actualCut": [
+        200,
+        500,
+        300,
+        600
+      ],
+      "sourceSeeds": [],
+      "ax": 74.0,
+      "ay": 95.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        2,
+        5,
+        98,
+        95
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        716,
+        206,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.fire.BQ-L",
+      "sheet": "GNR",
+      "set": "fire",
+      "key": "BQ-L",
+      "sourceRect": [
+        318,
+        505,
+        67,
+        90
+      ],
+      "sourceCell": [
+        300,
+        500,
+        100,
+        100
+      ],
+      "actualCut": [
+        300,
+        500,
+        400,
+        600
+      ],
+      "sourceSeeds": [],
+      "ax": 59.5,
+      "ay": 95.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        14,
+        5,
+        85,
+        95
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": true,
+      "atlasRect": [
+        818,
+        206,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.fire.B",
+      "sheet": "GNR",
+      "set": "fire",
+      "key": "B",
+      "sourceRect": [
+        424,
+        505,
+        42,
+        90
+      ],
+      "sourceCell": [
+        400,
+        500,
+        100,
+        100
+      ],
+      "actualCut": [
+        400,
+        500,
+        500,
+        600
+      ],
+      "sourceSeeds": [],
+      "ax": 41.5,
+      "ay": 95.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        24,
+        5,
+        75,
+        95
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        920,
+        206,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.death.1",
+      "sheet": "GNR",
+      "set": "death",
+      "key": "1",
+      "sourceRect": [
+        15,
+        608,
+        69,
+        83
+      ],
+      "sourceCell": [
+        0,
+        600,
+        100,
+        100
+      ],
+      "actualCut": [
+        0,
+        600,
+        100,
+        700
+      ],
+      "sourceSeeds": [],
+      "ax": 58.0,
+      "ay": 91.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        15,
+        8,
+        84,
+        91
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        308,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.death.2",
+      "sheet": "GNR",
+      "set": "death",
+      "key": "2",
+      "sourceRect": [
+        113,
+        604,
+        74,
+        92
+      ],
+      "sourceCell": [
+        100,
+        600,
+        100,
+        100
+      ],
+      "actualCut": [
+        100,
+        600,
+        200,
+        700
+      ],
+      "sourceSeeds": [],
+      "ax": 64.0,
+      "ay": 96.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        13,
+        4,
+        87,
+        96
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        104,
+        308,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.death.3",
+      "sheet": "GNR",
+      "set": "death",
+      "key": "3",
+      "sourceRect": [
+        210,
+        612,
+        81,
+        75
+      ],
+      "sourceCell": [
+        200,
+        600,
+        100,
+        100
+      ],
+      "actualCut": [
+        200,
+        600,
+        300,
+        700
+      ],
+      "sourceSeeds": [],
+      "ax": 43.0,
+      "ay": 87.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        10,
+        12,
+        91,
+        87
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        206,
+        308,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.death.4",
+      "sheet": "GNR",
+      "set": "death",
+      "key": "4",
+      "sourceRect": [
+        325,
+        618,
+        50,
+        64
+      ],
+      "sourceCell": [
+        300,
+        600,
+        100,
+        100
+      ],
+      "actualCut": [
+        300,
+        600,
+        400,
+        700
+      ],
+      "sourceSeeds": [],
+      "ax": 50.5,
+      "ay": 82.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        25,
+        18,
+        75,
+        82
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        308,
+        308,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "GNR.death.5",
+      "sheet": "GNR",
+      "set": "death",
+      "key": "5",
+      "sourceRect": [
+        411,
+        638,
+        78,
+        24
+      ],
+      "sourceCell": [
+        400,
+        600,
+        100,
+        100
+      ],
+      "actualCut": [
+        400,
+        600,
+        500,
+        700
+      ],
+      "sourceSeeds": [],
+      "ax": 27.0,
+      "ay": 62.0,
+      "ppm": 48.6,
+      "contentBounds": [
+        11,
+        38,
+        89,
+        62
+      ],
+      "sourceSHA256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        410,
+        308,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "PLB.run1.F",
+      "sheet": "PLB",
+      "set": "run1",
+      "key": "F",
+      "sourceRect": [
+        237,
+        117,
+        66,
+        113
+      ],
+      "sourceCell": [
+        216,
+        116,
+        108,
+        116
+      ],
+      "actualCut": [
+        216,
+        116,
+        324,
+        232
+      ],
+      "sourceSeeds": [],
+      "ax": 58.5,
+      "ay": 114.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        21,
+        1,
+        87,
+        114
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        2,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run1.FQ-R",
+      "sheet": "PLB",
+      "set": "run1",
+      "key": "FQ-R",
+      "sourceRect": [
+        341,
+        118,
+        74,
+        112
+      ],
+      "sourceCell": [
+        324,
+        116,
+        108,
+        116
+      ],
+      "actualCut": [
+        324,
+        116,
+        432,
+        232
+      ],
+      "sourceSeeds": [],
+      "ax": 43.0,
+      "ay": 114.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        17,
+        2,
+        91,
+        114
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        112,
+        2,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run1.S-R",
+      "sheet": "PLB",
+      "set": "run1",
+      "key": "S-R",
+      "sourceRect": [
+        456,
+        119,
+        61,
+        110
+      ],
+      "sourceCell": [
+        432,
+        116,
+        108,
+        116
+      ],
+      "actualCut": [
+        432,
+        116,
+        540,
+        232
+      ],
+      "sourceSeeds": [],
+      "ax": 36.0,
+      "ay": 113.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        3,
+        85,
+        113
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        222,
+        2,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run1.BQ-R",
+      "sheet": "PLB",
+      "set": "run1",
+      "key": "BQ-R",
+      "sourceRect": [
+        565,
+        120,
+        59,
+        108
+      ],
+      "sourceCell": [
+        540,
+        116,
+        108,
+        116
+      ],
+      "actualCut": [
+        540,
+        116,
+        648,
+        232
+      ],
+      "sourceSeeds": [],
+      "ax": 31.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        25,
+        4,
+        84,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        332,
+        2,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run1.B",
+      "sheet": "PLB",
+      "set": "run1",
+      "key": "B",
+      "sourceRect": [
+        669,
+        121,
+        66,
+        107
+      ],
+      "sourceCell": [
+        648,
+        116,
+        108,
+        116
+      ],
+      "actualCut": [
+        648,
+        116,
+        756,
+        232
+      ],
+      "sourceSeeds": [],
+      "ax": 45.0,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        21,
+        5,
+        87,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        442,
+        2,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run2.F",
+      "sheet": "PLB",
+      "set": "run2",
+      "key": "F",
+      "sourceRect": [
+        23,
+        233,
+        63,
+        100
+      ],
+      "sourceCell": [
+        0,
+        232,
+        108,
+        116
+      ],
+      "actualCut": [
+        0,
+        232,
+        108,
+        348
+      ],
+      "sourceSeeds": [],
+      "ax": 62.0,
+      "ay": 101.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        23,
+        1,
+        86,
+        101
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        552,
+        2,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run2.FQ-R",
+      "sheet": "PLB",
+      "set": "run2",
+      "key": "FQ-R",
+      "sourceRect": [
+        129,
+        238,
+        66,
+        99
+      ],
+      "sourceCell": [
+        108,
+        232,
+        108,
+        116
+      ],
+      "actualCut": [
+        108,
+        232,
+        216,
+        348
+      ],
+      "sourceSeeds": [],
+      "ax": 26.0,
+      "ay": 105.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        21,
+        6,
+        87,
+        105
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        662,
+        2,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run2.S-R",
+      "sheet": "PLB",
+      "set": "run2",
+      "key": "S-R",
+      "sourceRect": [
+        227,
+        237,
+        87,
+        97
+      ],
+      "sourceCell": [
+        216,
+        232,
+        108,
+        116
+      ],
+      "actualCut": [
+        216,
+        232,
+        324,
+        348
+      ],
+      "sourceSeeds": [],
+      "ax": 15.0,
+      "ay": 102.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        11,
+        5,
+        98,
+        102
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        772,
+        2,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run2.BQ-R",
+      "sheet": "PLB",
+      "set": "run2",
+      "key": "BQ-R",
+      "sourceRect": [
+        342,
+        238,
+        73,
+        96
+      ],
+      "sourceCell": [
+        324,
+        232,
+        108,
+        116
+      ],
+      "actualCut": [
+        324,
+        232,
+        432,
+        348
+      ],
+      "sourceSeeds": [],
+      "ax": 46.5,
+      "ay": 102.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        18,
+        6,
+        91,
+        102
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        882,
+        2,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run2.B",
+      "sheet": "PLB",
+      "set": "run2",
+      "key": "B",
+      "sourceRect": [
+        456,
+        237,
+        61,
+        94
+      ],
+      "sourceCell": [
+        432,
+        232,
+        108,
+        116
+      ],
+      "actualCut": [
+        432,
+        232,
+        540,
+        348
+      ],
+      "sourceSeeds": [],
+      "ax": 44.0,
+      "ay": 99.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        5,
+        85,
+        99
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        120,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run3.F",
+      "sheet": "PLB",
+      "set": "run3",
+      "key": "F",
+      "sourceRect": [
+        564,
+        234,
+        60,
+        104
+      ],
+      "sourceCell": [
+        540,
+        232,
+        108,
+        116
+      ],
+      "actualCut": [
+        540,
+        232,
+        648,
+        348
+      ],
+      "sourceSeeds": [],
+      "ax": 45.0,
+      "ay": 106.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        2,
+        84,
+        106
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        112,
+        120,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run3.FQ-R",
+      "sheet": "PLB",
+      "set": "run3",
+      "key": "FQ-R",
+      "sourceRect": [
+        668,
+        239,
+        68,
+        103
+      ],
+      "sourceCell": [
+        648,
+        232,
+        108,
+        116
+      ],
+      "actualCut": [
+        648,
+        232,
+        756,
+        348
+      ],
+      "sourceSeeds": [],
+      "ax": 50.5,
+      "ay": 110.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        20,
+        7,
+        88,
+        110
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        222,
+        120,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run3.S-R",
+      "sheet": "PLB",
+      "set": "run3",
+      "key": "S-R",
+      "sourceRect": [
+        3,
+        354,
+        103,
+        102
+      ],
+      "sourceCell": [
+        0,
+        348,
+        108,
+        116
+      ],
+      "actualCut": [
+        0,
+        348,
+        108,
+        464
+      ],
+      "sourceSeeds": [],
+      "ax": 73.0,
+      "ay": 108.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        3,
+        6,
+        106,
+        108
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        332,
+        120,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run3.BQ-R",
+      "sheet": "PLB",
+      "set": "run3",
+      "key": "BQ-R",
+      "sourceRect": [
+        117,
+        355,
+        90,
+        102
+      ],
+      "sourceCell": [
+        108,
+        348,
+        108,
+        116
+      ],
+      "actualCut": [
+        108,
+        348,
+        216,
+        464
+      ],
+      "sourceSeeds": [],
+      "ax": 70.0,
+      "ay": 109.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        9,
+        7,
+        99,
+        109
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        442,
+        120,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run3.B",
+      "sheet": "PLB",
+      "set": "run3",
+      "key": "B",
+      "sourceRect": [
+        241,
+        353,
+        59,
+        102
+      ],
+      "sourceCell": [
+        216,
+        348,
+        108,
+        116
+      ],
+      "actualCut": [
+        216,
+        348,
+        324,
+        464
+      ],
+      "sourceSeeds": [],
+      "ax": 63.0,
+      "ay": 107.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        25,
+        5,
+        84,
+        107
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        552,
+        120,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run4.F",
+      "sheet": "PLB",
+      "set": "run4",
+      "key": "F",
+      "sourceRect": [
+        347,
+        351,
+        62,
+        110
+      ],
+      "sourceCell": [
+        324,
+        348,
+        108,
+        116
+      ],
+      "actualCut": [
+        324,
+        348,
+        432,
+        464
+      ],
+      "sourceSeeds": [],
+      "ax": 46.0,
+      "ay": 113.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        23,
+        3,
+        85,
+        113
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        662,
+        120,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run4.FQ-R",
+      "sheet": "PLB",
+      "set": "run4",
+      "key": "FQ-R",
+      "sourceRect": [
+        455,
+        352,
+        62,
+        109
+      ],
+      "sourceCell": [
+        432,
+        348,
+        108,
+        116
+      ],
+      "actualCut": [
+        432,
+        348,
+        540,
+        464
+      ],
+      "sourceSeeds": [],
+      "ax": 30.5,
+      "ay": 113.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        23,
+        4,
+        85,
+        113
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        772,
+        120,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run4.S-R",
+      "sheet": "PLB",
+      "set": "run4",
+      "key": "S-R",
+      "sourceRect": [
+        556,
+        352,
+        77,
+        108
+      ],
+      "sourceCell": [
+        540,
+        348,
+        108,
+        116
+      ],
+      "actualCut": [
+        540,
+        348,
+        648,
+        464
+      ],
+      "sourceSeeds": [],
+      "ax": 32.0,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        16,
+        4,
+        93,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        882,
+        120,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run4.BQ-R",
+      "sheet": "PLB",
+      "set": "run4",
+      "key": "BQ-R",
+      "sourceRect": [
+        667,
+        352,
+        71,
+        108
+      ],
+      "sourceCell": [
+        648,
+        348,
+        108,
+        116
+      ],
+      "actualCut": [
+        648,
+        348,
+        756,
+        464
+      ],
+      "sourceSeeds": [],
+      "ax": 46.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        19,
+        4,
+        90,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        238,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run4.B",
+      "sheet": "PLB",
+      "set": "run4",
+      "key": "B",
+      "sourceRect": [
+        24,
+        469,
+        60,
+        106
+      ],
+      "sourceCell": [
+        0,
+        464,
+        108,
+        116
+      ],
+      "actualCut": [
+        0,
+        464,
+        108,
+        580
+      ],
+      "sourceSeeds": [],
+      "ax": 62.0,
+      "ay": 111.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        5,
+        84,
+        111
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        112,
+        238,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run5.F",
+      "sheet": "PLB",
+      "set": "run5",
+      "key": "F",
+      "sourceRect": [
+        132,
+        466,
+        61,
+        112
+      ],
+      "sourceCell": [
+        108,
+        464,
+        108,
+        116
+      ],
+      "actualCut": [
+        108,
+        464,
+        216,
+        580
+      ],
+      "sourceSeeds": [],
+      "ax": 39.0,
+      "ay": 114.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        2,
+        85,
+        114
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        222,
+        238,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run5.FQ-R",
+      "sheet": "PLB",
+      "set": "run5",
+      "key": "FQ-R",
+      "sourceRect": [
+        228,
+        467,
+        84,
+        110
+      ],
+      "sourceCell": [
+        216,
+        464,
+        108,
+        116
+      ],
+      "actualCut": [
+        216,
+        464,
+        324,
+        580
+      ],
+      "sourceSeeds": [],
+      "ax": 17.0,
+      "ay": 113.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        12,
+        3,
+        96,
+        113
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        332,
+        238,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run5.S-R",
+      "sheet": "PLB",
+      "set": "run5",
+      "key": "S-R",
+      "sourceRect": [
+        339,
+        468,
+        80,
+        108
+      ],
+      "sourceCell": [
+        324,
+        464,
+        108,
+        116
+      ],
+      "actualCut": [
+        324,
+        464,
+        432,
+        580
+      ],
+      "sourceSeeds": [],
+      "ax": 39.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        15,
+        4,
+        95,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        442,
+        238,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run5.BQ-R",
+      "sheet": "PLB",
+      "set": "run5",
+      "key": "BQ-R",
+      "sourceRect": [
+        457,
+        469,
+        58,
+        106
+      ],
+      "sourceCell": [
+        432,
+        464,
+        108,
+        116
+      ],
+      "actualCut": [
+        432,
+        464,
+        540,
+        580
+      ],
+      "sourceSeeds": [],
+      "ax": 35.5,
+      "ay": 111.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        25,
+        5,
+        83,
+        111
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        552,
+        238,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run5.B",
+      "sheet": "PLB",
+      "set": "run5",
+      "key": "B",
+      "sourceRect": [
+        565,
+        468,
+        58,
+        106
+      ],
+      "sourceCell": [
+        540,
+        464,
+        108,
+        116
+      ],
+      "actualCut": [
+        540,
+        464,
+        648,
+        580
+      ],
+      "sourceSeeds": [],
+      "ax": 63.0,
+      "ay": 110.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        25,
+        4,
+        83,
+        110
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        662,
+        238,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run6.F",
+      "sheet": "PLB",
+      "set": "run6",
+      "key": "F",
+      "sourceRect": [
+        674,
+        464,
+        57,
+        97
+      ],
+      "sourceCell": [
+        648,
+        464,
+        108,
+        116
+      ],
+      "actualCut": [
+        648,
+        464,
+        756,
+        580
+      ],
+      "sourceSeeds": [],
+      "ax": 55.0,
+      "ay": 97.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        26,
+        0,
+        83,
+        97
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        772,
+        238,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run6.FQ-R",
+      "sheet": "PLB",
+      "set": "run6",
+      "key": "FQ-R",
+      "sourceRect": [
+        10,
+        583,
+        88,
+        98
+      ],
+      "sourceCell": [
+        0,
+        580,
+        108,
+        116
+      ],
+      "actualCut": [
+        0,
+        580,
+        108,
+        696
+      ],
+      "sourceSeeds": [],
+      "ax": 80.0,
+      "ay": 101.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        10,
+        3,
+        98,
+        101
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        882,
+        238,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run6.S-R",
+      "sheet": "PLB",
+      "set": "run6",
+      "key": "S-R",
+      "sourceRect": [
+        112,
+        585,
+        101,
+        97
+      ],
+      "sourceCell": [
+        108,
+        580,
+        108,
+        116
+      ],
+      "actualCut": [
+        108,
+        580,
+        216,
+        696
+      ],
+      "sourceSeeds": [],
+      "ax": 95.0,
+      "ay": 102.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        4,
+        5,
+        105,
+        102
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        356,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run6.BQ-R",
+      "sheet": "PLB",
+      "set": "run6",
+      "key": "BQ-R",
+      "sourceRect": [
+        235,
+        586,
+        70,
+        97
+      ],
+      "sourceCell": [
+        216,
+        580,
+        108,
+        116
+      ],
+      "actualCut": [
+        216,
+        580,
+        324,
+        696
+      ],
+      "sourceSeeds": [],
+      "ax": 70.5,
+      "ay": 103.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        19,
+        6,
+        89,
+        103
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        112,
+        356,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.run6.B",
+      "sheet": "PLB",
+      "set": "run6",
+      "key": "B",
+      "sourceRect": [
+        350,
+        585,
+        56,
+        96
+      ],
+      "sourceCell": [
+        324,
+        580,
+        108,
+        116
+      ],
+      "actualCut": [
+        324,
+        580,
+        432,
+        696
+      ],
+      "sourceSeeds": [],
+      "ax": 49.5,
+      "ay": 101.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        26,
+        5,
+        82,
+        101
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        222,
+        356,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.pain.1",
+      "sheet": "PLB",
+      "set": "pain",
+      "key": "1",
+      "sourceRect": [
+        448,
+        585,
+        76,
+        107
+      ],
+      "sourceCell": [
+        432,
+        580,
+        108,
+        116
+      ],
+      "actualCut": [
+        432,
+        580,
+        540,
+        696
+      ],
+      "sourceSeeds": [],
+      "ax": 54.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        16,
+        5,
+        92,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        332,
+        356,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.pain.2",
+      "sheet": "PLB",
+      "set": "pain",
+      "key": "2",
+      "sourceRect": [
+        564,
+        585,
+        61,
+        107
+      ],
+      "sourceCell": [
+        540,
+        580,
+        108,
+        116
+      ],
+      "actualCut": [
+        540,
+        580,
+        648,
+        696
+      ],
+      "sourceSeeds": [],
+      "ax": 56.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        5,
+        85,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        442,
+        356,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.pain.3",
+      "sheet": "PLB",
+      "set": "pain",
+      "key": "3",
+      "sourceRect": [
+        677,
+        585,
+        50,
+        106
+      ],
+      "sourceCell": [
+        648,
+        580,
+        108,
+        116
+      ],
+      "actualCut": [
+        648,
+        580,
+        756,
+        696
+      ],
+      "sourceSeeds": [],
+      "ax": 54.0,
+      "ay": 111.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        29,
+        5,
+        79,
+        111
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        552,
+        356,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.death.1",
+      "sheet": "PLB",
+      "set": "death",
+      "key": "1",
+      "sourceRect": [
+        30,
+        706,
+        48,
+        96
+      ],
+      "sourceCell": [
+        0,
+        696,
+        108,
+        116
+      ],
+      "actualCut": [
+        0,
+        696,
+        108,
+        812
+      ],
+      "sourceSeeds": [],
+      "ax": 55.5,
+      "ay": 106.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        30,
+        10,
+        78,
+        106
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        662,
+        356,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.death.2",
+      "sheet": "PLB",
+      "set": "death",
+      "key": "2",
+      "sourceRect": [
+        139,
+        712,
+        47,
+        84
+      ],
+      "sourceCell": [
+        108,
+        696,
+        108,
+        116
+      ],
+      "actualCut": [
+        108,
+        696,
+        216,
+        812
+      ],
+      "sourceSeeds": [],
+      "ax": 53.5,
+      "ay": 100.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        31,
+        16,
+        78,
+        100
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        772,
+        356,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.death.3",
+      "sheet": "PLB",
+      "set": "death",
+      "key": "3",
+      "sourceRect": [
+        247,
+        716,
+        47,
+        76
+      ],
+      "sourceCell": [
+        216,
+        696,
+        108,
+        116
+      ],
+      "actualCut": [
+        216,
+        696,
+        324,
+        812
+      ],
+      "sourceSeeds": [],
+      "ax": 54.0,
+      "ay": 96.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        31,
+        20,
+        78,
+        96
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        882,
+        356,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.death.4",
+      "sheet": "PLB",
+      "set": "death",
+      "key": "4",
+      "sourceRect": [
+        353,
+        731,
+        50,
+        47
+      ],
+      "sourceCell": [
+        324,
+        696,
+        108,
+        116
+      ],
+      "actualCut": [
+        324,
+        696,
+        432,
+        812
+      ],
+      "sourceSeeds": [],
+      "ax": 54.5,
+      "ay": 82.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        29,
+        35,
+        79,
+        82
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        474,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.death.5",
+      "sheet": "PLB",
+      "set": "death",
+      "key": "5",
+      "sourceRect": [
+        461,
+        743,
+        51,
+        22
+      ],
+      "sourceCell": [
+        432,
+        696,
+        108,
+        116
+      ],
+      "actualCut": [
+        432,
+        696,
+        540,
+        812
+      ],
+      "sourceSeeds": [],
+      "ax": 53.0,
+      "ay": 69.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        29,
+        47,
+        80,
+        69
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        112,
+        474,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.death.6",
+      "sheet": "PLB",
+      "set": "death",
+      "key": "6",
+      "sourceRect": [
+        569,
+        745,
+        50,
+        19
+      ],
+      "sourceCell": [
+        540,
+        696,
+        108,
+        116
+      ],
+      "actualCut": [
+        540,
+        696,
+        648,
+        812
+      ],
+      "sourceSeeds": [],
+      "ax": 51.5,
+      "ay": 68.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        29,
+        49,
+        79,
+        68
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        222,
+        474,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.armsup.F",
+      "sheet": "PLB",
+      "set": "armsup",
+      "key": "F",
+      "sourceRect": [
+        664,
+        701,
+        76,
+        108
+      ],
+      "sourceCell": [
+        648,
+        696,
+        108,
+        116
+      ],
+      "actualCut": [
+        648,
+        696,
+        756,
+        812
+      ],
+      "sourceSeeds": [],
+      "ax": 55.0,
+      "ay": 113.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        16,
+        5,
+        92,
+        113
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        332,
+        474,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.armsup.FQ-R",
+      "sheet": "PLB",
+      "set": "armsup",
+      "key": "FQ-R",
+      "sourceRect": [
+        18,
+        817,
+        72,
+        107
+      ],
+      "sourceCell": [
+        0,
+        812,
+        108,
+        116
+      ],
+      "actualCut": [
+        0,
+        812,
+        108,
+        928
+      ],
+      "sourceSeeds": [],
+      "ax": 46.0,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        18,
+        5,
+        90,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        442,
+        474,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.armsup.S-R",
+      "sheet": "PLB",
+      "set": "armsup",
+      "key": "S-R",
+      "sourceRect": [
+        139,
+        817,
+        46,
+        107
+      ],
+      "sourceCell": [
+        108,
+        812,
+        108,
+        116
+      ],
+      "actualCut": [
+        108,
+        812,
+        216,
+        928
+      ],
+      "sourceSeeds": [],
+      "ax": 45.0,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        31,
+        5,
+        77,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        552,
+        474,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.armsup.BQ-R",
+      "sheet": "PLB",
+      "set": "armsup",
+      "key": "BQ-R",
+      "sourceRect": [
+        238,
+        817,
+        65,
+        107
+      ],
+      "sourceCell": [
+        216,
+        812,
+        108,
+        116
+      ],
+      "actualCut": [
+        216,
+        812,
+        324,
+        928
+      ],
+      "sourceSeeds": [],
+      "ax": 41.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        22,
+        5,
+        87,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        662,
+        474,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.armsup.B",
+      "sheet": "PLB",
+      "set": "armsup",
+      "key": "B",
+      "sourceRect": [
+        341,
+        817,
+        74,
+        107
+      ],
+      "sourceCell": [
+        324,
+        812,
+        108,
+        116
+      ],
+      "actualCut": [
+        324,
+        812,
+        432,
+        928
+      ],
+      "sourceSeeds": [],
+      "ax": 47.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        17,
+        5,
+        91,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        772,
+        474,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.ready.F",
+      "sheet": "PLB",
+      "set": "ready",
+      "key": "F",
+      "sourceRect": [
+        456,
+        817,
+        60,
+        107
+      ],
+      "sourceCell": [
+        432,
+        812,
+        108,
+        116
+      ],
+      "actualCut": [
+        432,
+        812,
+        540,
+        928
+      ],
+      "sourceSeeds": [],
+      "ax": 58.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        5,
+        84,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        882,
+        474,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.ready.FQ-R",
+      "sheet": "PLB",
+      "set": "ready",
+      "key": "FQ-R",
+      "sourceRect": [
+        564,
+        816,
+        60,
+        108
+      ],
+      "sourceCell": [
+        540,
+        812,
+        108,
+        116
+      ],
+      "actualCut": [
+        540,
+        812,
+        648,
+        928
+      ],
+      "sourceSeeds": [],
+      "ax": 51.0,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        4,
+        84,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        592,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.ready.S-R",
+      "sheet": "PLB",
+      "set": "ready",
+      "key": "S-R",
+      "sourceRect": [
+        682,
+        816,
+        41,
+        108
+      ],
+      "sourceCell": [
+        648,
+        812,
+        108,
+        116
+      ],
+      "actualCut": [
+        648,
+        812,
+        756,
+        928
+      ],
+      "sourceSeeds": [],
+      "ax": 49.0,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        34,
+        4,
+        75,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        112,
+        592,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.ready.BQ-R",
+      "sheet": "PLB",
+      "set": "ready",
+      "key": "BQ-R",
+      "sourceRect": [
+        28,
+        932,
+        52,
+        108
+      ],
+      "sourceCell": [
+        0,
+        928,
+        108,
+        116
+      ],
+      "actualCut": [
+        0,
+        928,
+        108,
+        1044
+      ],
+      "sourceSeeds": [],
+      "ax": 44.0,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        28,
+        4,
+        80,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        222,
+        592,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.ready.B",
+      "sheet": "PLB",
+      "set": "ready",
+      "key": "B",
+      "sourceRect": [
+        132,
+        933,
+        61,
+        107
+      ],
+      "sourceCell": [
+        108,
+        928,
+        108,
+        116
+      ],
+      "actualCut": [
+        108,
+        928,
+        216,
+        1044
+      ],
+      "sourceSeeds": [],
+      "ax": 46.0,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        5,
+        85,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        332,
+        592,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.idle.F",
+      "sheet": "PLB",
+      "set": "idle",
+      "key": "F",
+      "sourceRect": [
+        240,
+        933,
+        60,
+        107
+      ],
+      "sourceCell": [
+        216,
+        928,
+        108,
+        116
+      ],
+      "actualCut": [
+        216,
+        928,
+        324,
+        1044
+      ],
+      "sourceSeeds": [],
+      "ax": 59.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        5,
+        84,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        442,
+        592,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.idle.FQ-R",
+      "sheet": "PLB",
+      "set": "idle",
+      "key": "FQ-R",
+      "sourceRect": [
+        350,
+        932,
+        56,
+        108
+      ],
+      "sourceCell": [
+        324,
+        928,
+        108,
+        116
+      ],
+      "actualCut": [
+        324,
+        928,
+        432,
+        1044
+      ],
+      "sourceSeeds": [],
+      "ax": 51.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        26,
+        4,
+        82,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        552,
+        592,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.idle.S-R",
+      "sheet": "PLB",
+      "set": "idle",
+      "key": "S-R",
+      "sourceRect": [
+        465,
+        932,
+        43,
+        108
+      ],
+      "sourceCell": [
+        432,
+        928,
+        108,
+        116
+      ],
+      "actualCut": [
+        432,
+        928,
+        540,
+        1044
+      ],
+      "sourceSeeds": [],
+      "ax": 47.5,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        33,
+        4,
+        76,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        662,
+        592,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.idle.BQ-R",
+      "sheet": "PLB",
+      "set": "idle",
+      "key": "BQ-R",
+      "sourceRect": [
+        567,
+        932,
+        54,
+        108
+      ],
+      "sourceCell": [
+        540,
+        928,
+        108,
+        116
+      ],
+      "actualCut": [
+        540,
+        928,
+        648,
+        1044
+      ],
+      "sourceSeeds": [],
+      "ax": 42.0,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        27,
+        4,
+        81,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        772,
+        592,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "PLB.idle.B",
+      "sheet": "PLB",
+      "set": "idle",
+      "key": "B",
+      "sourceRect": [
+        672,
+        933,
+        61,
+        107
+      ],
+      "sourceCell": [
+        648,
+        928,
+        108,
+        116
+      ],
+      "actualCut": [
+        648,
+        928,
+        756,
+        1044
+      ],
+      "sourceSeeds": [],
+      "ax": 46.0,
+      "ay": 112.0,
+      "ppm": 59.4,
+      "contentBounds": [
+        24,
+        5,
+        85,
+        112
+      ],
+      "sourceSHA256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        882,
+        592,
+        108,
+        116
+      ]
+    },
+    {
+      "id": "FPW.kick.1",
+      "sheet": "FPW",
+      "set": "kick",
+      "key": "1",
+      "sourceRect": [
+        3,
+        75,
+        72,
+        28
+      ],
+      "sourceCell": null,
+      "actualCut": [
+        3,
+        75,
+        75,
+        103
+      ],
+      "sourceSeeds": [
+        [
+          39,
+          91
+        ]
+      ],
+      "ax": 36.0,
+      "ay": 28,
+      "ppm": null,
+      "contentBounds": [
+        0,
+        0,
+        72,
+        28
+      ],
+      "sourceSHA256": "b8dcde97d45598e1a7d375b487467ac5fac7007f41415f97473068fc4382c85c",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        2,
+        72,
+        28
+      ]
+    },
+    {
+      "id": "FPW.kick.2",
+      "sheet": "FPW",
+      "set": "kick",
+      "key": "2",
+      "sourceRect": [
+        93,
+        58,
+        113,
+        45
+      ],
+      "sourceCell": null,
+      "actualCut": [
+        93,
+        58,
+        206,
+        103
+      ],
+      "sourceSeeds": [
+        [
+          148,
+          83
+        ]
+      ],
+      "ax": 56.5,
+      "ay": 45,
+      "ppm": null,
+      "contentBounds": [
+        0,
+        0,
+        113,
+        45
+      ],
+      "sourceSHA256": "b8dcde97d45598e1a7d375b487467ac5fac7007f41415f97473068fc4382c85c",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        76,
+        2,
+        113,
+        45
+      ]
+    },
+    {
+      "id": "FPW.kick.3",
+      "sheet": "FPW",
+      "set": "kick",
+      "key": "3",
+      "sourceRect": [
+        221,
+        0,
+        65,
+        103
+      ],
+      "sourceCell": null,
+      "actualCut": [
+        221,
+        0,
+        286,
+        103
+      ],
+      "sourceSeeds": [
+        [
+          258,
+          61
+        ]
+      ],
+      "ax": 32.5,
+      "ay": 103,
+      "ppm": null,
+      "contentBounds": [
+        0,
+        0,
+        65,
+        103
+      ],
+      "sourceSHA256": "b8dcde97d45598e1a7d375b487467ac5fac7007f41415f97473068fc4382c85c",
+      "method": "A",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        191,
+        2,
+        65,
+        103
+      ]
+    },
+    {
+      "id": "TH1.f09",
+      "sheet": "TH1",
+      "set": "f09",
+      "key": "",
+      "sourceRect": [
+        265,
+        145,
+        120,
+        111
+      ],
+      "sourceCell": null,
+      "actualCut": [
+        265,
+        145,
+        385,
+        256
+      ],
+      "sourceSeeds": [
+        [
+          328,
+          206
+        ]
+      ],
+      "ax": 60.0,
+      "ay": 111,
+      "ppm": null,
+      "contentBounds": [
+        0,
+        0,
+        120,
+        111
+      ],
+      "sourceSHA256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "method": "C",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        2,
+        120,
+        111
+      ]
+    },
+    {
+      "id": "TH1.f10",
+      "sheet": "TH1",
+      "set": "f10",
+      "key": "",
+      "sourceRect": [
+        344,
+        164,
+        250,
+        92
+      ],
+      "sourceCell": null,
+      "actualCut": [
+        344,
+        164,
+        594,
+        256
+      ],
+      "sourceSeeds": [
+        [
+          485,
+          217
+        ]
+      ],
+      "ax": 125.0,
+      "ay": 92,
+      "ppm": null,
+      "contentBounds": [
+        0,
+        0,
+        250,
+        92
+      ],
+      "sourceSHA256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "method": "C",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        124,
+        2,
+        250,
+        92
+      ]
+    },
+    {
+      "id": "TH1.f11",
+      "sheet": "TH1",
+      "set": "f11",
+      "key": "",
+      "sourceRect": [
+        0,
+        302,
+        104,
+        100
+      ],
+      "sourceCell": null,
+      "actualCut": [
+        0,
+        302,
+        104,
+        402
+      ],
+      "sourceSeeds": [
+        [
+          42,
+          356
+        ]
+      ],
+      "ax": 52.0,
+      "ay": 100,
+      "ppm": null,
+      "contentBounds": [
+        0,
+        0,
+        104,
+        100
+      ],
+      "sourceSHA256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "method": "C",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        376,
+        2,
+        104,
+        100
+      ]
+    },
+    {
+      "id": "TH1.f13",
+      "sheet": "TH1",
+      "set": "f13",
+      "key": "",
+      "sourceRect": [
+        196,
+        275,
+        130,
+        127
+      ],
+      "sourceCell": null,
+      "actualCut": [
+        196,
+        275,
+        326,
+        402
+      ],
+      "sourceSeeds": [
+        [
+          248,
+          344
+        ]
+      ],
+      "ax": 65.0,
+      "ay": 127,
+      "ppm": null,
+      "contentBounds": [
+        0,
+        0,
+        130,
+        127
+      ],
+      "sourceSHA256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "method": "C",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        482,
+        2,
+        130,
+        127
+      ]
+    },
+    {
+      "id": "TH1.f20",
+      "sheet": "TH1",
+      "set": "f20",
+      "key": "",
+      "sourceRect": [
+        328,
+        427,
+        57,
+        91
+      ],
+      "sourceCell": null,
+      "actualCut": [
+        328,
+        427,
+        385,
+        518
+      ],
+      "sourceSeeds": [
+        [
+          356,
+          474
+        ]
+      ],
+      "ax": 28.5,
+      "ay": 91,
+      "ppm": null,
+      "contentBounds": [
+        0,
+        0,
+        57,
+        91
+      ],
+      "sourceSHA256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "method": "C",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        614,
+        2,
+        57,
+        91
+      ]
+    },
+    {
+      "id": "TH1.f21",
+      "sheet": "TH1",
+      "set": "f21",
+      "key": "",
+      "sourceRect": [
+        393,
+        424,
+        56,
+        93
+      ],
+      "sourceCell": null,
+      "actualCut": [
+        393,
+        424,
+        449,
+        517
+      ],
+      "sourceSeeds": [
+        [
+          422,
+          476
+        ]
+      ],
+      "ax": 28.0,
+      "ay": 93,
+      "ppm": null,
+      "contentBounds": [
+        0,
+        0,
+        56,
+        93
+      ],
+      "sourceSHA256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "method": "C",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        673,
+        2,
+        56,
+        93
+      ]
+    },
+    {
+      "id": "GNC.idle.F@gray",
+      "sheet": "GNC",
+      "set": "idle",
+      "key": "F",
+      "sourceRect": [
+        28,
+        39,
+        37,
+        87
+      ],
+      "sourceCell": [
+        1,
+        34,
+        91,
+        92
+      ],
+      "actualCut": [
+        1,
+        21,
+        57,
+        78
+      ],
+      "sourceSeeds": [],
+      "ax": 25.717317487266552,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        16,
+        3,
+        39,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.idle.B@gray",
+      "sheet": "GNC",
+      "set": "idle",
+      "key": "B",
+      "sourceRect": [
+        394,
+        38,
+        40,
+        88
+      ],
+      "sourceCell": [
+        369,
+        34,
+        91,
+        92
+      ],
+      "actualCut": [
+        229,
+        21,
+        285,
+        78
+      ],
+      "sourceSeeds": [],
+      "ax": 28.196095076400677,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        15,
+        3,
+        40,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        60,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.idle.BQ-R@gray",
+      "sheet": "GNC",
+      "set": "idle",
+      "key": "BQ-R",
+      "sourceRect": [
+        490,
+        37,
+        32,
+        89
+      ],
+      "sourceCell": [
+        461,
+        34,
+        91,
+        92
+      ],
+      "actualCut": [
+        286,
+        21,
+        342,
+        78
+      ],
+      "sourceSeeds": [],
+      "ax": 27.886247877758912,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        18,
+        2,
+        37,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        118,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.idle.S-R@gray",
+      "sheet": "GNC",
+      "set": "idle",
+      "key": "S-R",
+      "sourceRect": [
+        588,
+        37,
+        21,
+        89
+      ],
+      "sourceCell": [
+        553,
+        34,
+        91,
+        92
+      ],
+      "actualCut": [
+        343,
+        21,
+        399,
+        78
+      ],
+      "sourceSeeds": [],
+      "ax": 28.81578947368421,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        22,
+        2,
+        34,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        176,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.idle.FQ-R@gray",
+      "sheet": "GNC",
+      "set": "idle",
+      "key": "FQ-R",
+      "sourceRect": [
+        674,
+        39,
+        33,
+        87
+      ],
+      "sourceCell": [
+        645,
+        34,
+        91,
+        92
+      ],
+      "actualCut": [
+        400,
+        21,
+        456,
+        78
+      ],
+      "sourceSeeds": [],
+      "ax": 28.505942275042443,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        18,
+        3,
+        37,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        234,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk1.F@gray",
+      "sheet": "GNC",
+      "set": "walk1",
+      "key": "F",
+      "sourceRect": [
+        28,
+        147,
+        37,
+        87
+      ],
+      "sourceCell": [
+        1,
+        142,
+        91,
+        92
+      ],
+      "actualCut": [
+        1,
+        88,
+        57,
+        145
+      ],
+      "sourceSeeds": [],
+      "ax": 26.337011884550083,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        16,
+        3,
+        39,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        292,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk2.F@gray",
+      "sheet": "GNC",
+      "set": "walk2",
+      "key": "F",
+      "sourceRect": [
+        119,
+        143,
+        38,
+        91
+      ],
+      "sourceCell": [
+        93,
+        142,
+        91,
+        92
+      ],
+      "actualCut": [
+        58,
+        88,
+        114,
+        145
+      ],
+      "sourceSeeds": [],
+      "ax": 22.92869269949066,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        16,
+        1,
+        39,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        350,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk3.F@gray",
+      "sheet": "GNC",
+      "set": "walk3",
+      "key": "F",
+      "sourceRect": [
+        212,
+        146,
+        37,
+        88
+      ],
+      "sourceCell": [
+        185,
+        142,
+        91,
+        92
+      ],
+      "actualCut": [
+        115,
+        88,
+        171,
+        145
+      ],
+      "sourceSeeds": [],
+      "ax": 30.05517826825127,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        17,
+        3,
+        39,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        408,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk4.F@gray",
+      "sheet": "GNC",
+      "set": "walk4",
+      "key": "F",
+      "sourceRect": [
+        304,
+        143,
+        36,
+        91
+      ],
+      "sourceCell": [
+        277,
+        142,
+        91,
+        92
+      ],
+      "actualCut": [
+        172,
+        88,
+        228,
+        145
+      ],
+      "sourceSeeds": [],
+      "ax": 30.674872665534803,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        17,
+        1,
+        39,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        466,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.shoot1.F@gray",
+      "sheet": "GNC",
+      "set": "shoot1",
+      "key": "F",
+      "sourceRect": [
+        397,
+        147,
+        35,
+        87
+      ],
+      "sourceCell": [
+        369,
+        142,
+        91,
+        92
+      ],
+      "actualCut": [
+        229,
+        88,
+        285,
+        145
+      ],
+      "sourceSeeds": [],
+      "ax": 26.64685908319185,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        17,
+        3,
+        38,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        524,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.shoot2.F@gray",
+      "sheet": "GNC",
+      "set": "shoot2",
+      "key": "F",
+      "sourceRect": [
+        492,
+        146,
+        29,
+        88
+      ],
+      "sourceCell": [
+        461,
+        142,
+        91,
+        92
+      ],
+      "actualCut": [
+        286,
+        88,
+        342,
+        145
+      ],
+      "sourceSeeds": [],
+      "ax": 26.027164685908318,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        19,
+        3,
+        37,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        582,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk1.B@gray",
+      "sheet": "GNC",
+      "set": "walk1",
+      "key": "B",
+      "sourceRect": [
+        27,
+        516,
+        39,
+        90
+      ],
+      "sourceCell": [
+        1,
+        514,
+        91,
+        92
+      ],
+      "actualCut": [
+        1,
+        319,
+        57,
+        376
+      ],
+      "sourceSeeds": [],
+      "ax": 29.125636672325975,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        16,
+        1,
+        40,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        640,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk2.B@gray",
+      "sheet": "GNC",
+      "set": "walk2",
+      "key": "B",
+      "sourceRect": [
+        119,
+        515,
+        39,
+        91
+      ],
+      "sourceCell": [
+        93,
+        514,
+        91,
+        92
+      ],
+      "actualCut": [
+        58,
+        319,
+        114,
+        376
+      ],
+      "sourceSeeds": [],
+      "ax": 27.886247877758912,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        16,
+        0,
+        40,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        698,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk3.B@gray",
+      "sheet": "GNC",
+      "set": "walk3",
+      "key": "B",
+      "sourceRect": [
+        212,
+        517,
+        37,
+        89
+      ],
+      "sourceCell": [
+        185,
+        514,
+        91,
+        92
+      ],
+      "actualCut": [
+        115,
+        319,
+        171,
+        376
+      ],
+      "sourceSeeds": [],
+      "ax": 27.26655348047538,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        17,
+        2,
+        39,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        756,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk4.B@gray",
+      "sheet": "GNC",
+      "set": "walk4",
+      "key": "B",
+      "sourceRect": [
+        305,
+        515,
+        35,
+        91
+      ],
+      "sourceCell": [
+        277,
+        514,
+        91,
+        92
+      ],
+      "actualCut": [
+        172,
+        319,
+        228,
+        376
+      ],
+      "sourceSeeds": [],
+      "ax": 29.43548387096774,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        17,
+        0,
+        39,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        814,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.shoot1.B@gray",
+      "sheet": "GNC",
+      "set": "shoot1",
+      "key": "B",
+      "sourceRect": [
+        396,
+        516,
+        36,
+        90
+      ],
+      "sourceCell": [
+        369,
+        514,
+        91,
+        92
+      ],
+      "actualCut": [
+        229,
+        319,
+        285,
+        376
+      ],
+      "sourceSeeds": [],
+      "ax": 27.26655348047538,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        17,
+        1,
+        39,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        872,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.shoot2.B@gray",
+      "sheet": "GNC",
+      "set": "shoot2",
+      "key": "B",
+      "sourceRect": [
+        485,
+        517,
+        42,
+        89
+      ],
+      "sourceCell": [
+        461,
+        514,
+        91,
+        92
+      ],
+      "actualCut": [
+        286,
+        319,
+        342,
+        376
+      ],
+      "sourceSeeds": [],
+      "ax": 24.47792869269949,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        15,
+        2,
+        40,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        930,
+        2,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk1.BQ-R@gray",
+      "sheet": "GNC",
+      "set": "walk1",
+      "key": "BQ-R",
+      "sourceRect": [
+        21,
+        611,
+        51,
+        88
+      ],
+      "sourceCell": [
+        1,
+        607,
+        91,
+        92
+      ],
+      "actualCut": [
+        1,
+        376,
+        57,
+        433
+      ],
+      "sourceSeeds": [],
+      "ax": 20.7597623089983,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        12,
+        3,
+        43,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk2.BQ-R@gray",
+      "sheet": "GNC",
+      "set": "walk2",
+      "key": "BQ-R",
+      "sourceRect": [
+        109,
+        611,
+        58,
+        88
+      ],
+      "sourceCell": [
+        93,
+        607,
+        91,
+        92
+      ],
+      "actualCut": [
+        58,
+        376,
+        114,
+        433
+      ],
+      "sourceSeeds": [],
+      "ax": 20.14006791171477,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        10,
+        3,
+        45,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        60,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk3.BQ-R@gray",
+      "sheet": "GNC",
+      "set": "walk3",
+      "key": "BQ-R",
+      "sourceRect": [
+        213,
+        612,
+        34,
+        87
+      ],
+      "sourceCell": [
+        185,
+        607,
+        91,
+        92
+      ],
+      "actualCut": [
+        115,
+        376,
+        171,
+        433
+      ],
+      "sourceSeeds": [],
+      "ax": 27.576400679117146,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        17,
+        3,
+        38,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        118,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk4.BQ-R@gray",
+      "sheet": "GNC",
+      "set": "walk4",
+      "key": "BQ-R",
+      "sourceRect": [
+        296,
+        611,
+        53,
+        88
+      ],
+      "sourceCell": [
+        277,
+        607,
+        91,
+        92
+      ],
+      "actualCut": [
+        172,
+        376,
+        228,
+        433
+      ],
+      "sourceSeeds": [],
+      "ax": 27.886247877758912,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        12,
+        3,
+        44,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        176,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.shoot1.BQ-R@gray",
+      "sheet": "GNC",
+      "set": "shoot1",
+      "key": "BQ-R",
+      "sourceRect": [
+        391,
+        611,
+        46,
+        88
+      ],
+      "sourceCell": [
+        369,
+        607,
+        91,
+        92
+      ],
+      "actualCut": [
+        229,
+        376,
+        285,
+        433
+      ],
+      "sourceSeeds": [],
+      "ax": 23.858234295415958,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        13,
+        3,
+        42,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        234,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.shoot2.BQ-R@gray",
+      "sheet": "GNC",
+      "set": "shoot2",
+      "key": "BQ-R",
+      "sourceRect": [
+        475,
+        611,
+        63,
+        88
+      ],
+      "sourceCell": [
+        461,
+        607,
+        91,
+        92
+      ],
+      "actualCut": [
+        286,
+        376,
+        342,
+        433
+      ],
+      "sourceSeeds": [],
+      "ax": 21.379456706281832,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        9,
+        3,
+        39,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        292,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk1.S-R@gray",
+      "sheet": "GNC",
+      "set": "walk1",
+      "key": "S-R",
+      "sourceRect": [
+        29,
+        704,
+        34,
+        88
+      ],
+      "sourceCell": [
+        1,
+        700,
+        91,
+        92
+      ],
+      "actualCut": [
+        1,
+        434,
+        57,
+        491
+      ],
+      "sourceSeeds": [],
+      "ax": 22.30899830220713,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        17,
+        3,
+        38,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        350,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk2.S-R@gray",
+      "sheet": "GNC",
+      "set": "walk2",
+      "key": "S-R",
+      "sourceRect": [
+        109,
+        707,
+        58,
+        85
+      ],
+      "sourceCell": [
+        93,
+        700,
+        91,
+        92
+      ],
+      "actualCut": [
+        58,
+        434,
+        114,
+        491
+      ],
+      "sourceSeeds": [],
+      "ax": 26.337011884550083,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        10,
+        4,
+        42,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        408,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk3.S-R@gray",
+      "sheet": "GNC",
+      "set": "walk3",
+      "key": "S-R",
+      "sourceRect": [
+        213,
+        705,
+        35,
+        87
+      ],
+      "sourceCell": [
+        185,
+        700,
+        91,
+        92
+      ],
+      "actualCut": [
+        115,
+        434,
+        171,
+        491
+      ],
+      "sourceSeeds": [],
+      "ax": 22.30899830220713,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        17,
+        3,
+        38,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        466,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk4.S-R@gray",
+      "sheet": "GNC",
+      "set": "walk4",
+      "key": "S-R",
+      "sourceRect": [
+        287,
+        704,
+        71,
+        88
+      ],
+      "sourceCell": [
+        277,
+        700,
+        91,
+        92
+      ],
+      "actualCut": [
+        172,
+        434,
+        228,
+        491
+      ],
+      "sourceSeeds": [],
+      "ax": 24.787775891341255,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        6,
+        3,
+        50,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        524,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.shoot1.S-R@gray",
+      "sheet": "GNC",
+      "set": "shoot1",
+      "key": "S-R",
+      "sourceRect": [
+        389,
+        704,
+        50,
+        88
+      ],
+      "sourceCell": [
+        369,
+        700,
+        91,
+        92
+      ],
+      "actualCut": [
+        229,
+        434,
+        285,
+        491
+      ],
+      "sourceSeeds": [],
+      "ax": 22.618845500848895,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        12,
+        3,
+        43,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        582,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.shoot2.S-R@gray",
+      "sheet": "GNC",
+      "set": "shoot2",
+      "key": "S-R",
+      "sourceRect": [
+        473,
+        705,
+        66,
+        87
+      ],
+      "sourceCell": [
+        461,
+        700,
+        91,
+        92
+      ],
+      "actualCut": [
+        286,
+        434,
+        342,
+        491
+      ],
+      "sourceSeeds": [],
+      "ax": 20.7597623089983,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        7,
+        3,
+        47,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        640,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk1.FQ-R@gray",
+      "sheet": "GNC",
+      "set": "walk1",
+      "key": "FQ-R",
+      "sourceRect": [
+        30,
+        797,
+        32,
+        88
+      ],
+      "sourceCell": [
+        1,
+        793,
+        91,
+        92
+      ],
+      "actualCut": [
+        1,
+        492,
+        57,
+        549
+      ],
+      "sourceSeeds": [],
+      "ax": 28.196095076400677,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        18,
+        2,
+        37,
+        56
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        698,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk2.FQ-R@gray",
+      "sheet": "GNC",
+      "set": "walk2",
+      "key": "FQ-R",
+      "sourceRect": [
+        115,
+        798,
+        46,
+        87
+      ],
+      "sourceCell": [
+        93,
+        793,
+        91,
+        92
+      ],
+      "actualCut": [
+        58,
+        492,
+        114,
+        549
+      ],
+      "sourceSeeds": [],
+      "ax": 28.196095076400677,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        13,
+        3,
+        41,
+        56
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        756,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk3.FQ-R@gray",
+      "sheet": "GNC",
+      "set": "walk3",
+      "key": "FQ-R",
+      "sourceRect": [
+        207,
+        797,
+        46,
+        88
+      ],
+      "sourceCell": [
+        185,
+        793,
+        91,
+        92
+      ],
+      "actualCut": [
+        115,
+        492,
+        171,
+        549
+      ],
+      "sourceSeeds": [],
+      "ax": 21.689303904923598,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        13,
+        2,
+        41,
+        56
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        814,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.walk4.FQ-R@gray",
+      "sheet": "GNC",
+      "set": "walk4",
+      "key": "FQ-R",
+      "sourceRect": [
+        290,
+        796,
+        64,
+        89
+      ],
+      "sourceCell": [
+        277,
+        793,
+        91,
+        92
+      ],
+      "actualCut": [
+        172,
+        492,
+        228,
+        549
+      ],
+      "sourceSeeds": [],
+      "ax": 23.548387096774192,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        8,
+        2,
+        47,
+        56
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        872,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.shoot1.FQ-R@gray",
+      "sheet": "GNC",
+      "set": "shoot1",
+      "key": "FQ-R",
+      "sourceRect": [
+        397,
+        798,
+        35,
+        87
+      ],
+      "sourceCell": [
+        369,
+        793,
+        91,
+        92
+      ],
+      "actualCut": [
+        229,
+        492,
+        285,
+        549
+      ],
+      "sourceSeeds": [],
+      "ax": 29.43548387096774,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        17,
+        3,
+        38,
+        56
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        930,
+        61,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.shoot2.FQ-R@gray",
+      "sheet": "GNC",
+      "set": "shoot2",
+      "key": "FQ-R",
+      "sourceRect": [
+        480,
+        798,
+        53,
+        87
+      ],
+      "sourceCell": [
+        461,
+        793,
+        91,
+        92
+      ],
+      "actualCut": [
+        286,
+        492,
+        342,
+        549
+      ],
+      "sourceSeeds": [],
+      "ax": 25.09762308998302,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        12,
+        3,
+        44,
+        56
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        2,
+        120,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.death_clean.1@gray",
+      "sheet": "GNC",
+      "set": "death_clean",
+      "key": "1",
+      "sourceRect": [
+        23,
+        1016,
+        46,
+        85
+      ],
+      "sourceCell": [
+        1,
+        1009,
+        91,
+        92
+      ],
+      "actualCut": [
+        1,
+        625,
+        57,
+        682
+      ],
+      "sourceSeeds": [],
+      "ax": 20.7597623089983,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        13,
+        5,
+        41,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        60,
+        120,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.death_clean.2@gray",
+      "sheet": "GNC",
+      "set": "death_clean",
+      "key": "2",
+      "sourceRect": [
+        108,
+        1024,
+        60,
+        77
+      ],
+      "sourceCell": [
+        93,
+        1009,
+        91,
+        92
+      ],
+      "actualCut": [
+        58,
+        625,
+        114,
+        682
+      ],
+      "sourceSeeds": [],
+      "ax": 23.858234295415958,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        9,
+        10,
+        43,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        118,
+        120,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.death_clean.3@gray",
+      "sheet": "GNC",
+      "set": "death_clean",
+      "key": "3",
+      "sourceRect": [
+        197,
+        1051,
+        66,
+        50
+      ],
+      "sourceCell": [
+        185,
+        1009,
+        91,
+        92
+      ],
+      "actualCut": [
+        115,
+        625,
+        171,
+        682
+      ],
+      "sourceSeeds": [],
+      "ax": 18.900679117147707,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        7,
+        27,
+        37,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        176,
+        120,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.death_clean.4@gray",
+      "sheet": "GNC",
+      "set": "death_clean",
+      "key": "4",
+      "sourceRect": [
+        294,
+        1056,
+        56,
+        45
+      ],
+      "sourceCell": [
+        277,
+        1009,
+        91,
+        92
+      ],
+      "actualCut": [
+        172,
+        625,
+        228,
+        682
+      ],
+      "sourceSeeds": [],
+      "ax": 30.674872665534803,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        10,
+        30,
+        36,
+        56
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        234,
+        120,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.death_clean.5@gray",
+      "sheet": "GNC",
+      "set": "death_clean",
+      "key": "5",
+      "sourceRect": [
+        374,
+        1069,
+        81,
+        32
+      ],
+      "sourceCell": [
+        369,
+        1009,
+        91,
+        92
+      ],
+      "actualCut": [
+        229,
+        625,
+        285,
+        682
+      ],
+      "sourceSeeds": [],
+      "ax": 30.05517826825127,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        3,
+        38,
+        53,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        292,
+        120,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.death_clean.6@gray",
+      "sheet": "GNC",
+      "set": "death_clean",
+      "key": "6",
+      "sourceRect": [
+        476,
+        1076,
+        61,
+        25
+      ],
+      "sourceCell": [
+        461,
+        1009,
+        91,
+        92
+      ],
+      "actualCut": [
+        286,
+        625,
+        342,
+        682
+      ],
+      "sourceSeeds": [],
+      "ax": 21.999151103565364,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        9,
+        42,
+        47,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        350,
+        120,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "GNC.death_clean.7@gray",
+      "sheet": "GNC",
+      "set": "death_clean",
+      "key": "7",
+      "sourceRect": [
+        563,
+        1077,
+        70,
+        24
+      ],
+      "sourceCell": [
+        553,
+        1009,
+        91,
+        92
+      ],
+      "actualCut": [
+        343,
+        625,
+        399,
+        682
+      ],
+      "sourceSeeds": [],
+      "ax": 16.112054329371816,
+      "ay": 57.02663438256659,
+      "ppm": 29.938983050847458,
+      "contentBounds": [
+        6,
+        43,
+        45,
+        57
+      ],
+      "sourceSHA256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8",
+      "method": "B_REVIEWED_RESIZE",
+      "mirroredAtRuntime": false,
+      "atlasRect": [
+        408,
+        120,
+        56,
+        57
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "PLB",
+      "name": "Tan humanoid",
+      "atlas": "action_atlas_PLB",
+      "height": 1.8,
+      "pxPerMetre": 59.4,
+      "frames": {
+        "PLB.run1.F": {
+          "x": 2,
+          "y": 2,
+          "w": 108,
+          "h": 116,
+          "ax": 58.5,
+          "ay": 114.0,
+          "ppm": 59.4,
+          "source": "PLB.run1.F"
+        },
+        "PLB.run1.FQ-R": {
+          "x": 112,
+          "y": 2,
+          "w": 108,
+          "h": 116,
+          "ax": 43.0,
+          "ay": 114.0,
+          "ppm": 59.4,
+          "source": "PLB.run1.FQ-R"
+        },
+        "PLB.run1.S-R": {
+          "x": 222,
+          "y": 2,
+          "w": 108,
+          "h": 116,
+          "ax": 36.0,
+          "ay": 113.0,
+          "ppm": 59.4,
+          "source": "PLB.run1.S-R"
+        },
+        "PLB.run1.BQ-R": {
+          "x": 332,
+          "y": 2,
+          "w": 108,
+          "h": 116,
+          "ax": 31.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.run1.BQ-R"
+        },
+        "PLB.run1.B": {
+          "x": 442,
+          "y": 2,
+          "w": 108,
+          "h": 116,
+          "ax": 45.0,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.run1.B"
+        },
+        "PLB.run2.F": {
+          "x": 552,
+          "y": 2,
+          "w": 108,
+          "h": 116,
+          "ax": 62.0,
+          "ay": 101.0,
+          "ppm": 59.4,
+          "source": "PLB.run2.F"
+        },
+        "PLB.run2.FQ-R": {
+          "x": 662,
+          "y": 2,
+          "w": 108,
+          "h": 116,
+          "ax": 26.0,
+          "ay": 105.0,
+          "ppm": 59.4,
+          "source": "PLB.run2.FQ-R"
+        },
+        "PLB.run2.S-R": {
+          "x": 772,
+          "y": 2,
+          "w": 108,
+          "h": 116,
+          "ax": 15.0,
+          "ay": 102.0,
+          "ppm": 59.4,
+          "source": "PLB.run2.S-R"
+        },
+        "PLB.run2.BQ-R": {
+          "x": 882,
+          "y": 2,
+          "w": 108,
+          "h": 116,
+          "ax": 46.5,
+          "ay": 102.0,
+          "ppm": 59.4,
+          "source": "PLB.run2.BQ-R"
+        },
+        "PLB.run2.B": {
+          "x": 2,
+          "y": 120,
+          "w": 108,
+          "h": 116,
+          "ax": 44.0,
+          "ay": 99.0,
+          "ppm": 59.4,
+          "source": "PLB.run2.B"
+        },
+        "PLB.run3.F": {
+          "x": 112,
+          "y": 120,
+          "w": 108,
+          "h": 116,
+          "ax": 45.0,
+          "ay": 106.0,
+          "ppm": 59.4,
+          "source": "PLB.run3.F"
+        },
+        "PLB.run3.FQ-R": {
+          "x": 222,
+          "y": 120,
+          "w": 108,
+          "h": 116,
+          "ax": 50.5,
+          "ay": 110.0,
+          "ppm": 59.4,
+          "source": "PLB.run3.FQ-R"
+        },
+        "PLB.run3.S-R": {
+          "x": 332,
+          "y": 120,
+          "w": 108,
+          "h": 116,
+          "ax": 73.0,
+          "ay": 108.0,
+          "ppm": 59.4,
+          "source": "PLB.run3.S-R"
+        },
+        "PLB.run3.BQ-R": {
+          "x": 442,
+          "y": 120,
+          "w": 108,
+          "h": 116,
+          "ax": 70.0,
+          "ay": 109.0,
+          "ppm": 59.4,
+          "source": "PLB.run3.BQ-R"
+        },
+        "PLB.run3.B": {
+          "x": 552,
+          "y": 120,
+          "w": 108,
+          "h": 116,
+          "ax": 63.0,
+          "ay": 107.0,
+          "ppm": 59.4,
+          "source": "PLB.run3.B"
+        },
+        "PLB.run4.F": {
+          "x": 662,
+          "y": 120,
+          "w": 108,
+          "h": 116,
+          "ax": 46.0,
+          "ay": 113.0,
+          "ppm": 59.4,
+          "source": "PLB.run4.F"
+        },
+        "PLB.run4.FQ-R": {
+          "x": 772,
+          "y": 120,
+          "w": 108,
+          "h": 116,
+          "ax": 30.5,
+          "ay": 113.0,
+          "ppm": 59.4,
+          "source": "PLB.run4.FQ-R"
+        },
+        "PLB.run4.S-R": {
+          "x": 882,
+          "y": 120,
+          "w": 108,
+          "h": 116,
+          "ax": 32.0,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.run4.S-R"
+        },
+        "PLB.run4.BQ-R": {
+          "x": 2,
+          "y": 238,
+          "w": 108,
+          "h": 116,
+          "ax": 46.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.run4.BQ-R"
+        },
+        "PLB.run4.B": {
+          "x": 112,
+          "y": 238,
+          "w": 108,
+          "h": 116,
+          "ax": 62.0,
+          "ay": 111.0,
+          "ppm": 59.4,
+          "source": "PLB.run4.B"
+        },
+        "PLB.run5.F": {
+          "x": 222,
+          "y": 238,
+          "w": 108,
+          "h": 116,
+          "ax": 39.0,
+          "ay": 114.0,
+          "ppm": 59.4,
+          "source": "PLB.run5.F"
+        },
+        "PLB.run5.FQ-R": {
+          "x": 332,
+          "y": 238,
+          "w": 108,
+          "h": 116,
+          "ax": 17.0,
+          "ay": 113.0,
+          "ppm": 59.4,
+          "source": "PLB.run5.FQ-R"
+        },
+        "PLB.run5.S-R": {
+          "x": 442,
+          "y": 238,
+          "w": 108,
+          "h": 116,
+          "ax": 39.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.run5.S-R"
+        },
+        "PLB.run5.BQ-R": {
+          "x": 552,
+          "y": 238,
+          "w": 108,
+          "h": 116,
+          "ax": 35.5,
+          "ay": 111.0,
+          "ppm": 59.4,
+          "source": "PLB.run5.BQ-R"
+        },
+        "PLB.run5.B": {
+          "x": 662,
+          "y": 238,
+          "w": 108,
+          "h": 116,
+          "ax": 63.0,
+          "ay": 110.0,
+          "ppm": 59.4,
+          "source": "PLB.run5.B"
+        },
+        "PLB.run6.F": {
+          "x": 772,
+          "y": 238,
+          "w": 108,
+          "h": 116,
+          "ax": 55.0,
+          "ay": 97.0,
+          "ppm": 59.4,
+          "source": "PLB.run6.F"
+        },
+        "PLB.run6.FQ-R": {
+          "x": 882,
+          "y": 238,
+          "w": 108,
+          "h": 116,
+          "ax": 80.0,
+          "ay": 101.0,
+          "ppm": 59.4,
+          "source": "PLB.run6.FQ-R"
+        },
+        "PLB.run6.S-R": {
+          "x": 2,
+          "y": 356,
+          "w": 108,
+          "h": 116,
+          "ax": 95.0,
+          "ay": 102.0,
+          "ppm": 59.4,
+          "source": "PLB.run6.S-R"
+        },
+        "PLB.run6.BQ-R": {
+          "x": 112,
+          "y": 356,
+          "w": 108,
+          "h": 116,
+          "ax": 70.5,
+          "ay": 103.0,
+          "ppm": 59.4,
+          "source": "PLB.run6.BQ-R"
+        },
+        "PLB.run6.B": {
+          "x": 222,
+          "y": 356,
+          "w": 108,
+          "h": 116,
+          "ax": 49.5,
+          "ay": 101.0,
+          "ppm": 59.4,
+          "source": "PLB.run6.B"
+        },
+        "PLB.pain.1": {
+          "x": 332,
+          "y": 356,
+          "w": 108,
+          "h": 116,
+          "ax": 54.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.pain.1"
+        },
+        "PLB.pain.2": {
+          "x": 442,
+          "y": 356,
+          "w": 108,
+          "h": 116,
+          "ax": 56.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.pain.2"
+        },
+        "PLB.pain.3": {
+          "x": 552,
+          "y": 356,
+          "w": 108,
+          "h": 116,
+          "ax": 54.0,
+          "ay": 111.0,
+          "ppm": 59.4,
+          "source": "PLB.pain.3"
+        },
+        "PLB.death.1": {
+          "x": 662,
+          "y": 356,
+          "w": 108,
+          "h": 116,
+          "ax": 55.5,
+          "ay": 106.0,
+          "ppm": 59.4,
+          "source": "PLB.death.1"
+        },
+        "PLB.death.2": {
+          "x": 772,
+          "y": 356,
+          "w": 108,
+          "h": 116,
+          "ax": 53.5,
+          "ay": 100.0,
+          "ppm": 59.4,
+          "source": "PLB.death.2"
+        },
+        "PLB.death.3": {
+          "x": 882,
+          "y": 356,
+          "w": 108,
+          "h": 116,
+          "ax": 54.0,
+          "ay": 96.0,
+          "ppm": 59.4,
+          "source": "PLB.death.3"
+        },
+        "PLB.death.4": {
+          "x": 2,
+          "y": 474,
+          "w": 108,
+          "h": 116,
+          "ax": 54.5,
+          "ay": 82.0,
+          "ppm": 59.4,
+          "source": "PLB.death.4"
+        },
+        "PLB.death.5": {
+          "x": 112,
+          "y": 474,
+          "w": 108,
+          "h": 116,
+          "ax": 53.0,
+          "ay": 69.0,
+          "ppm": 59.4,
+          "source": "PLB.death.5"
+        },
+        "PLB.death.6": {
+          "x": 222,
+          "y": 474,
+          "w": 108,
+          "h": 116,
+          "ax": 51.5,
+          "ay": 68.0,
+          "ppm": 59.4,
+          "source": "PLB.death.6"
+        },
+        "PLB.armsup.F": {
+          "x": 332,
+          "y": 474,
+          "w": 108,
+          "h": 116,
+          "ax": 55.0,
+          "ay": 113.0,
+          "ppm": 59.4,
+          "source": "PLB.armsup.F"
+        },
+        "PLB.armsup.FQ-R": {
+          "x": 442,
+          "y": 474,
+          "w": 108,
+          "h": 116,
+          "ax": 46.0,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.armsup.FQ-R"
+        },
+        "PLB.armsup.S-R": {
+          "x": 552,
+          "y": 474,
+          "w": 108,
+          "h": 116,
+          "ax": 45.0,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.armsup.S-R"
+        },
+        "PLB.armsup.BQ-R": {
+          "x": 662,
+          "y": 474,
+          "w": 108,
+          "h": 116,
+          "ax": 41.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.armsup.BQ-R"
+        },
+        "PLB.armsup.B": {
+          "x": 772,
+          "y": 474,
+          "w": 108,
+          "h": 116,
+          "ax": 47.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.armsup.B"
+        },
+        "PLB.ready.F": {
+          "x": 882,
+          "y": 474,
+          "w": 108,
+          "h": 116,
+          "ax": 58.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.ready.F"
+        },
+        "PLB.ready.FQ-R": {
+          "x": 2,
+          "y": 592,
+          "w": 108,
+          "h": 116,
+          "ax": 51.0,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.ready.FQ-R"
+        },
+        "PLB.ready.S-R": {
+          "x": 112,
+          "y": 592,
+          "w": 108,
+          "h": 116,
+          "ax": 49.0,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.ready.S-R"
+        },
+        "PLB.ready.BQ-R": {
+          "x": 222,
+          "y": 592,
+          "w": 108,
+          "h": 116,
+          "ax": 44.0,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.ready.BQ-R"
+        },
+        "PLB.ready.B": {
+          "x": 332,
+          "y": 592,
+          "w": 108,
+          "h": 116,
+          "ax": 46.0,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.ready.B"
+        },
+        "PLB.idle.F": {
+          "x": 442,
+          "y": 592,
+          "w": 108,
+          "h": 116,
+          "ax": 59.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.idle.F"
+        },
+        "PLB.idle.FQ-R": {
+          "x": 552,
+          "y": 592,
+          "w": 108,
+          "h": 116,
+          "ax": 51.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.idle.FQ-R"
+        },
+        "PLB.idle.S-R": {
+          "x": 662,
+          "y": 592,
+          "w": 108,
+          "h": 116,
+          "ax": 47.5,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.idle.S-R"
+        },
+        "PLB.idle.BQ-R": {
+          "x": 772,
+          "y": 592,
+          "w": 108,
+          "h": 116,
+          "ax": 42.0,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.idle.BQ-R"
+        },
+        "PLB.idle.B": {
+          "x": 882,
+          "y": 592,
+          "w": 108,
+          "h": 116,
+          "ax": 46.0,
+          "ay": 112.0,
+          "ppm": 59.4,
+          "source": "PLB.idle.B"
+        }
+      },
+      "states": {
+        "stand": {
+          "front": [
+            "PLB.idle.F"
+          ],
+          "q": [
+            "PLB.idle.FQ-R"
+          ],
+          "side": [
+            "PLB.idle.S-R"
+          ],
+          "bq": [
+            "PLB.idle.BQ-R"
+          ],
+          "back": [
+            "PLB.idle.B"
+          ]
+        },
+        "walk": {
+          "front": [
+            "PLB.run1.F",
+            "PLB.run2.F",
+            "PLB.run3.F",
+            "PLB.run4.F",
+            "PLB.run5.F",
+            "PLB.run6.F"
+          ],
+          "q": [
+            "PLB.run1.FQ-R",
+            "PLB.run2.FQ-R",
+            "PLB.run3.FQ-R",
+            "PLB.run4.FQ-R",
+            "PLB.run5.FQ-R",
+            "PLB.run6.FQ-R"
+          ],
+          "side": [
+            "PLB.run1.S-R",
+            "PLB.run2.S-R",
+            "PLB.run3.S-R",
+            "PLB.run4.S-R",
+            "PLB.run5.S-R",
+            "PLB.run6.S-R"
+          ],
+          "bq": [
+            "PLB.run1.BQ-R",
+            "PLB.run2.BQ-R",
+            "PLB.run3.BQ-R",
+            "PLB.run4.BQ-R",
+            "PLB.run5.BQ-R",
+            "PLB.run6.BQ-R"
+          ],
+          "back": [
+            "PLB.run1.B",
+            "PLB.run2.B",
+            "PLB.run3.B",
+            "PLB.run4.B",
+            "PLB.run5.B",
+            "PLB.run6.B"
+          ]
+        },
+        "run": {
+          "front": [
+            "PLB.run1.F",
+            "PLB.run2.F",
+            "PLB.run3.F",
+            "PLB.run4.F",
+            "PLB.run5.F",
+            "PLB.run6.F"
+          ],
+          "q": [
+            "PLB.run1.FQ-R",
+            "PLB.run2.FQ-R",
+            "PLB.run3.FQ-R",
+            "PLB.run4.FQ-R",
+            "PLB.run5.FQ-R",
+            "PLB.run6.FQ-R"
+          ],
+          "side": [
+            "PLB.run1.S-R",
+            "PLB.run2.S-R",
+            "PLB.run3.S-R",
+            "PLB.run4.S-R",
+            "PLB.run5.S-R",
+            "PLB.run6.S-R"
+          ],
+          "bq": [
+            "PLB.run1.BQ-R",
+            "PLB.run2.BQ-R",
+            "PLB.run3.BQ-R",
+            "PLB.run4.BQ-R",
+            "PLB.run5.BQ-R",
+            "PLB.run6.BQ-R"
+          ],
+          "back": [
+            "PLB.run1.B",
+            "PLB.run2.B",
+            "PLB.run3.B",
+            "PLB.run4.B",
+            "PLB.run5.B",
+            "PLB.run6.B"
+          ]
+        },
+        "aim": {
+          "front": [
+            "PLB.ready.F"
+          ],
+          "q": [
+            "PLB.ready.FQ-R"
+          ],
+          "side": [
+            "PLB.ready.S-R"
+          ],
+          "bq": [
+            "PLB.ready.BQ-R"
+          ],
+          "back": [
+            "PLB.ready.B"
+          ]
+        },
+        "flinch": {
+          "front": [
+            "PLB.pain.1",
+            "PLB.pain.2",
+            "PLB.pain.3"
+          ],
+          "q": [
+            "PLB.pain.1",
+            "PLB.pain.2",
+            "PLB.pain.3"
+          ],
+          "side": [
+            "PLB.pain.1",
+            "PLB.pain.2",
+            "PLB.pain.3"
+          ],
+          "bq": [
+            "PLB.pain.1",
+            "PLB.pain.2",
+            "PLB.pain.3"
+          ],
+          "back": [
+            "PLB.pain.1",
+            "PLB.pain.2",
+            "PLB.pain.3"
+          ]
+        },
+        "airborne": {
+          "front": [
+            "PLB.armsup.F"
+          ],
+          "q": [
+            "PLB.armsup.FQ-R"
+          ],
+          "side": [
+            "PLB.armsup.S-R"
+          ],
+          "bq": [
+            "PLB.armsup.BQ-R"
+          ],
+          "back": [
+            "PLB.armsup.B"
+          ]
+        },
+        "held": {
+          "front": [
+            "PLB.idle.F"
+          ],
+          "q": [
+            "PLB.idle.FQ-R"
+          ],
+          "side": [
+            "PLB.idle.S-R"
+          ],
+          "bq": [
+            "PLB.idle.BQ-R"
+          ],
+          "back": [
+            "PLB.idle.B"
+          ]
+        },
+        "thrown": {
+          "front": [
+            "PLB.pain.1"
+          ],
+          "q": [
+            "PLB.pain.1"
+          ],
+          "side": [
+            "PLB.pain.1"
+          ],
+          "bq": [
+            "PLB.pain.1"
+          ],
+          "back": [
+            "PLB.pain.1"
+          ]
+        },
+        "land": {
+          "front": [
+            "PLB.idle.F"
+          ],
+          "q": [
+            "PLB.idle.FQ-R"
+          ],
+          "side": [
+            "PLB.idle.S-R"
+          ],
+          "bq": [
+            "PLB.idle.BQ-R"
+          ],
+          "back": [
+            "PLB.idle.B"
+          ]
+        },
+        "down": {
+          "front": [
+            "PLB.death.1",
+            "PLB.death.2",
+            "PLB.death.3",
+            "PLB.death.4",
+            "PLB.death.5",
+            "PLB.death.6"
+          ],
+          "q": [
+            "PLB.death.1",
+            "PLB.death.2",
+            "PLB.death.3",
+            "PLB.death.4",
+            "PLB.death.5",
+            "PLB.death.6"
+          ],
+          "side": [
+            "PLB.death.1",
+            "PLB.death.2",
+            "PLB.death.3",
+            "PLB.death.4",
+            "PLB.death.5",
+            "PLB.death.6"
+          ],
+          "bq": [
+            "PLB.death.1",
+            "PLB.death.2",
+            "PLB.death.3",
+            "PLB.death.4",
+            "PLB.death.5",
+            "PLB.death.6"
+          ],
+          "back": [
+            "PLB.death.1",
+            "PLB.death.2",
+            "PLB.death.3",
+            "PLB.death.4",
+            "PLB.death.5",
+            "PLB.death.6"
+          ]
+        },
+        "punch": {
+          "front": [
+            "PLB.ready.F"
+          ],
+          "q": [
+            "PLB.ready.FQ-R"
+          ],
+          "side": [
+            "PLB.ready.S-R"
+          ],
+          "bq": [
+            "PLB.ready.BQ-R"
+          ],
+          "back": [
+            "PLB.ready.B"
+          ]
+        },
+        "kick": {
+          "front": [
+            "PLB.ready.F"
+          ],
+          "q": [
+            "PLB.ready.FQ-R"
+          ],
+          "side": [
+            "PLB.ready.S-R"
+          ],
+          "bq": [
+            "PLB.ready.BQ-R"
+          ],
+          "back": [
+            "PLB.ready.B"
+          ]
+        },
+        "grab": {
+          "front": [
+            "PLB.idle.F"
+          ],
+          "q": [
+            "PLB.idle.FQ-R"
+          ],
+          "side": [
+            "PLB.idle.S-R"
+          ],
+          "bq": [
+            "PLB.idle.BQ-R"
+          ],
+          "back": [
+            "PLB.idle.B"
+          ]
+        },
+        "fire": {
+          "front": [
+            "PLB.ready.F"
+          ],
+          "q": [
+            "PLB.ready.FQ-R"
+          ],
+          "side": [
+            "PLB.ready.S-R"
+          ],
+          "bq": [
+            "PLB.ready.BQ-R"
+          ],
+          "back": [
+            "PLB.ready.B"
+          ]
+        }
+      },
+      "playback": {
+        "walk": 8,
+        "run": 12,
+        "flinch": 9,
+        "down": 9,
+        "fire": 12
+      },
+      "fallbacks": {
+        "airborne": "armsup",
+        "held": "own idle",
+        "thrown": "own pain/death-start",
+        "land": "own idle",
+        "externalPunchKickGrab": "own ready/idle; no new artwork"
+      },
+      "physicalBoundsSource": "Explicit shared actor profile, never this image"
+    },
+    {
+      "id": "GNC",
+      "name": "Gray pistol defender",
+      "atlas": "action_atlas_GNC",
+      "height": 1.8,
+      "pxPerMetre": 29.938983050847458,
+      "frames": {
+        "GNC.idle.F@gray": {
+          "x": 2,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 25.717317487266552,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.idle.F@gray"
+        },
+        "GNC.idle.B@gray": {
+          "x": 60,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 28.196095076400677,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.idle.B@gray"
+        },
+        "GNC.idle.BQ-R@gray": {
+          "x": 118,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 27.886247877758912,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.idle.BQ-R@gray"
+        },
+        "GNC.idle.S-R@gray": {
+          "x": 176,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 28.81578947368421,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.idle.S-R@gray"
+        },
+        "GNC.idle.FQ-R@gray": {
+          "x": 234,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 28.505942275042443,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.idle.FQ-R@gray"
+        },
+        "GNC.walk1.F@gray": {
+          "x": 292,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 26.337011884550083,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk1.F@gray"
+        },
+        "GNC.walk2.F@gray": {
+          "x": 350,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 22.92869269949066,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk2.F@gray"
+        },
+        "GNC.walk3.F@gray": {
+          "x": 408,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 30.05517826825127,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk3.F@gray"
+        },
+        "GNC.walk4.F@gray": {
+          "x": 466,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 30.674872665534803,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk4.F@gray"
+        },
+        "GNC.shoot1.F@gray": {
+          "x": 524,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 26.64685908319185,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.shoot1.F@gray"
+        },
+        "GNC.shoot2.F@gray": {
+          "x": 582,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 26.027164685908318,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.shoot2.F@gray"
+        },
+        "GNC.walk1.B@gray": {
+          "x": 640,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 29.125636672325975,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk1.B@gray"
+        },
+        "GNC.walk2.B@gray": {
+          "x": 698,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 27.886247877758912,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk2.B@gray"
+        },
+        "GNC.walk3.B@gray": {
+          "x": 756,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 27.26655348047538,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk3.B@gray"
+        },
+        "GNC.walk4.B@gray": {
+          "x": 814,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 29.43548387096774,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk4.B@gray"
+        },
+        "GNC.shoot1.B@gray": {
+          "x": 872,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 27.26655348047538,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.shoot1.B@gray"
+        },
+        "GNC.shoot2.B@gray": {
+          "x": 930,
+          "y": 2,
+          "w": 56,
+          "h": 57,
+          "ax": 24.47792869269949,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.shoot2.B@gray"
+        },
+        "GNC.walk1.BQ-R@gray": {
+          "x": 2,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 20.7597623089983,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk1.BQ-R@gray"
+        },
+        "GNC.walk2.BQ-R@gray": {
+          "x": 60,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 20.14006791171477,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk2.BQ-R@gray"
+        },
+        "GNC.walk3.BQ-R@gray": {
+          "x": 118,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 27.576400679117146,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk3.BQ-R@gray"
+        },
+        "GNC.walk4.BQ-R@gray": {
+          "x": 176,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 27.886247877758912,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk4.BQ-R@gray"
+        },
+        "GNC.shoot1.BQ-R@gray": {
+          "x": 234,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 23.858234295415958,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.shoot1.BQ-R@gray"
+        },
+        "GNC.shoot2.BQ-R@gray": {
+          "x": 292,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 21.379456706281832,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.shoot2.BQ-R@gray"
+        },
+        "GNC.walk1.S-R@gray": {
+          "x": 350,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 22.30899830220713,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk1.S-R@gray"
+        },
+        "GNC.walk2.S-R@gray": {
+          "x": 408,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 26.337011884550083,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk2.S-R@gray"
+        },
+        "GNC.walk3.S-R@gray": {
+          "x": 466,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 22.30899830220713,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk3.S-R@gray"
+        },
+        "GNC.walk4.S-R@gray": {
+          "x": 524,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 24.787775891341255,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk4.S-R@gray"
+        },
+        "GNC.shoot1.S-R@gray": {
+          "x": 582,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 22.618845500848895,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.shoot1.S-R@gray"
+        },
+        "GNC.shoot2.S-R@gray": {
+          "x": 640,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 20.7597623089983,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.shoot2.S-R@gray"
+        },
+        "GNC.walk1.FQ-R@gray": {
+          "x": 698,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 28.196095076400677,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk1.FQ-R@gray"
+        },
+        "GNC.walk2.FQ-R@gray": {
+          "x": 756,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 28.196095076400677,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk2.FQ-R@gray"
+        },
+        "GNC.walk3.FQ-R@gray": {
+          "x": 814,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 21.689303904923598,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk3.FQ-R@gray"
+        },
+        "GNC.walk4.FQ-R@gray": {
+          "x": 872,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 23.548387096774192,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.walk4.FQ-R@gray"
+        },
+        "GNC.shoot1.FQ-R@gray": {
+          "x": 930,
+          "y": 61,
+          "w": 56,
+          "h": 57,
+          "ax": 29.43548387096774,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.shoot1.FQ-R@gray"
+        },
+        "GNC.shoot2.FQ-R@gray": {
+          "x": 2,
+          "y": 120,
+          "w": 56,
+          "h": 57,
+          "ax": 25.09762308998302,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.shoot2.FQ-R@gray"
+        },
+        "GNC.death_clean.1@gray": {
+          "x": 60,
+          "y": 120,
+          "w": 56,
+          "h": 57,
+          "ax": 20.7597623089983,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.death_clean.1@gray"
+        },
+        "GNC.death_clean.2@gray": {
+          "x": 118,
+          "y": 120,
+          "w": 56,
+          "h": 57,
+          "ax": 23.858234295415958,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.death_clean.2@gray"
+        },
+        "GNC.death_clean.3@gray": {
+          "x": 176,
+          "y": 120,
+          "w": 56,
+          "h": 57,
+          "ax": 18.900679117147707,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.death_clean.3@gray"
+        },
+        "GNC.death_clean.4@gray": {
+          "x": 234,
+          "y": 120,
+          "w": 56,
+          "h": 57,
+          "ax": 30.674872665534803,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.death_clean.4@gray"
+        },
+        "GNC.death_clean.5@gray": {
+          "x": 292,
+          "y": 120,
+          "w": 56,
+          "h": 57,
+          "ax": 30.05517826825127,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.death_clean.5@gray"
+        },
+        "GNC.death_clean.6@gray": {
+          "x": 350,
+          "y": 120,
+          "w": 56,
+          "h": 57,
+          "ax": 21.999151103565364,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.death_clean.6@gray"
+        },
+        "GNC.death_clean.7@gray": {
+          "x": 408,
+          "y": 120,
+          "w": 56,
+          "h": 57,
+          "ax": 16.112054329371816,
+          "ay": 57.02663438256659,
+          "ppm": 29.938983050847458,
+          "source": "GNC.death_clean.7@gray"
+        }
+      },
+      "states": {
+        "stand": {
+          "front": [
+            "GNC.idle.F@gray"
+          ],
+          "q": [
+            "GNC.idle.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.idle.S-R@gray"
+          ],
+          "bq": [
+            "GNC.idle.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.idle.B@gray"
+          ]
+        },
+        "walk": {
+          "front": [
+            "GNC.walk1.F@gray",
+            "GNC.walk2.F@gray",
+            "GNC.walk3.F@gray",
+            "GNC.walk4.F@gray"
+          ],
+          "q": [
+            "GNC.walk1.FQ-R@gray",
+            "GNC.walk2.FQ-R@gray",
+            "GNC.walk3.FQ-R@gray",
+            "GNC.walk4.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.walk1.S-R@gray",
+            "GNC.walk2.S-R@gray",
+            "GNC.walk3.S-R@gray",
+            "GNC.walk4.S-R@gray"
+          ],
+          "bq": [
+            "GNC.walk1.BQ-R@gray",
+            "GNC.walk2.BQ-R@gray",
+            "GNC.walk3.BQ-R@gray",
+            "GNC.walk4.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.walk1.B@gray",
+            "GNC.walk2.B@gray",
+            "GNC.walk3.B@gray",
+            "GNC.walk4.B@gray"
+          ]
+        },
+        "run": {
+          "front": [
+            "GNC.walk1.F@gray",
+            "GNC.walk2.F@gray",
+            "GNC.walk3.F@gray",
+            "GNC.walk4.F@gray"
+          ],
+          "q": [
+            "GNC.walk1.FQ-R@gray",
+            "GNC.walk2.FQ-R@gray",
+            "GNC.walk3.FQ-R@gray",
+            "GNC.walk4.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.walk1.S-R@gray",
+            "GNC.walk2.S-R@gray",
+            "GNC.walk3.S-R@gray",
+            "GNC.walk4.S-R@gray"
+          ],
+          "bq": [
+            "GNC.walk1.BQ-R@gray",
+            "GNC.walk2.BQ-R@gray",
+            "GNC.walk3.BQ-R@gray",
+            "GNC.walk4.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.walk1.B@gray",
+            "GNC.walk2.B@gray",
+            "GNC.walk3.B@gray",
+            "GNC.walk4.B@gray"
+          ]
+        },
+        "aim": {
+          "front": [
+            "GNC.shoot1.F@gray"
+          ],
+          "q": [
+            "GNC.shoot1.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.shoot1.S-R@gray"
+          ],
+          "bq": [
+            "GNC.shoot1.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.shoot1.B@gray"
+          ]
+        },
+        "flinch": {
+          "front": [
+            "GNC.death_clean.1@gray"
+          ],
+          "q": [
+            "GNC.death_clean.1@gray"
+          ],
+          "side": [
+            "GNC.death_clean.1@gray"
+          ],
+          "bq": [
+            "GNC.death_clean.1@gray"
+          ],
+          "back": [
+            "GNC.death_clean.1@gray"
+          ]
+        },
+        "airborne": {
+          "front": [
+            "GNC.idle.F@gray"
+          ],
+          "q": [
+            "GNC.idle.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.idle.S-R@gray"
+          ],
+          "bq": [
+            "GNC.idle.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.idle.B@gray"
+          ]
+        },
+        "held": {
+          "front": [
+            "GNC.idle.F@gray"
+          ],
+          "q": [
+            "GNC.idle.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.idle.S-R@gray"
+          ],
+          "bq": [
+            "GNC.idle.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.idle.B@gray"
+          ]
+        },
+        "thrown": {
+          "front": [
+            "GNC.death_clean.1@gray"
+          ],
+          "q": [
+            "GNC.death_clean.1@gray"
+          ],
+          "side": [
+            "GNC.death_clean.1@gray"
+          ],
+          "bq": [
+            "GNC.death_clean.1@gray"
+          ],
+          "back": [
+            "GNC.death_clean.1@gray"
+          ]
+        },
+        "land": {
+          "front": [
+            "GNC.idle.F@gray"
+          ],
+          "q": [
+            "GNC.idle.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.idle.S-R@gray"
+          ],
+          "bq": [
+            "GNC.idle.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.idle.B@gray"
+          ]
+        },
+        "down": {
+          "front": [
+            "GNC.death_clean.1@gray",
+            "GNC.death_clean.2@gray",
+            "GNC.death_clean.3@gray",
+            "GNC.death_clean.4@gray",
+            "GNC.death_clean.5@gray",
+            "GNC.death_clean.6@gray",
+            "GNC.death_clean.7@gray"
+          ],
+          "q": [
+            "GNC.death_clean.1@gray",
+            "GNC.death_clean.2@gray",
+            "GNC.death_clean.3@gray",
+            "GNC.death_clean.4@gray",
+            "GNC.death_clean.5@gray",
+            "GNC.death_clean.6@gray",
+            "GNC.death_clean.7@gray"
+          ],
+          "side": [
+            "GNC.death_clean.1@gray",
+            "GNC.death_clean.2@gray",
+            "GNC.death_clean.3@gray",
+            "GNC.death_clean.4@gray",
+            "GNC.death_clean.5@gray",
+            "GNC.death_clean.6@gray",
+            "GNC.death_clean.7@gray"
+          ],
+          "bq": [
+            "GNC.death_clean.1@gray",
+            "GNC.death_clean.2@gray",
+            "GNC.death_clean.3@gray",
+            "GNC.death_clean.4@gray",
+            "GNC.death_clean.5@gray",
+            "GNC.death_clean.6@gray",
+            "GNC.death_clean.7@gray"
+          ],
+          "back": [
+            "GNC.death_clean.1@gray",
+            "GNC.death_clean.2@gray",
+            "GNC.death_clean.3@gray",
+            "GNC.death_clean.4@gray",
+            "GNC.death_clean.5@gray",
+            "GNC.death_clean.6@gray",
+            "GNC.death_clean.7@gray"
+          ]
+        },
+        "punch": {
+          "front": [
+            "GNC.idle.F@gray"
+          ],
+          "q": [
+            "GNC.idle.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.idle.S-R@gray"
+          ],
+          "bq": [
+            "GNC.idle.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.idle.B@gray"
+          ]
+        },
+        "kick": {
+          "front": [
+            "GNC.idle.F@gray"
+          ],
+          "q": [
+            "GNC.idle.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.idle.S-R@gray"
+          ],
+          "bq": [
+            "GNC.idle.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.idle.B@gray"
+          ]
+        },
+        "grab": {
+          "front": [
+            "GNC.idle.F@gray"
+          ],
+          "q": [
+            "GNC.idle.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.idle.S-R@gray"
+          ],
+          "bq": [
+            "GNC.idle.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.idle.B@gray"
+          ]
+        },
+        "fire": {
+          "front": [
+            "GNC.shoot1.F@gray",
+            "GNC.shoot2.F@gray"
+          ],
+          "q": [
+            "GNC.shoot1.FQ-R@gray",
+            "GNC.shoot2.FQ-R@gray"
+          ],
+          "side": [
+            "GNC.shoot1.S-R@gray",
+            "GNC.shoot2.S-R@gray"
+          ],
+          "bq": [
+            "GNC.shoot1.BQ-R@gray",
+            "GNC.shoot2.BQ-R@gray"
+          ],
+          "back": [
+            "GNC.shoot1.B@gray",
+            "GNC.shoot2.B@gray"
+          ]
+        }
+      },
+      "playback": {
+        "walk": 8,
+        "run": 12,
+        "flinch": 9,
+        "down": 9,
+        "fire": 12
+      },
+      "fallbacks": {
+        "airborne": "own idle",
+        "held": "own idle",
+        "thrown": "own pain/death-start",
+        "land": "own idle",
+        "externalPunchKickGrab": "own ready/idle; no new artwork"
+      },
+      "physicalBoundsSource": "Explicit shared actor profile, never this image"
+    },
+    {
+      "id": "GNR",
+      "name": "Rifle defender",
+      "atlas": "action_atlas_GNR",
+      "height": 1.8,
+      "pxPerMetre": 48.6,
+      "frames": {
+        "GNR.run1.F": {
+          "x": 2,
+          "y": 2,
+          "w": 100,
+          "h": 100,
+          "ax": 51.5,
+          "ay": 94.0,
+          "ppm": 48.6,
+          "source": "GNR.run1.F"
+        },
+        "GNR.run1.FQ-L": {
+          "x": 104,
+          "y": 2,
+          "w": 100,
+          "h": 100,
+          "ax": 61.0,
+          "ay": 94.0,
+          "ppm": 48.6,
+          "source": "GNR.run1.FQ-L"
+        },
+        "GNR.run1.S-L": {
+          "x": 206,
+          "y": 2,
+          "w": 100,
+          "h": 100,
+          "ax": 60.5,
+          "ay": 94.0,
+          "ppm": 48.6,
+          "source": "GNR.run1.S-L"
+        },
+        "GNR.run1.BQ-L": {
+          "x": 308,
+          "y": 2,
+          "w": 100,
+          "h": 100,
+          "ax": 54.5,
+          "ay": 94.0,
+          "ppm": 48.6,
+          "source": "GNR.run1.BQ-L"
+        },
+        "GNR.run1.B": {
+          "x": 410,
+          "y": 2,
+          "w": 100,
+          "h": 100,
+          "ax": 47.0,
+          "ay": 94.0,
+          "ppm": 48.6,
+          "source": "GNR.run1.B"
+        },
+        "GNR.run2.F": {
+          "x": 512,
+          "y": 2,
+          "w": 100,
+          "h": 100,
+          "ax": 42.0,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.run2.F"
+        },
+        "GNR.run2.FQ-L": {
+          "x": 614,
+          "y": 2,
+          "w": 100,
+          "h": 100,
+          "ax": 60.5,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.run2.FQ-L"
+        },
+        "GNR.run2.S-L": {
+          "x": 716,
+          "y": 2,
+          "w": 100,
+          "h": 100,
+          "ax": 69.5,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.run2.S-L"
+        },
+        "GNR.run2.BQ-L": {
+          "x": 818,
+          "y": 2,
+          "w": 100,
+          "h": 100,
+          "ax": 66.0,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.run2.BQ-L"
+        },
+        "GNR.run2.B": {
+          "x": 920,
+          "y": 2,
+          "w": 100,
+          "h": 100,
+          "ax": 56.0,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.run2.B"
+        },
+        "GNR.run3.F": {
+          "x": 2,
+          "y": 104,
+          "w": 100,
+          "h": 100,
+          "ax": 53.0,
+          "ay": 94.0,
+          "ppm": 48.6,
+          "source": "GNR.run3.F"
+        },
+        "GNR.run3.FQ-L": {
+          "x": 104,
+          "y": 104,
+          "w": 100,
+          "h": 100,
+          "ax": 67.0,
+          "ay": 94.0,
+          "ppm": 48.6,
+          "source": "GNR.run3.FQ-L"
+        },
+        "GNR.run3.S-L": {
+          "x": 206,
+          "y": 104,
+          "w": 100,
+          "h": 100,
+          "ax": 62.0,
+          "ay": 94.0,
+          "ppm": 48.6,
+          "source": "GNR.run3.S-L"
+        },
+        "GNR.run3.BQ-L": {
+          "x": 308,
+          "y": 104,
+          "w": 100,
+          "h": 100,
+          "ax": 52.0,
+          "ay": 94.0,
+          "ppm": 48.6,
+          "source": "GNR.run3.BQ-L"
+        },
+        "GNR.run3.B": {
+          "x": 410,
+          "y": 104,
+          "w": 100,
+          "h": 100,
+          "ax": 50.0,
+          "ay": 94.0,
+          "ppm": 48.6,
+          "source": "GNR.run3.B"
+        },
+        "GNR.run4.F": {
+          "x": 512,
+          "y": 104,
+          "w": 100,
+          "h": 100,
+          "ax": 61.0,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.run4.F"
+        },
+        "GNR.run4.FQ-L": {
+          "x": 614,
+          "y": 104,
+          "w": 100,
+          "h": 100,
+          "ax": 72.5,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.run4.FQ-L"
+        },
+        "GNR.run4.S-L": {
+          "x": 716,
+          "y": 104,
+          "w": 100,
+          "h": 100,
+          "ax": 64.5,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.run4.S-L"
+        },
+        "GNR.run4.BQ-L": {
+          "x": 818,
+          "y": 104,
+          "w": 100,
+          "h": 100,
+          "ax": 46.5,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.run4.BQ-L"
+        },
+        "GNR.run4.B": {
+          "x": 920,
+          "y": 104,
+          "w": 100,
+          "h": 100,
+          "ax": 38.5,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.run4.B"
+        },
+        "GNR.aim.F": {
+          "x": 2,
+          "y": 206,
+          "w": 100,
+          "h": 100,
+          "ax": 51.5,
+          "ay": 95.0,
+          "ppm": 48.6,
+          "source": "GNR.aim.F"
+        },
+        "GNR.aim.FQ-L": {
+          "x": 104,
+          "y": 206,
+          "w": 100,
+          "h": 100,
+          "ax": 65.5,
+          "ay": 95.0,
+          "ppm": 48.6,
+          "source": "GNR.aim.FQ-L"
+        },
+        "GNR.aim.S-L": {
+          "x": 206,
+          "y": 206,
+          "w": 100,
+          "h": 100,
+          "ax": 62.0,
+          "ay": 95.0,
+          "ppm": 48.6,
+          "source": "GNR.aim.S-L"
+        },
+        "GNR.aim.BQ-L": {
+          "x": 308,
+          "y": 206,
+          "w": 100,
+          "h": 100,
+          "ax": 49.5,
+          "ay": 95.0,
+          "ppm": 48.6,
+          "source": "GNR.aim.BQ-L"
+        },
+        "GNR.aim.B": {
+          "x": 410,
+          "y": 206,
+          "w": 100,
+          "h": 100,
+          "ax": 47.5,
+          "ay": 95.0,
+          "ppm": 48.6,
+          "source": "GNR.aim.B"
+        },
+        "GNR.fire.F": {
+          "x": 512,
+          "y": 206,
+          "w": 100,
+          "h": 100,
+          "ax": 56.5,
+          "ay": 95.0,
+          "ppm": 48.6,
+          "source": "GNR.fire.F"
+        },
+        "GNR.fire.FQ-L": {
+          "x": 614,
+          "y": 206,
+          "w": 100,
+          "h": 100,
+          "ax": 77.5,
+          "ay": 95.0,
+          "ppm": 48.6,
+          "source": "GNR.fire.FQ-L"
+        },
+        "GNR.fire.S-L": {
+          "x": 716,
+          "y": 206,
+          "w": 100,
+          "h": 100,
+          "ax": 74.0,
+          "ay": 95.0,
+          "ppm": 48.6,
+          "source": "GNR.fire.S-L"
+        },
+        "GNR.fire.BQ-L": {
+          "x": 818,
+          "y": 206,
+          "w": 100,
+          "h": 100,
+          "ax": 59.5,
+          "ay": 95.0,
+          "ppm": 48.6,
+          "source": "GNR.fire.BQ-L"
+        },
+        "GNR.fire.B": {
+          "x": 920,
+          "y": 206,
+          "w": 100,
+          "h": 100,
+          "ax": 41.5,
+          "ay": 95.0,
+          "ppm": 48.6,
+          "source": "GNR.fire.B"
+        },
+        "GNR.death.1": {
+          "x": 2,
+          "y": 308,
+          "w": 100,
+          "h": 100,
+          "ax": 58.0,
+          "ay": 91.0,
+          "ppm": 48.6,
+          "source": "GNR.death.1"
+        },
+        "GNR.death.2": {
+          "x": 104,
+          "y": 308,
+          "w": 100,
+          "h": 100,
+          "ax": 64.0,
+          "ay": 96.0,
+          "ppm": 48.6,
+          "source": "GNR.death.2"
+        },
+        "GNR.death.3": {
+          "x": 206,
+          "y": 308,
+          "w": 100,
+          "h": 100,
+          "ax": 43.0,
+          "ay": 87.0,
+          "ppm": 48.6,
+          "source": "GNR.death.3"
+        },
+        "GNR.death.4": {
+          "x": 308,
+          "y": 308,
+          "w": 100,
+          "h": 100,
+          "ax": 50.5,
+          "ay": 82.0,
+          "ppm": 48.6,
+          "source": "GNR.death.4"
+        },
+        "GNR.death.5": {
+          "x": 410,
+          "y": 308,
+          "w": 100,
+          "h": 100,
+          "ax": 27.0,
+          "ay": 62.0,
+          "ppm": 48.6,
+          "source": "GNR.death.5"
+        }
+      },
+      "states": {
+        "stand": {
+          "front": [
+            "GNR.aim.F"
+          ],
+          "q": [
+            "GNR.aim.FQ-L|m"
+          ],
+          "side": [
+            "GNR.aim.S-L|m"
+          ],
+          "bq": [
+            "GNR.aim.BQ-L|m"
+          ],
+          "back": [
+            "GNR.aim.B"
+          ]
+        },
+        "walk": {
+          "front": [
+            "GNR.run1.F",
+            "GNR.run2.F",
+            "GNR.run3.F",
+            "GNR.run4.F"
+          ],
+          "q": [
+            "GNR.run1.FQ-L|m",
+            "GNR.run2.FQ-L|m",
+            "GNR.run3.FQ-L|m",
+            "GNR.run4.FQ-L|m"
+          ],
+          "side": [
+            "GNR.run1.S-L|m",
+            "GNR.run2.S-L|m",
+            "GNR.run3.S-L|m",
+            "GNR.run4.S-L|m"
+          ],
+          "bq": [
+            "GNR.run1.BQ-L|m",
+            "GNR.run2.BQ-L|m",
+            "GNR.run3.BQ-L|m",
+            "GNR.run4.BQ-L|m"
+          ],
+          "back": [
+            "GNR.run1.B",
+            "GNR.run2.B",
+            "GNR.run3.B",
+            "GNR.run4.B"
+          ]
+        },
+        "run": {
+          "front": [
+            "GNR.run1.F",
+            "GNR.run2.F",
+            "GNR.run3.F",
+            "GNR.run4.F"
+          ],
+          "q": [
+            "GNR.run1.FQ-L|m",
+            "GNR.run2.FQ-L|m",
+            "GNR.run3.FQ-L|m",
+            "GNR.run4.FQ-L|m"
+          ],
+          "side": [
+            "GNR.run1.S-L|m",
+            "GNR.run2.S-L|m",
+            "GNR.run3.S-L|m",
+            "GNR.run4.S-L|m"
+          ],
+          "bq": [
+            "GNR.run1.BQ-L|m",
+            "GNR.run2.BQ-L|m",
+            "GNR.run3.BQ-L|m",
+            "GNR.run4.BQ-L|m"
+          ],
+          "back": [
+            "GNR.run1.B",
+            "GNR.run2.B",
+            "GNR.run3.B",
+            "GNR.run4.B"
+          ]
+        },
+        "aim": {
+          "front": [
+            "GNR.aim.F"
+          ],
+          "q": [
+            "GNR.aim.FQ-L|m"
+          ],
+          "side": [
+            "GNR.aim.S-L|m"
+          ],
+          "bq": [
+            "GNR.aim.BQ-L|m"
+          ],
+          "back": [
+            "GNR.aim.B"
+          ]
+        },
+        "flinch": {
+          "front": [
+            "GNR.death.1"
+          ],
+          "q": [
+            "GNR.death.1"
+          ],
+          "side": [
+            "GNR.death.1"
+          ],
+          "bq": [
+            "GNR.death.1"
+          ],
+          "back": [
+            "GNR.death.1"
+          ]
+        },
+        "airborne": {
+          "front": [
+            "GNR.aim.F"
+          ],
+          "q": [
+            "GNR.aim.FQ-L|m"
+          ],
+          "side": [
+            "GNR.aim.S-L|m"
+          ],
+          "bq": [
+            "GNR.aim.BQ-L|m"
+          ],
+          "back": [
+            "GNR.aim.B"
+          ]
+        },
+        "held": {
+          "front": [
+            "GNR.aim.F"
+          ],
+          "q": [
+            "GNR.aim.FQ-L|m"
+          ],
+          "side": [
+            "GNR.aim.S-L|m"
+          ],
+          "bq": [
+            "GNR.aim.BQ-L|m"
+          ],
+          "back": [
+            "GNR.aim.B"
+          ]
+        },
+        "thrown": {
+          "front": [
+            "GNR.death.1"
+          ],
+          "q": [
+            "GNR.death.1"
+          ],
+          "side": [
+            "GNR.death.1"
+          ],
+          "bq": [
+            "GNR.death.1"
+          ],
+          "back": [
+            "GNR.death.1"
+          ]
+        },
+        "land": {
+          "front": [
+            "GNR.aim.F"
+          ],
+          "q": [
+            "GNR.aim.FQ-L|m"
+          ],
+          "side": [
+            "GNR.aim.S-L|m"
+          ],
+          "bq": [
+            "GNR.aim.BQ-L|m"
+          ],
+          "back": [
+            "GNR.aim.B"
+          ]
+        },
+        "down": {
+          "front": [
+            "GNR.death.1",
+            "GNR.death.2",
+            "GNR.death.3",
+            "GNR.death.4",
+            "GNR.death.5"
+          ],
+          "q": [
+            "GNR.death.1",
+            "GNR.death.2",
+            "GNR.death.3",
+            "GNR.death.4",
+            "GNR.death.5"
+          ],
+          "side": [
+            "GNR.death.1",
+            "GNR.death.2",
+            "GNR.death.3",
+            "GNR.death.4",
+            "GNR.death.5"
+          ],
+          "bq": [
+            "GNR.death.1",
+            "GNR.death.2",
+            "GNR.death.3",
+            "GNR.death.4",
+            "GNR.death.5"
+          ],
+          "back": [
+            "GNR.death.1",
+            "GNR.death.2",
+            "GNR.death.3",
+            "GNR.death.4",
+            "GNR.death.5"
+          ]
+        },
+        "punch": {
+          "front": [
+            "GNR.aim.F"
+          ],
+          "q": [
+            "GNR.aim.FQ-L|m"
+          ],
+          "side": [
+            "GNR.aim.S-L|m"
+          ],
+          "bq": [
+            "GNR.aim.BQ-L|m"
+          ],
+          "back": [
+            "GNR.aim.B"
+          ]
+        },
+        "kick": {
+          "front": [
+            "GNR.aim.F"
+          ],
+          "q": [
+            "GNR.aim.FQ-L|m"
+          ],
+          "side": [
+            "GNR.aim.S-L|m"
+          ],
+          "bq": [
+            "GNR.aim.BQ-L|m"
+          ],
+          "back": [
+            "GNR.aim.B"
+          ]
+        },
+        "grab": {
+          "front": [
+            "GNR.aim.F"
+          ],
+          "q": [
+            "GNR.aim.FQ-L|m"
+          ],
+          "side": [
+            "GNR.aim.S-L|m"
+          ],
+          "bq": [
+            "GNR.aim.BQ-L|m"
+          ],
+          "back": [
+            "GNR.aim.B"
+          ]
+        },
+        "fire": {
+          "front": [
+            "GNR.fire.F"
+          ],
+          "q": [
+            "GNR.fire.FQ-L|m"
+          ],
+          "side": [
+            "GNR.fire.S-L|m"
+          ],
+          "bq": [
+            "GNR.fire.BQ-L|m"
+          ],
+          "back": [
+            "GNR.fire.B"
+          ]
+        }
+      },
+      "playback": {
+        "walk": 8,
+        "run": 12,
+        "flinch": 9,
+        "down": 9,
+        "fire": 12
+      },
+      "fallbacks": {
+        "airborne": "own idle",
+        "held": "own idle",
+        "thrown": "own pain/death-start",
+        "land": "own idle",
+        "externalPunchKickGrab": "own ready/idle; no new artwork"
+      },
+      "physicalBoundsSource": "Explicit shared actor profile, never this image"
+    }
+  ],
+  "firstperson": {
+    "TH1": {
+      "atlas": "action_atlas_TH1",
+      "frames": {
+        "TH1.f09": {
+          "x": 2,
+          "y": 2,
+          "w": 120,
+          "h": 111,
+          "ax": 60.0,
+          "ay": 111,
+          "ppm": null,
+          "source": "TH1.f09"
+        },
+        "TH1.f10": {
+          "x": 124,
+          "y": 2,
+          "w": 250,
+          "h": 92,
+          "ax": 125.0,
+          "ay": 92,
+          "ppm": null,
+          "source": "TH1.f10"
+        },
+        "TH1.f11": {
+          "x": 376,
+          "y": 2,
+          "w": 104,
+          "h": 100,
+          "ax": 52.0,
+          "ay": 100,
+          "ppm": null,
+          "source": "TH1.f11"
+        },
+        "TH1.f13": {
+          "x": 482,
+          "y": 2,
+          "w": 130,
+          "h": 127,
+          "ax": 65.0,
+          "ay": 127,
+          "ppm": null,
+          "source": "TH1.f13"
+        },
+        "TH1.f20": {
+          "x": 614,
+          "y": 2,
+          "w": 57,
+          "h": 91,
+          "ax": 28.5,
+          "ay": 91,
+          "ppm": null,
+          "source": "TH1.f20"
+        },
+        "TH1.f21": {
+          "x": 673,
+          "y": 2,
+          "w": 56,
+          "h": 93,
+          "ax": 28.0,
+          "ay": 93,
+          "ppm": null,
+          "source": "TH1.f21"
+        }
+      }
+    },
+    "FPW": {
+      "atlas": "action_atlas_FPW",
+      "frames": {
+        "FPW.kick.1": {
+          "x": 2,
+          "y": 2,
+          "w": 72,
+          "h": 28,
+          "ax": 36.0,
+          "ay": 28,
+          "ppm": null,
+          "source": "FPW.kick.1"
+        },
+        "FPW.kick.2": {
+          "x": 76,
+          "y": 2,
+          "w": 113,
+          "h": 45,
+          "ax": 56.5,
+          "ay": 45,
+          "ppm": null,
+          "source": "FPW.kick.2"
+        },
+        "FPW.kick.3": {
+          "x": 191,
+          "y": 2,
+          "w": 65,
+          "h": 103,
+          "ax": 32.5,
+          "ay": 103,
+          "ppm": null,
+          "source": "FPW.kick.3"
+        }
+      }
+    }
+  },
+  "standIns": [
+    "FPW boot kick does not match barefoot player",
+    "Held/thrown/landing external art uses identity-preserving fallback",
+    "GNC is the supplied smaller, antialiased copy, not manifest-original bytes"
+  ]
+}
