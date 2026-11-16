@@ -1,0 +1,54 @@
+{
+  "schema": "first-encounter-controls-sketch@0.1",
+  "name": "Teddy Sketch A",
+  "status": "experimental_editable_not_frozen",
+  "units": "milliseconds and normalized guard level",
+  "implementation_status": "proposal only; not wired into inherited playable",
+  "bindings": {
+    "move_forward": "KeyW",
+    "move_back": "KeyS",
+    "move_left": "KeyA",
+    "move_right": "KeyD",
+    "look": "PointerDelta",
+    "readiness_toggle": "KeyR",
+    "light": "Mouse0Down",
+    "heavy_or_reach": "Mouse2Sequence",
+    "guard_raise": "WheelUp",
+    "guard_lower": "WheelDown",
+    "jump_future": "Space",
+    "kick_knee_future": "KeyFSequence",
+    "message_future": "KeyQ",
+    "dev_swap": "Tab"
+  },
+  "thresholds": {
+    "right_tap_max_ms": 150,
+    "input_buffer_ms": 150,
+    "queued_actions_max": 1,
+    "guard_steps": 5
+  },
+  "right_button_resolution": {
+    "quick_release": "heavy only when fists are up, hands free and legal; no outcome on unavailable hand",
+    "hold": "commit reach preview after tap threshold; no automatic heavy on release",
+    "committed_miss_release": "withdraw",
+    "pickup_future": "item latches at acquisition; originating release is consumed",
+    "sustained_attachment_future": "person or climb/vault node requires continued hold",
+    "throwable_future": "subsequent hold plus wheel up enters wind; release produces authored power/arc",
+    "firearm_future": "contextual melee",
+    "proper_melee_weapon_future": "not designed; no invented action"
+  },
+  "guard": {
+    "persistent_stance_request": true,
+    "actual_coverage": "depends on hand occupancy, stance, facing and active phase",
+    "wheel_while_throw_winding_future": "throw wind, never simultaneously guard"
+  },
+  "parry": "eligible light-hand interception; raising guard is ordinary defense, not parry",
+  "rebind_policy": "raw events normalized to semantic actions; profile import/export; same semantic trace has same mechanical outcome; ergonomic feel may differ",
+  "reserved_not_implemented": [
+    "jump improvements",
+    "kick/knee/wall boost",
+    "grips/clinch",
+    "throwing",
+    "weapons",
+    "Q messages"
+  ]
+}

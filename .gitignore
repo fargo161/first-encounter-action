@@ -1,0 +1,15 @@
+# Generated execution artifacts, not the supplied evidence/source.
+__pycache__/
+*.pyc
+node_modules/
+.playwright/
+.cache/
+.tmp/
+.env
+.env.*
+!.env.example
+game/evidence_v0_3/
+evidence/execution/
+dist/
+*.log.tmp
+# Do not commit credentials or platform service configs containing secrets.

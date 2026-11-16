@@ -1,0 +1,95 @@
+{
+  "schema": "first-encounter-preparation-source-lock@0.2",
+  "date": "2026-11-16",
+  "authorization": "Owner-authorized independent new-game copy only; original repositories and vendor snapshot read-only. Controls experimental. No game implementation performed by preparation packet.",
+  "github_connection": {
+    "login_read": "fargo161",
+    "read_verified": true,
+    "remote_writes_performed": false,
+    "in_scope_tools": "read-only in this preparation session",
+    "target_get_repo_result": "404: target not accessible/confirmed, not proof of nonexistence",
+    "target": "fargo161/first-encounter-action",
+    "cloud_environment_verified": false
+  },
+  "repositories": [
+    {
+      "role": "encounter-canonical",
+      "repository": "fargo161/First-Encounter-Game",
+      "ref": "main",
+      "commit": "76a92fd82ac5ec6f10748f0b439a5d661fff5ea5",
+      "purpose": "Protected identity/causal architecture; not the latest action source",
+      "access": "read-only",
+      "ref_observed_live": true,
+      "full_repository_audited": false
+    },
+    {
+      "role": "encounter-design-producer",
+      "repository": "fargo161/First-Encounter-Game",
+      "ref": "codex/economy-substrate-v0.1-accepted-baseline",
+      "commit": "cc8371c3c497edcdcfb8a73ec7da9dad4663847a",
+      "purpose": "Bounded semantic design reference, not a dependency of a punch",
+      "access": "read-only",
+      "ref_observed_live": true,
+      "full_repository_audited": false
+    },
+    {
+      "role": "encounter-lab-review",
+      "repository": "fargo161/first-encounter-lab",
+      "ref": "codex/headless-v0-3-part-a-2026-11-15",
+      "commit": "704ec51d571b05fa93ab17052e0ee07193e04066",
+      "purpose": "Scoped communication/decision donor; no existing martial-arts brain",
+      "access": "read-only",
+      "ref_observed_live": true,
+      "full_repository_audited": false
+    },
+    {
+      "role": "body-reference",
+      "repository": "fargo161/2d-doll",
+      "ref": "main",
+      "commit": "30c8134b75b3a6c28e9b43528d24f0684b77b900",
+      "purpose": "Pose architecture; no requirement to finish the editor",
+      "access": "read-only",
+      "ref_observed_live": true,
+      "full_repository_audited": false
+    },
+    {
+      "role": "based-reference",
+      "repository": "fargo161/based-expression-foundation",
+      "ref": "main",
+      "commit": "6a839824cd5398497eae6892298b8942a58a275a",
+      "purpose": "Five cues, 20 ordered pairs, face conventions; later feature",
+      "access": "read-only",
+      "ref_observed_live": true,
+      "full_repository_audited": false
+    },
+    {
+      "role": "message-reference",
+      "repository": "fargo161/dpa-message-foundations-v01",
+      "ref": "main",
+      "commit": "9d38f7c6c1673bf8f421393ba33542d7747a0da5",
+      "purpose": "Protected BASED/message foundation; no ready Punchline combat modifiers",
+      "access": "read-only",
+      "ref_observed_live": true,
+      "full_repository_audited": false
+    }
+  ],
+  "source_donor": {
+    "local_path": "vendor/room-action-v0.3.1",
+    "version": "0.3.1",
+    "original_archive_entries": 1081,
+    "original_archive_sha256": "450d08e5099a6992786a95ed227ac3131c1d0edb12dc81c5f06c8ce80a8a307f",
+    "packet_files": 110,
+    "file_lock": "config/DONOR_FILE_LOCK.json",
+    "subset": true,
+    "rebuild_byte_identical": true
+  },
+  "unavailable_later_source": {
+    "versions": [
+      "0.3.2",
+      "0.3.3"
+    ],
+    "status": "indexed documentation known; raw materialization unavailable",
+    "policy": "do not block the new hands mode; do not claim inherited later fixes"
+  },
+  "runtime_policy": "No network, LLM, GitHub or cloud service required during play; upstream repos are pinned references, not six mandatory live services."
+}

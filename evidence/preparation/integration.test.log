@@ -1,0 +1,146 @@
+PASS Derived scene validates with exactly one Vehicle World car
+PASS Every preset actor begins clear at authored physical support
+PASS Actual ROOM floor slab obstructs cross-floor sight
+PASS Normal jump inputs acquire moving roof; 1.5 seconds support error bounded
+PASS Roof departure inherits vehicle velocity once and lands away from car
+PASS Mistimed car landing produces contact/fall, not free roof snap
+PASS Driver preserves stopping: distant pedestrian stops approach without injury
+PASS Near pedestrian impact produces one injury episode
+PASS Height-separated body is excluded from planar vehicle pedestrian contacts
+PASS Throw aimed at crossing vehicle meets shared collision and causes injury
+PASS Throw breaches module once and opens collision/sight/authored route
+PASS Breach outcome is independent of decorative effects
+PASS Throw off actual bridge clears ledge and resolves hard landing below
+PASS Control swap while held preserves relationship and rejects held locomotion
+PASS Counter uses common strike action after being hit and recovering
+PASS Test controller stays inactive until hit, not a hidden tactical brain
+PASS Actor size changes are parameters, not appearance-based physics
+PASS Fresh repeated reset construction has no stale holds/support/actions
+PASS Real scene replay 30/60/144 Hz produces same state and event trace
+{
+  "passed": 19,
+  "total": 19,
+  "results": [
+    {
+      "name": "Derived scene validates with exactly one Vehicle World car",
+      "status": "PASS"
+    },
+    {
+      "name": "Every preset actor begins clear at authored physical support",
+      "status": "PASS"
+    },
+    {
+      "name": "Actual ROOM floor slab obstructs cross-floor sight",
+      "status": "PASS"
+    },
+    {
+      "name": "Normal jump inputs acquire moving roof; 1.5 seconds support error bounded",
+      "status": "PASS"
+    },
+    {
+      "name": "Roof departure inherits vehicle velocity once and lands away from car",
+      "status": "PASS"
+    },
+    {
+      "name": "Mistimed car landing produces contact/fall, not free roof snap",
+      "status": "PASS"
+    },
+    {
+      "name": "Driver preserves stopping: distant pedestrian stops approach without injury",
+      "status": "PASS"
+    },
+    {
+      "name": "Near pedestrian impact produces one injury episode",
+      "status": "PASS"
+    },
+    {
+      "name": "Height-separated body is excluded from planar vehicle pedestrian contacts",
+      "status": "PASS"
+    },
+    {
+      "name": "Throw aimed at crossing vehicle meets shared collision and causes injury",
+      "status": "PASS"
+    },
+    {
+      "name": "Throw breaches module once and opens collision/sight/authored route",
+      "status": "PASS"
+    },
+    {
+      "name": "Breach outcome is independent of decorative effects",
+      "status": "PASS"
+    },
+    {
+      "name": "Throw off actual bridge clears ledge and resolves hard landing below",
+      "status": "PASS"
+    },
+    {
+      "name": "Control swap while held preserves relationship and rejects held locomotion",
+      "status": "PASS"
+    },
+    {
+      "name": "Counter uses common strike action after being hit and recovering",
+      "status": "PASS"
+    },
+    {
+      "name": "Test controller stays inactive until hit, not a hidden tactical brain",
+      "status": "PASS"
+    },
+    {
+      "name": "Actor size changes are parameters, not appearance-based physics",
+      "status": "PASS"
+    },
+    {
+      "name": "Fresh repeated reset construction has no stale holds/support/actions",
+      "status": "PASS"
+    },
+    {
+      "name": "Real scene replay 30/60/144 Hz produces same state and event trace",
+      "status": "PASS"
+    }
+  ],
+  "metrics": {
+    "carRide": {
+      "seconds": 1.5,
+      "maxError": 4.134651732101702e-9,
+      "measurement": "Expected position from fixed pre-ride local offset, not recomputed offset",
+      "tolerance": 0.00001,
+      "travel": 6.750000000000254
+    },
+    "departure": {
+      "position": [
+        7.399652777777977,
+        18.204024765254278,
+        0
+      ],
+      "health": 2
+    },
+    "stoppedApproach": {
+      "carX": -5.534524620256382,
+      "speed": 0.007785995188772351,
+      "health": 2
+    },
+    "nearImpact": {
+      "id": "physical:000004",
+      "tick": 9,
+      "time": 0.0375,
+      "type": "injury",
+      "target": "proof01__person_a",
+      "before": 2,
+      "after": 1,
+      "amount": 1,
+      "cause": "physical:000003",
+      "kind": "vehicle"
+    },
+    "replay": {
+      "rates": [
+        30,
+        60,
+        144
+      ],
+      "ticks": 600,
+      "stateTolerance": 0,
+      "eventTrace": "exact"
+    }
+  }
+}
+

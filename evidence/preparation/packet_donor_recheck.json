@@ -1,0 +1,101 @@
+{
+  "scope": "Inherited v0.3.1 subset only, not the proposed new game",
+  "time_utc": "2026-11-16T18:08:02.487716+00:00",
+  "commands": [
+    {
+      "name": "generate-scene",
+      "command": [
+        "node",
+        "tools/make_pressure_scene.cjs"
+      ],
+      "exit_code": 0,
+      "timed_out": false
+    },
+    {
+      "name": "build-host",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "source/build.py"
+      ],
+      "exit_code": 0,
+      "timed_out": false
+    },
+    {
+      "name": "build-playable",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "source/build_pressure_play.py"
+      ],
+      "exit_code": 0,
+      "timed_out": false
+    },
+    {
+      "name": "physical",
+      "command": [
+        "node",
+        "tests/action_proof/physical.test.js"
+      ],
+      "exit_code": 0,
+      "timed_out": false
+    },
+    {
+      "name": "edge_cases",
+      "command": [
+        "node",
+        "tests/action_proof/edge_cases.test.js"
+      ],
+      "exit_code": 0,
+      "timed_out": false
+    },
+    {
+      "name": "integration",
+      "command": [
+        "node",
+        "tests/action_proof/integration.test.js"
+      ],
+      "exit_code": 0,
+      "timed_out": false
+    },
+    {
+      "name": "degradation_occupancy_v031",
+      "command": [
+        "node",
+        "tests/action_proof/degradation_occupancy_v031.test.js"
+      ],
+      "exit_code": 0,
+      "timed_out": false
+    },
+    {
+      "name": "pressure",
+      "command": [
+        "node",
+        "tests/action_proof/pressure.test.js"
+      ],
+      "exit_code": 0,
+      "timed_out": false
+    }
+  ],
+  "comparisons": [
+    {
+      "path": "Room_Creator.html",
+      "byte_equal": true,
+      "shipped_sha256": "1e36e7d5107a114f187a85dbb7c185fe99347e77c6713e2269f033f65084dba5",
+      "rebuilt_sha256": "1e36e7d5107a114f187a85dbb7c185fe99347e77c6713e2269f033f65084dba5"
+    },
+    {
+      "path": "Play_Action_Playground_v0_3_1.html",
+      "byte_equal": true,
+      "shipped_sha256": "5118b0f00431b765847525f1a6fc711f06f02a2a0252995e64a2e94584183185",
+      "rebuilt_sha256": "5118b0f00431b765847525f1a6fc711f06f02a2a0252995e64a2e94584183185"
+    },
+    {
+      "path": "examples/Action_Physical_Proof_v0_3.room.json",
+      "byte_equal": true,
+      "shipped_sha256": "2a11c97ccab558f40874cc6bf54d9c91caad0312cafc8753f8af49c068840522",
+      "rebuilt_sha256": "2a11c97ccab558f40874cc6bf54d9c91caad0312cafc8753f8af49c068840522"
+    }
+  ],
+  "claude_findings": "NOT_RUN: prior preparation timed out; retained in source",
+  "protected_source_errors_after": [],
+  "selected_checks_result": "PASS"
+}

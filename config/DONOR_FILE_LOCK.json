@@ -1,0 +1,557 @@
+{
+  "original_archive_sha256": "450d08e5099a6992786a95ed227ac3131c1d0edb12dc81c5f06c8ce80a8a307f",
+  "snapshot_is_subset": true,
+  "snapshot_purpose": "reproducible action baseline; not the complete 1081-file archive",
+  "files": [
+    {
+      "path": "vendor/room-action-v0.3.1/ACTION_PLAYGROUND_v0_3_1_INTEGRITY_REPORT.md",
+      "bytes": 5801,
+      "sha256": "99fa701dce12fc16f8cb44ec02e5589e5920a2d22495853189c46adca3322cf2"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/README_FIRST.md",
+      "bytes": 1419,
+      "sha256": "8b7a148359edc241dbbef264144cdd7f770ad860829bd32cd2d6250f9527aa11"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/Play_Action_Playground_v0_3_1.html",
+      "bytes": 5674498,
+      "sha256": "5118b0f00431b765847525f1a6fc711f06f02a2a0252995e64a2e94584183185"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/Room_Creator.html",
+      "bytes": 2489543,
+      "sha256": "1e36e7d5107a114f187a85dbb7c185fe99347e77c6713e2269f033f65084dba5"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_pressure/ASSET_SUBSET_MANIFEST.json",
+      "bytes": 190454,
+      "sha256": "f045cee81a0c206bcfc2a856ba009cf0815c6d95a92d4ab65e8ad20ce4efda58"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_pressure/FPW_atlas.png",
+      "bytes": 16013,
+      "sha256": "8b44dafe3a8e31e33e367ba2d896c138f6dfe0c712eadc8548eaac1e44a5340e"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_pressure/HAND_CONTACT_SHEET.png",
+      "bytes": 150431,
+      "sha256": "5706858e734df1592ff2f7c7a385bafecbe6a2a01c81e85774f92605c84e35c2"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_pressure/TH1_atlas.png",
+      "bytes": 126547,
+      "sha256": "1f5750e584cbb5c2037c5b3ac7ea94df252db15189cb72c869e3736f4c95c04b"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_pressure/runtime_assets.json",
+      "bytes": 787929,
+      "sha256": "59d2486e462cc5bc9355f3816de41f032e77b08289183645017dbf680bd9053c"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_proof/ASSET_SUBSET_MANIFEST.json",
+      "bytes": 162279,
+      "sha256": "da6d0ceb7e2a46588594be3dd7a2efec5326f16ee04a1f03a1eb1dba5ba5ca74"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_proof/FPW_atlas.png",
+      "bytes": 8566,
+      "sha256": "14fa84f096347deb8c0f92cec1f694bade00d1c2835b4084212e457967af1a26"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_proof/GNC_atlas.png",
+      "bytes": 66643,
+      "sha256": "b3ae95bf3146c25752df395c202c134081bd1878cdbdd72cd82ef2d5746de8c6"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_proof/GNR_atlas.png",
+      "bytes": 90409,
+      "sha256": "d9053cd05ddcea15f4ee9e361d4b73373c251afe522af17d66044a396c0a63a1"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_proof/PLB_atlas.png",
+      "bytes": 217498,
+      "sha256": "98b9abfe8f5859175c2439611041ef2ccae0a2a5df1545ddd9a49f4c63ad89a0"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_proof/TH1_atlas.png",
+      "bytes": 40459,
+      "sha256": "bc097f312419893e6dc2ce68c536da9f1a8071b0cd199824a7ce850780e67b9a"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_proof/inspection/subset_dark.png",
+      "bytes": 463586,
+      "sha256": "67fa700338dc6680f7de6a2274fc7e885950937df711a1e07a561730aab2c693"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_proof/inspection/subset_light.png",
+      "bytes": 462013,
+      "sha256": "0e2e1b459a5f34ec1d57a6cb476fa5814450ac86421e558b56ded10bcfb6629d"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/characters/action_proof/runtime_assets.json",
+      "bytes": 649755,
+      "sha256": "5de9687db7ac7c208a6b3eeefdd2bf37d8d3b78eecefd45162961f5d787cd99e"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/BUILD_PROMPT.md",
+      "bytes": 50044,
+      "sha256": "58420568ed4291e26f1fe31b8d9212c62941462f81e7494ceb6e10b00b6cd60d"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/manifest_reference/00_START_HERE.md",
+      "bytes": 17131,
+      "sha256": "38a542441f81b57db5262e502e216195b1e1ec05da08e598d9f4ce1bc4e23af3"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/manifest_reference/01_NEEDS.md",
+      "bytes": 13319,
+      "sha256": "44df53f6cc4405776b9e914bf373b25d89a8cfd938359b0d2faaebbd12a8946d"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/manifest_reference/10_CHARACTERS.md",
+      "bytes": 43605,
+      "sha256": "8e1e28072af8cec418079a4b0b9455c396698cb0a757f7e84d530ab052d401c4"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/manifest_reference/11_FIRST_PERSON.md",
+      "bytes": 29771,
+      "sha256": "a5d422caf7c46401a8c9b9b334d45c0de145fbde42a19f9818345875678cc955"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/manifest_reference/16_BUILDER.md",
+      "bytes": 33911,
+      "sha256": "3f86a160cc5054fc41854b98556fab88bc43b971abd13d7a1d860833023bf361"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/manifest_reference/17_STREET_AND_VEHICLES.md",
+      "bytes": 14076,
+      "sha256": "721700df84eaed2c29b4e448e38602d0f6974acd4117cf168bdd4b90fbb8583b"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/manifest_reference/18_MORE_ENEMIES.md",
+      "bytes": 91847,
+      "sha256": "58da402cf741ce2068edb9aacb49ebba27728c59d7828d1d39f6cf3dc66385f1"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/manifest_reference/20_SLICING_AND_SCALE.md",
+      "bytes": 15983,
+      "sha256": "ebf04b76dcc2424e111b2849745d5e79311ee889ad45574404f51cfb86bbfa44"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/manifest_reference/21_MODULAR_DEGRADATION.md",
+      "bytes": 22860,
+      "sha256": "a0279cf5fdf9689953e50c64a3e94cdc188de1c0bfdf07585f00dca0211e60d0"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/manifest_reference/90_ARCHIVES.md",
+      "bytes": 4942,
+      "sha256": "363af70e0e3f09c0e0bc6b5e73b5988dbefbd3d4ef3b5b9728e67ea73e7a7ada"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/source_docs/FIRST_ENCOUNTER_ACTION_PLAYGROUND_CONTEXT_2026-11-15.md",
+      "bytes": 22945,
+      "sha256": "d06b440014efd079fffb3e9b24ea23d6d9da6c7fe2818e7fa458bbeb868370ac"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/docs/action_proof/source_docs/ROOM_MODULAR_DEGRADATION_MANIFEST_HANDOFF_2026-11-15.md",
+      "bytes": 15874,
+      "sha256": "6e58621cbe1efc699689b7bfff7012fc4f7a5f12497d3d6e5548e5e08ba80d2b"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/examples/Action_Physical_Proof.room.json",
+      "bytes": 3054644,
+      "sha256": "6f52ef7adf46ca9ffa8b995c355462bf43714ff2506da6d499b4c516b91c6e36"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/examples/Action_Physical_Proof_v0_3.room.json",
+      "bytes": 3184111,
+      "sha256": "2a11c97ccab558f40874cc6bf54d9c91caad0312cafc8753f8af49c068840522"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/inputs/action_proof/140567.png",
+      "bytes": 167385,
+      "sha256": "b8dcde97d45598e1a7d375b487467ac5fac7007f41415f97473068fc4382c85c"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/inputs/action_proof/24175.png",
+      "bytes": 2227570,
+      "sha256": "e10fabd80e2d2d415e79ef86af18d2274908fbca610ba54e3bacdc28edb4e2c8"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/inputs/action_proof/dm54n38-e8f0900b-c660-4192-b158-858426919e1c.png",
+      "bytes": 136314,
+      "sha256": "19a76842ca3af30631a80442ae51159e2533ef76ab540a30f1f29f912f1c28b1"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/inputs/action_proof/frames.json",
+      "bytes": 463059,
+      "sha256": "75144f698c63eaab76ad2e9601761209af5a594fbdde6528d0ca645dc1e3c949"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/inputs/action_proof/iH9foXw.png",
+      "bytes": 270487,
+      "sha256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/inputs/action_proof/w0DngzM.png",
+      "bytes": 162813,
+      "sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/FORMAT.md",
+      "bytes": 74025,
+      "sha256": "a833f2d8027d95629dd93df3fedee0f591aba83d76a91cb7a46547c9a8eb858a"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/THREE_LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/actor-physical.js",
+      "bytes": 38371,
+      "sha256": "3802073ec41ceac0ca5531dceacded15c6b10935d83d4b7dc794b2e79d7631e6"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/app.js",
+      "bytes": 212164,
+      "sha256": "26cf5225ab5a45bbd8be2a08deb27aaa16e8ed7de0f8e4770ca3beee05699851"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/asset-contract.js",
+      "bytes": 5350,
+      "sha256": "bd0b059be45a0fb31157b34eb040293edc940cdb223b083c0eec717cb83c9ad6"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/assetlib.js",
+      "bytes": 25766,
+      "sha256": "38d0551e6ef9a706a9c3ec059198c6cb5197f7e8f9f24cabede2944dcc24b71e"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/block-system.js",
+      "bytes": 61988,
+      "sha256": "642861b1d5ddd733a13d1ca6ac242655e402de7754bfb36449ecfa5fc4299d48"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/block-textures.js",
+      "bytes": 126978,
+      "sha256": "675bbd343f435d84b94e0366811b4848d9d4e4ce20f308627486f99554ceceae"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/build.py",
+      "bytes": 2573,
+      "sha256": "efa0f4af8d745ae797163a6424f61e1c9f00f5c3990b79365432333bd94a3fd0"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/build_action_play.py",
+      "bytes": 1385,
+      "sha256": "a2c6db88cf563d6de46f173e366efe4995d11eeabdaa5d7a70a6e326c62221fd"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/build_combat_play.py",
+      "bytes": 2943,
+      "sha256": "2b85b0d23f92bdde9bd459b9bc72972d28ad1f6d91315674d2aff9a94705b49c"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/build_finish_examples.js",
+      "bytes": 3877,
+      "sha256": "62bc3ebf67c295d364b465b88e5c9ced44896d1f3f18e63ff549960d530ac1af"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/build_finish_proofs.py",
+      "bytes": 2410,
+      "sha256": "aeb77a44367a56a3037e8b1f1452974fc5c267606c647bfb1ed7934ca1d6885d"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/build_play.py",
+      "bytes": 2341,
+      "sha256": "5408483c4b758a9947f35db776991c6f850cbee08994206267d9b8b48f1dee9a"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/build_pressure_play.py",
+      "bytes": 1400,
+      "sha256": "8e1604c2b19933d18e4596712b2f3c44e21919c481273adeb34b8ac171204884"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/build_transport_proofs.py",
+      "bytes": 1854,
+      "sha256": "a061f3ba7e8158088ffccc7492d14962224358a6b0e7dfbb848b6e0d412c1883"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/city-structure.js",
+      "bytes": 24572,
+      "sha256": "984c1c969517869d23eb1783dbc159da00e7d96627fd2deb2b5906a99b8f6d4b"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/core.js",
+      "bytes": 134173,
+      "sha256": "543984233a259a9a234c5cc10ee86f22e9e59235fe4612a297ec92f374720422"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/finish-tools.js",
+      "bytes": 16535,
+      "sha256": "812f70e08ba4af294baeaa5218e82b8d7f13e131e2b5b9185039af76cfe1767c"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/gl.js",
+      "bytes": 59821,
+      "sha256": "eb4ed16aae1a472d34c4500b179f5300c9d08fa99c4d68c4d33c134a6eac3e84"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/legacy-v1.js",
+      "bytes": 6755,
+      "sha256": "7a171686cd6a156a7f69673481e7d62c970956619885cbe9e25d007166264d93"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/legacy-v3.js",
+      "bytes": 24920,
+      "sha256": "91019b49e204ae7063f50af76f77dfef89ca270cb96c68b952558d2976911a61"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/rails.js",
+      "bytes": 24797,
+      "sha256": "d05299123f6abe2400e44cb5675d287badeddd338f32858d614171e467fa382f"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/renderer.js",
+      "bytes": 48845,
+      "sha256": "c46b54479522419c46d3ee7350f3a4d2aacd9f4d4bc5fa56842bbbec0f6db1da"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/route-traffic.js",
+      "bytes": 7639,
+      "sha256": "999642e5dc1dfcf42e16574784128cdb7608b8fc3fe34e93a451ddacea49f6b6"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/shell.html",
+      "bytes": 7310,
+      "sha256": "5ce1a82bc433494977083535c53b6d75dbbe6ec67753f13cadd06f7d546678da"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/style.css",
+      "bytes": 60914,
+      "sha256": "36e87287282e42c6c730e692cc505a9bab489b41f7a33198380e106d0a2b907c"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/transport-infrastructure.js",
+      "bytes": 33301,
+      "sha256": "37128d8ef05596b5439405f9471dd19d8ed0177207789131889bad4a3fa4a603"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-blocks.js",
+      "bytes": 12317,
+      "sha256": "b8cabaca6e347597fea60f088c71f2fb8ca36716766dba7b40c699c0843d8ff9"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-city.js",
+      "bytes": 31259,
+      "sha256": "2ebe9b73e3489d1d56ec88a52887d987773b52cce506d805493ceb1ba45dcfa4"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-combat.js",
+      "bytes": 38363,
+      "sha256": "a8c6b4b6f6af3e7a127d6fad240dcf761e032da08e620939d9de4eb4fe57807b"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-finish.js",
+      "bytes": 27011,
+      "sha256": "7a40e8bf1342d9c148cc7e58085e56d9d1831edfb5be89fe40abcd73541fbd82"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-fp.js",
+      "bytes": 25557,
+      "sha256": "cead1310d6396d9a36109088f03879d11c87f7c7719247be9f8ee633ed4e1481"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-gl.js",
+      "bytes": 17820,
+      "sha256": "c8586a8b824c4a4627076acabc38a4a18375b77d2cfa7258351cdec465844bd5"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-movement.js",
+      "bytes": 49889,
+      "sha256": "0eaf677c27597793cf8dab74a401b4d85731a78821c3f6bfc18cc441e149a347"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-physical-proof.js",
+      "bytes": 35128,
+      "sha256": "98a2f5e7b2527646bd75d3aca6aa3e3cdd2e333ce3a412a3a30b3b1eb244bd65"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-pressure-camera.js",
+      "bytes": 6275,
+      "sha256": "9a299c3abb59b29f241896de460053ccae14eefbabaace9e8e26c38f389bad48"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-props.js",
+      "bytes": 94904,
+      "sha256": "2827df7f20c0ec1201c42df1e85b7b051e81a11b58956092896acd3b61a20167"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-rails.js",
+      "bytes": 32331,
+      "sha256": "06f0530b26087c60c5fec24ea3be72fd3c2729830b336edb34f7f58ea72332d5"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-route.js",
+      "bytes": 127934,
+      "sha256": "3d350fb2d3c355c5ce3888f692b3a070b1851b7df833f75e03f838268721223b"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-sky.js",
+      "bytes": 14638,
+      "sha256": "45360b07bd756811262ad0ef26a30de317018283915d9fe7f82be991e85e4907"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-stories.js",
+      "bytes": 34576,
+      "sha256": "f23847c2e39f168cf533ff35827d74fb78b45c6d35729d9ee013344ceec8801e"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-traffic.js",
+      "bytes": 32053,
+      "sha256": "39a0a7cee3432d4e2973f186ab973b9ea1e8cac535268027db0d60bcbd987266"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-transport.js",
+      "bytes": 26406,
+      "sha256": "827387bb19223fb3952641c79f458ed64f629c577a19b71faae1f8fa138a550b"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/ui-vehicle-world.js",
+      "bytes": 25467,
+      "sha256": "b0cfe2dc94c3fd1aac8622dfd48f700e433961b36d4957a56a17d60706afc0fd"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/vehicle-classes.js",
+      "bytes": 16325,
+      "sha256": "920013ff50ccfd261f9c04e631298bbd55a5b4c15e7769d9b14fbd80722aaf04"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/vehicle-graph.js",
+      "bytes": 19579,
+      "sha256": "ee8fe2c5d7c6d884fa7e33ce5fc0f3148aa0ae26a4a751889364b2c1bfaa623d"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/vehicle-signals.js",
+      "bytes": 7976,
+      "sha256": "35158d18b5a398582dde5413e14dc12e407a9050a895f095adac71d8458be2f1"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/vehicle-traffic.js",
+      "bytes": 16407,
+      "sha256": "d63edb942d415b77c32964b9fa872b76cd9aa69a95a4418ae05ea1add902c909"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/vehicle-world.js",
+      "bytes": 98465,
+      "sha256": "46524a33fc2531fdca08877470c5df7ba0da3fb445e4b407ae15dd93a7a46095"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/vendor-gltfloader.js",
+      "bytes": 110676,
+      "sha256": "9197307852796b98d41bb4d1998d9c3996788d29a117e0b82a88b9537d85d9d6"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/source/vendor-three.min.js",
+      "bytes": 667791,
+      "sha256": "a0d4379385416186a71a630d01113aa5922dbe05baa8eba7d6e411741fe08cda"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tests/action_proof/assets_test.py",
+      "bytes": 4233,
+      "sha256": "25320885e4042384025a71145b4f5562595e019bf6a927c925f4a80584828f94"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tests/action_proof/browser/browser_acceptance.py",
+      "bytes": 7881,
+      "sha256": "bd48c8fa70c8f3d6bc65f8247e14f3fe2a042401d6f5175685d6f36aecda0a40"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tests/action_proof/browser/package_smoke.py",
+      "bytes": 2119,
+      "sha256": "e54318a22e1bd1512d41adb586b45830125a857992677e457e0725d63f0a85c3"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tests/action_proof/claude_v0_3_findings.test.js",
+      "bytes": 11698,
+      "sha256": "a33e7c132b422316375188428b41fb93e5df7bf06b23d42bfc1904d6f86adbb5"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tests/action_proof/degradation_occupancy_v031.test.js",
+      "bytes": 1476,
+      "sha256": "60a78ae11f6315f0751d23823ca554735f0933a73e49ef02b4757c9aec5659f8"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tests/action_proof/edge_cases.test.js",
+      "bytes": 5326,
+      "sha256": "1ac2c3bc529ef48e505138652fdd9f6d973d0158109a799a0bc8b41dd62923b1"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tests/action_proof/integration.test.js",
+      "bytes": 8182,
+      "sha256": "634cc54b16dde906f5cc8fa7b29461c8ae600d271df4f215325f177f188913dc"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tests/action_proof/physical.test.js",
+      "bytes": 5927,
+      "sha256": "2bf3bb55c5692e60e6ceba36cee03af191afa6dbaaead43f9e9f2b8937a2658c"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tests/action_proof/pressure.test.js",
+      "bytes": 10318,
+      "sha256": "7a0757bddf34e909d22f3ccab93150984bff4fee4cc22205e6a3ffdbd0804551"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tests/action_proof/scene_fixture.js",
+      "bytes": 1079,
+      "sha256": "d37dce06f46f760e227a579cc046fc01507cb30af084826b7899ac2d35db24c9"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tools/build_action_characters.py",
+      "bytes": 9505,
+      "sha256": "6bba1a63b6be8f21782c6f8314ba3720e507761d47fa357ff99754cc6865a61e"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tools/build_calibration_assets.py",
+      "bytes": 5894,
+      "sha256": "7e123c32dddf83310642c55f461e3a6de6e2e79428ec77cc7e5093535da27873"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tools/build_combat_characters.py",
+      "bytes": 6702,
+      "sha256": "f92889d3eda379e751937d2bf6e454a3e980b2627998359155f9dabc819d3678"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tools/build_pressure_assets.py",
+      "bytes": 4912,
+      "sha256": "347085a984c10ffced2522b494158b5d3c32467e599bcea74a2976f642e910fc"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tools/make_action_physical_proof.cjs",
+      "bytes": 6914,
+      "sha256": "a8fe2ee4d16e8ec73a3de6606c1c432a8f74e4bc44170ab6cd319aed33e22df0"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tools/make_combat_room.cjs",
+      "bytes": 19150,
+      "sha256": "fcc8548f9ebc7191c4a1ca74e185483c9af6274d1c90d713d39e471d6a9b41e9"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tools/make_pressure_scene.cjs",
+      "bytes": 2346,
+      "sha256": "5fedea2de3dfa0e85d259e4f1126ff52f020130beacabb9dab6330d0e580bfc2"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tools/prepare_asset_library.py",
+      "bytes": 16103,
+      "sha256": "c2b9ee32008cffa248b424ac0a17b8029dc5c2973f913beb28819f8cd3602f23"
+    },
+    {
+      "path": "vendor/room-action-v0.3.1/rc/tools/requirements-action-proof.txt",
+      "bytes": 42,
+      "sha256": "d538ac6c0cbfabc0e95e9f4e026a502d30a60069f2f2026c1e43d5e68b7c8aaf"
+    }
+  ]
+}

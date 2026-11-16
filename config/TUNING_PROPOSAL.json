@@ -1,0 +1,79 @@
+{
+  "schema": "first-encounter-tuning-proposal@0.1",
+  "status": "starting values for playtest, not measured balance",
+  "fixed_step_seconds": 0.004166666666666667,
+  "render_target_hz": 60,
+  "moves": {
+    "lead_light": {
+      "startup_ms": 75,
+      "active_ms": 25,
+      "recovery_ms": 150,
+      "guard_pressure": 18
+    },
+    "rear_light": {
+      "startup_ms": 100,
+      "active_ms": 25,
+      "recovery_ms": 175,
+      "guard_pressure": 22
+    },
+    "hook_chop": {
+      "startup_ms": 175,
+      "active_ms": 25,
+      "recovery_ms": 300,
+      "guard_pressure": 30
+    },
+    "heavy": {
+      "startup_ms": 275,
+      "active_ms": 50,
+      "recovery_ms": 375,
+      "guard_pressure": 55
+    }
+  },
+  "guard": {
+    "max": 100,
+    "regen_per_second": 20,
+    "regen_delay_ms": 750,
+    "break_stagger_ms": 800,
+    "recovery_value": 60
+  },
+  "interception": {
+    "initial_eligible_light_window_ms": 100,
+    "counter_opportunity_ms": 200,
+    "requires_contact_geometry": true,
+    "consumes_interception": true
+  },
+  "sparring": {
+    "ordinary_hit_lethal": false,
+    "observer_reaction_ms": 240,
+    "optional_preparation_hold_ms": [
+      200,
+      300
+    ],
+    "shared_move_timings": true
+  },
+  "momentum": {
+    "optional": true,
+    "range": [
+      0,
+      100
+    ],
+    "gain_clean": 4,
+    "gain_parry": 10,
+    "gain_guard_break": 12,
+    "loss_whiff": 6,
+    "loss_parried": 8,
+    "pressure_force_multiplier_max": 1.15,
+    "health_speed_parry_window_multiplier": false
+  },
+  "visual": {
+    "pose_assignments_per_basic_strike": [
+      3,
+      5
+    ],
+    "presentation_contact_hold_ms": [
+      20,
+      35
+    ],
+    "simulation_hitstop": false
+  }
+}

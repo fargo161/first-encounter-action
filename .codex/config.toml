@@ -1,0 +1,4 @@
+# Optional local-client concurrency preference, not Cloud provisioning.
+# Three workers plus the main Lead. Ignore safely if this client does not honor it.
+[agents]
+max_concurrent_threads_per_session = 3

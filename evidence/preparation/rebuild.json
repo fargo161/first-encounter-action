@@ -1,0 +1,51 @@
+{
+  "commands": [
+    {
+      "cmd": [
+        "node",
+        "tools/make_pressure_scene.cjs"
+      ],
+      "exit": 0,
+      "stdout": "Built /mnt/data/first_encounter_preparation/work/rebuild/examples/Action_Physical_Proof_v0_3.room.json\n",
+      "stderr": ""
+    },
+    {
+      "cmd": [
+        "python",
+        "source/build.py"
+      ],
+      "exit": 0,
+      "stdout": "Built Room_Creator.html: 2,489,543 bytes\n",
+      "stderr": ""
+    },
+    {
+      "cmd": [
+        "python",
+        "source/build_pressure_play.py"
+      ],
+      "exit": 0,
+      "stdout": "Built Play_Action_Playground_v0_3_1.html 5674498 bytes\n",
+      "stderr": ""
+    }
+  ],
+  "comparisons": [
+    {
+      "path": "Room_Creator.html",
+      "shipped_sha256": "1e36e7d5107a114f187a85dbb7c185fe99347e77c6713e2269f033f65084dba5",
+      "rebuilt_sha256": "1e36e7d5107a114f187a85dbb7c185fe99347e77c6713e2269f033f65084dba5",
+      "byte_equal": true
+    },
+    {
+      "path": "Play_Action_Playground_v0_3_1.html",
+      "shipped_sha256": "5118b0f00431b765847525f1a6fc711f06f02a2a0252995e64a2e94584183185",
+      "rebuilt_sha256": "5118b0f00431b765847525f1a6fc711f06f02a2a0252995e64a2e94584183185",
+      "byte_equal": true
+    },
+    {
+      "path": "examples/Action_Physical_Proof_v0_3.room.json",
+      "shipped_sha256": "2a11c97ccab558f40874cc6bf54d9c91caad0312cafc8753f8af49c068840522",
+      "rebuilt_sha256": "2a11c97ccab558f40874cc6bf54d9c91caad0312cafc8753f8af49c068840522",
+      "byte_equal": true
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "test": "tests/action_proof/claude_v0_3_findings.test.js",
+    "exit": "TIMEOUT",
+    "seconds": 15.019,
+    "pass_lines": 0,
+    "fail_lines": 0
+  },
+  {
+    "test": "tests/action_proof/degradation_occupancy_v031.test.js",
+    "exit": 0,
+    "seconds": 0.033,
+    "pass_lines": 1,
+    "fail_lines": 0
+  },
+  {
+    "test": "tests/action_proof/edge_cases.test.js",
+    "exit": 0,
+    "seconds": 0.434,
+    "pass_lines": 9,
+    "fail_lines": 0
+  },
+  {
+    "test": "tests/action_proof/integration.test.js",
+    "exit": 0,
+    "seconds": 1.787,
+    "pass_lines": 19,
+    "fail_lines": 0
+  },
+  {
+    "test": "tests/action_proof/physical.test.js",
+    "exit": 0,
+    "seconds": 0.2,
+    "pass_lines": 15,
+    "fail_lines": 0
+  },
+  {
+    "test": "tests/action_proof/pressure.test.js",
+    "exit": 1,
+    "seconds": 0.606,
+    "pass_lines": 28,
+    "fail_lines": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "videos": [
+    {
+      "path": "references/video/HAND 2 HAND Master Mode. Some Limits - YouTube - Google Chrome 2026-11-16 10-03-21.mp4",
+      "sha256": "3af3e128d2b29b0d737af0165afab1b13dc962384c5858db78fdcf3de6b9c326",
+      "bytes": 32854185,
+      "width": 1920,
+      "height": 1200,
+      "nominal_rate": "55/2",
+      "average_rate": "9300408/337067",
+      "duration_seconds": "24.512000",
+      "status": "reference_only_not_runtime_track"
+    },
+    {
+      "path": "references/video/ezgif-17026a3fe81ff560.mp4",
+      "sha256": "8ce564c06e2317d42cb209cb1dd5f8f951eac61554cf596e669e6c923853d316",
+      "bytes": 402199,
+      "width": 932,
+      "height": 666,
+      "nominal_rate": "55/8",
+      "average_rate": "55/8",
+      "duration_seconds": "21.236364",
+      "status": "reference_only_not_runtime_track"
+    },
+    {
+      "path": "references/video/m2-res_720p.mp4",
+      "sha256": "2f07eef2270888097d10f4b993697cd5ff3e7ff357b19110cb07f3c6572fcb02",
+      "bytes": 1562326,
+      "width": 1280,
+      "height": 720,
+      "nominal_rate": "30/1",
+      "average_rate": "30/1",
+      "duration_seconds": "11.945000",
+      "status": "reference_only_not_runtime_track"
+    }
+  ]
+}

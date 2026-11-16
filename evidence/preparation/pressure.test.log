@@ -1,0 +1,51 @@
+PASS New scene selects pressure tuning; old scene keeps old contract
+PASS Fresh defender cannot be grabbed
+PASS Five quick lights break full guard; almost no translation / no life loss
+PASS Four-link light chain alternates and wraps, one hit each
+PASS Click spam buffers at most one follow-up, never multiplies hit
+PASS Idle gap resets combo to left jab
+PASS Block hold does not become a punch; blocks frontal heavy
+PASS Block is directional, does not protect the back
+PASS Two heavy punches can break guard, with slower timing
+PASS Kick slowest standard strike and most forceful; breaks full guard
+PASS Wilt lasts 1.7 seconds then grab is denied again
+PASS Light punches do not indefinitely extend wilt window
+PASS Grab revalidates wilt at contact, not just at request
+PASS Successful wilt grab then immediate second interaction can throw
+PASS Downed target not grabbable even with stale wilt
+PASS Forward jump + kick becomes single real flying lunge
+PASS Standing jump is not a flying kick
+PASS Forward lunge respects thin wall, cannot teleport through
+PASS NPC actively guards; counters after player leaves an opening
+PASS Human and test-controller matched guard/body rules
+PASS Car landing / riding retained with new combat enabled
+PASS New pressure-to-wilt-to-grab-to-breach uses real scene
+PASS View pitch projection really looks up/down, centered crosshair ray
+PASS Pressure combo timeline deterministic at 30 / 60 / 144 Hz
+PASS A grab pressed during light recovery is buffered once without skipping recovery
+PASS Buffered grab cannot capture a recovered target
+PASS Blocking cancels a buffered grab
+PASS Control change clears a queued grab without recreating actors
+
+node:fs:2426
+    return binding.writeFileUtf8(
+                   ^
+
+Error: ENOENT: no such file or directory, open '/mnt/data/first_encounter_preparation/work/baseline/evidence_v0_3/pressure_results.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at Object.<anonymous> (/mnt/data/first_encounter_preparation/work/baseline/rc/tests/action_proof/pressure.test.js:38:99)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+    at node:internal/main/run_main_module:36:49 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/mnt/data/first_encounter_preparation/work/baseline/evidence_v0_3/pressure_results.json'
+}
+
+Node.js v22.16.0

@@ -1,0 +1,52 @@
+PASS Carry sweep stops both bodies at thin wall; release remains clear
+PASS Held rotation is swept; clear endpoint does not pass through middle wall
+PASS Third actor cannot acquire a held target; self and cyclic holds reject
+PASS Midair release clears ownership and falls at current position
+PASS Grab/carry/release on actual moving roof stays in same physical world
+PASS Roof movement does not push actor through overhanging wall
+PASS Vehicle removal loses support once and does not retain ghost roof
+PASS Supported actor falls after state swap with no stale support
+PASS Fast body hits 1 cm wall despite large frame delta
+{
+  "passed": 9,
+  "total": 9,
+  "results": [
+    {
+      "name": "Carry sweep stops both bodies at thin wall; release remains clear",
+      "status": "PASS"
+    },
+    {
+      "name": "Held rotation is swept; clear endpoint does not pass through middle wall",
+      "status": "PASS"
+    },
+    {
+      "name": "Third actor cannot acquire a held target; self and cyclic holds reject",
+      "status": "PASS"
+    },
+    {
+      "name": "Midair release clears ownership and falls at current position",
+      "status": "PASS"
+    },
+    {
+      "name": "Grab/carry/release on actual moving roof stays in same physical world",
+      "status": "PASS"
+    },
+    {
+      "name": "Roof movement does not push actor through overhanging wall",
+      "status": "PASS"
+    },
+    {
+      "name": "Vehicle removal loses support once and does not retain ghost roof",
+      "status": "PASS"
+    },
+    {
+      "name": "Supported actor falls after state swap with no stale support",
+      "status": "PASS"
+    },
+    {
+      "name": "Fast body hits 1 cm wall despite large frame delta",
+      "status": "PASS"
+    }
+  ]
+}
+

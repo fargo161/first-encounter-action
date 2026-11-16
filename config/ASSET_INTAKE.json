@@ -1,0 +1,358 @@
+{
+  "images": [
+    {
+      "original_name": "6Eqwvsr(3).png",
+      "path": "assets/source/6Eqwvsr(3).png",
+      "sha256": "52459bfa734ead1d7cad6e1826553139f36b93a91bde69b1bedd03d31df4df58",
+      "bytes": 2258750,
+      "size": [
+        2048,
+        1526
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "DHM_resized_upload_new_coordinates_required"
+    },
+    {
+      "original_name": "ChatGPT Image Sep 22, 2026, 04_31_12 AM (1).png",
+      "path": "assets/source/ChatGPT Image Sep 22, 2026, 04_31_12 AM (1).png",
+      "sha256": "8307763a337ac62b991388f95c0bef41bd500c6b952354e50fa7dcfb1a649585",
+      "bytes": 554051,
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "neutral_hand_shape_reference_2d_png_not_3d_mesh"
+    },
+    {
+      "original_name": "ChatGPT Image Sep 22, 2026, 04_31_12 AM (2).png",
+      "path": "assets/source/ChatGPT Image Sep 22, 2026, 04_31_12 AM (2).png",
+      "sha256": "0e9682725795360e1e5b9dc8664528f10ebee4a89c0cf4a3e7fc65e59902210a",
+      "bytes": 541226,
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "neutral_hand_shape_reference_2d_png_not_3d_mesh"
+    },
+    {
+      "original_name": "ChatGPT Image Sep 22, 2026, 04_31_12 AM (3).png",
+      "path": "assets/source/ChatGPT Image Sep 22, 2026, 04_31_12 AM (3).png",
+      "sha256": "aa902efaaf8547f817fdfce029330bdef0408c86e902dd1e5fa1801b67a347f3",
+      "bytes": 578905,
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "neutral_hand_shape_reference_2d_png_not_3d_mesh"
+    },
+    {
+      "original_name": "ChatGPT Image Sep 22, 2026, 04_31_12 AM (4).png",
+      "path": "assets/source/ChatGPT Image Sep 22, 2026, 04_31_12 AM (4).png",
+      "sha256": "a7bd3e08e086ca58fd9ef51ab071a6fa624bfe4bff8f0572fb952ac97f7d0077",
+      "bytes": 537622,
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "neutral_hand_shape_reference_2d_png_not_3d_mesh"
+    },
+    {
+      "original_name": "ChatGPT Image Sep 22, 2026, 04_31_13 AM (5).png",
+      "path": "assets/source/ChatGPT Image Sep 22, 2026, 04_31_13 AM (5).png",
+      "sha256": "81fe2a8f966bc1863e05a16a2cd2a32feae050db5d062f165ec8c24e73a3e7e8",
+      "bytes": 509596,
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "neutral_hand_shape_reference_2d_png_not_3d_mesh"
+    },
+    {
+      "original_name": "ChatGPT Image Sep 22, 2026, 04_34_26 AM (1).png",
+      "path": "assets/source/ChatGPT Image Sep 22, 2026, 04_34_26 AM (1).png",
+      "sha256": "26b274b9c52d17071db1b112257c8eba63e59d922224e3cee2ae361a78137b0d",
+      "bytes": 524533,
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "neutral_hand_shape_reference_2d_png_not_3d_mesh"
+    },
+    {
+      "original_name": "ChatGPT Image Sep 22, 2026, 04_34_27 AM (2).png",
+      "path": "assets/source/ChatGPT Image Sep 22, 2026, 04_34_27 AM (2).png",
+      "sha256": "3084e5cf445f325d7cc7645b18596962cdd0c666fcaaad994e1c21b80f876645",
+      "bytes": 549384,
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "neutral_hand_shape_reference_2d_png_not_3d_mesh"
+    },
+    {
+      "original_name": "ChatGPT Image Sep 22, 2026, 04_34_27 AM (3).png",
+      "path": "assets/source/ChatGPT Image Sep 22, 2026, 04_34_27 AM (3).png",
+      "sha256": "d8c28a96e12b5f2b61763c2f4b2807582768104b16086044312206c06d543895",
+      "bytes": 563683,
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "neutral_hand_shape_reference_2d_png_not_3d_mesh"
+    },
+    {
+      "original_name": "ChatGPT Image Sep 22, 2026, 04_34_27 AM (4).png",
+      "path": "assets/source/ChatGPT Image Sep 22, 2026, 04_34_27 AM (4).png",
+      "sha256": "ae52136eaf91739345cbc18986ab7bc79d0ba9356b99601c22c60c40825541f1",
+      "bytes": 530929,
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "neutral_hand_shape_reference_2d_png_not_3d_mesh"
+    },
+    {
+      "original_name": "ChatGPT Image Sep 22, 2026, 04_34_27 AM (5).png",
+      "path": "assets/source/ChatGPT Image Sep 22, 2026, 04_34_27 AM (5).png",
+      "sha256": "b90c923cdc86195939b611eba4e801ae6c9d40357255756932ea4d734f1ca36f",
+      "bytes": 494056,
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "neutral_hand_shape_reference_2d_png_not_3d_mesh"
+    },
+    {
+      "original_name": "List+(1)(1).jpg",
+      "path": "assets/source/List+(1)(1).jpg",
+      "sha256": "9b7987f7c36a99eed933243ead93517bc3808ecaa1b8f88553f02b06b0d8b8a2",
+      "bytes": 122237,
+      "size": [
+        848,
+        1152
+      ],
+      "mode": "RGB",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "gesture_pose_or_visual_reference"
+    },
+    {
+      "original_name": "ShQs6Dx(2).png",
+      "path": "assets/source/ShQs6Dx(2).png",
+      "sha256": "5915b52e6aabe7587f508141e2b52688f23a6cbdc3272a3de9b8284bc3d67501",
+      "bytes": 159432,
+      "size": [
+        1000,
+        1950
+      ],
+      "mode": "P",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "MSK_exact_manifest_match_later_weapon_reference"
+    },
+    {
+      "original_name": "i-made-a-concept-for-a-first-person-street-fighter-game-v0-opzgebv3ecm61.webp",
+      "path": "assets/source/i-made-a-concept-for-a-first-person-street-fighter-game-v0-opzgebv3ecm61.webp",
+      "sha256": "35c2b62ec8c193ccf5230c75aba3e5f7668263367405db3e08c8fbcbdc680430",
+      "bytes": 52086,
+      "size": [
+        1080,
+        602
+      ],
+      "mode": "RGB",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "gesture_pose_or_visual_reference"
+    },
+    {
+      "original_name": "iH9foXw(2).png",
+      "path": "assets/source/iH9foXw(2).png",
+      "sha256": "9267e519dba5ab43ec1fa9e17510301a21ed109c3043aa1b9ddab382644e974e",
+      "bytes": 270487,
+      "size": [
+        756,
+        1044
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "PLB_exact_manifest_match_body_source"
+    },
+    {
+      "original_name": "png-clipart-doom-template-sprite-resume-sprite-template-text(1).png",
+      "path": "assets/source/png-clipart-doom-template-sprite-resume-sprite-template-text(1).png",
+      "sha256": "75ce0f5fbee09a76a4d9aa37a375e9e013269caef3bce040f5e5166045b62547",
+      "bytes": 365805,
+      "size": [
+        900,
+        2025
+      ],
+      "mode": "P",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "gesture_pose_or_visual_reference"
+    },
+    {
+      "original_name": "png-clipart-doom-template-sprite-resume-sprite-template-text.png",
+      "path": "assets/source/png-clipart-doom-template-sprite-resume-sprite-template-text(1).png",
+      "sha256": "75ce0f5fbee09a76a4d9aa37a375e9e013269caef3bce040f5e5166045b62547",
+      "bytes": 365805,
+      "size": [
+        900,
+        2025
+      ],
+      "mode": "P",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "gesture_pose_or_visual_reference"
+    },
+    {
+      "original_name": "png-clipart-duke-nukem-3d-zdoom-duke-nukem-forever-balls-of-steel-hand-sprite-3d-computer-graphics-xbox(1).png",
+      "path": "assets/source/png-clipart-duke-nukem-3d-zdoom-duke-nukem-forever-balls-of-steel-hand-sprite-3d-computer-graphics-xbox(1).png",
+      "sha256": "a7bd7bee97e5a3d362e85617e0e1c049351109d29244676273306f3d090fc7fb",
+      "bytes": 61209,
+      "size": [
+        900,
+        844
+      ],
+      "mode": "P",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "gesture_pose_or_visual_reference"
+    },
+    {
+      "original_name": "png-clipart-playstation-sprite-pokemon-black-white-personal-computer-video-game-sprite-angle-electronics(3).png",
+      "path": "assets/source/png-clipart-playstation-sprite-pokemon-black-white-personal-computer-video-game-sprite-angle-electronics(3).png",
+      "sha256": "185a2defdacf11ed397a970e4c6592e81a3ecda12e5abe50d05b9cd634ccbc4b",
+      "bytes": 1131129,
+      "size": [
+        840,
+        2048
+      ],
+      "mode": "RGBA",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "ARM_resized_upload_new_coordinates_required"
+    },
+    {
+      "original_name": "w0DngzM(2).png",
+      "path": "assets/source/w0DngzM(2).png",
+      "sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "bytes": 162813,
+      "size": [
+        594,
+        738
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "TH1_exact_manifest_match_primary_hand_source"
+    },
+    {
+      "original_name": "z6nxuVr(1).png",
+      "path": "assets/source/z6nxuVr(1).png",
+      "sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "bytes": 158978,
+      "size": [
+        716,
+        703
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "TH2_exact_manifest_match_primary_hand_source"
+    },
+    {
+      "original_name": "zombie-hand-on-white-background-260nw-2445359881.webp",
+      "path": "assets/source/zombie-hand-on-white-background-260nw-2445359881.webp",
+      "sha256": "e4856bb66bd27df2a3ea6f504c0264b41c40cf3c2f54d20ef5275b80056838cd",
+      "bytes": 24158,
+      "size": [
+        600,
+        280
+      ],
+      "mode": "RGB",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "status": "source_reference_not_game_ready",
+      "rights": "owner_supplied_unverified",
+      "usage": "reference_only_watermarked_no_runtime_default"
+    }
+  ],
+  "unique_images": 21,
+  "image_records": 22
+}

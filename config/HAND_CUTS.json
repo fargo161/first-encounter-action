@@ -1,0 +1,2309 @@
+{
+  "count": 92,
+  "cuts": [
+    {
+      "id": "TH1.f01",
+      "path": "assets/derived/hand-cuts/TH1.f01.png",
+      "sha256": "d7e15cd5827efdf23bb77992083824e67f10aae54b625e000db0d8c152a864e0",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        0,
+        0,
+        60,
+        116
+      ],
+      "seeds": [
+        [
+          31,
+          67
+        ]
+      ],
+      "label_from_manifest": "one finger raised, back of hand, step 1 of 5",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f02",
+      "path": "assets/derived/hand-cuts/TH1.f02.png",
+      "sha256": "9efa60f78a563b6fb0a5c54d2f9d71fb041293d39f751f7e6dcb41e2480e740e",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        74,
+        5,
+        60,
+        111
+      ],
+      "seeds": [
+        [
+          105,
+          68
+        ]
+      ],
+      "label_from_manifest": "finger raised, step 2",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f03",
+      "path": "assets/derived/hand-cuts/TH1.f03.png",
+      "sha256": "88e31bc60fa526203b6423b17e16d0d445f6f466edab77e1ef1c3e04abddd0a1",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        147,
+        22,
+        60,
+        94
+      ],
+      "seeds": [
+        [
+          178,
+          71
+        ]
+      ],
+      "label_from_manifest": "finger curling, step 3",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f04",
+      "path": "assets/derived/hand-cuts/TH1.f04.png",
+      "sha256": "9900c1e3032226760bfd32f5c5b708e4cff05b4e6b4379dba940897c8b625ac0",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        218,
+        22,
+        60,
+        94
+      ],
+      "seeds": [
+        [
+          249,
+          72
+        ]
+      ],
+      "label_from_manifest": "finger nearly closed, step 4",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f05",
+      "path": "assets/derived/hand-cuts/TH1.f05.png",
+      "sha256": "89738b70e50f68f13de8d72f2de0d47380bde983e4d64ebf2454667fa10e4d3c",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        292,
+        31,
+        66,
+        85
+      ],
+      "seeds": [
+        [
+          327,
+          78
+        ]
+      ],
+      "label_from_manifest": "closed fist, back of hand, step 5",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f06",
+      "path": "assets/derived/hand-cuts/TH1.f06.png",
+      "sha256": "5717848bf3681b1a383eed8f8b6120a198de952340b91dec904f30eba676c4ac",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        10,
+        126,
+        100,
+        130
+      ],
+      "seeds": [
+        [
+          58,
+          196
+        ]
+      ],
+      "label_from_manifest": "claw, fingers spread, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f07",
+      "path": "assets/derived/hand-cuts/TH1.f07.png",
+      "sha256": "b9763f4d5d570996dc231840a81b2522348d7b0c690f9d4515255e564be00cfb",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        100,
+        129,
+        90,
+        127
+      ],
+      "seeds": [
+        [
+          139,
+          196
+        ]
+      ],
+      "label_from_manifest": "claw, fingers spread, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f08",
+      "path": "assets/derived/hand-cuts/TH1.f08.png",
+      "sha256": "d70e0bd037194237d4a965aa57d62a09a6bac3cb9615bfcc6090886e52f4b222",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        203,
+        138,
+        81,
+        118
+      ],
+      "seeds": [
+        [
+          236,
+          202
+        ]
+      ],
+      "label_from_manifest": "claw seen side-on",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f09",
+      "path": "assets/derived/hand-cuts/TH1.f09.png",
+      "sha256": "580c20f46bb559464a00456999a267a8eeb55df6fe81c9c5371dabc516c51d78",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        265,
+        145,
+        120,
+        111
+      ],
+      "seeds": [
+        [
+          328,
+          206
+        ]
+      ],
+      "label_from_manifest": "claw reaching forward",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f10",
+      "path": "assets/derived/hand-cuts/TH1.f10.png",
+      "sha256": "daa2c2c680c607bee00aeb6042e9eaaa7e59dc89fd2b64bb78e533ca9216aee2",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        344,
+        164,
+        250,
+        92
+      ],
+      "seeds": [
+        [
+          485,
+          217
+        ]
+      ],
+      "label_from_manifest": "long forearm lunging in from the right, claw open",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f11",
+      "path": "assets/derived/hand-cuts/TH1.f11.png",
+      "sha256": "43adc75a7f72cc71a6ecd4698b9c5b74ae090aa364481133c1ba524e73dd4aab",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        0,
+        302,
+        104,
+        100
+      ],
+      "seeds": [
+        [
+          42,
+          356
+        ]
+      ],
+      "label_from_manifest": "open palm facing up, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f12",
+      "path": "assets/derived/hand-cuts/TH1.f12.png",
+      "sha256": "0324b2e5430bf955f0f3ff914a0a2e0b319fefcdec726f3a2b3fb87eaae60f54",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        102,
+        313,
+        94,
+        89
+      ],
+      "seeds": [
+        [
+          145,
+          361
+        ]
+      ],
+      "label_from_manifest": "open palm facing up, B (lower)",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f13",
+      "path": "assets/derived/hand-cuts/TH1.f13.png",
+      "sha256": "b3e4575a7bc96d837f7b04376eb9bf51fd679433395b8dd38eccebca3b680d95",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        196,
+        275,
+        130,
+        127
+      ],
+      "seeds": [
+        [
+          248,
+          344
+        ]
+      ],
+      "label_from_manifest": "open palm with forearm, C (largest)",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f14",
+      "path": "assets/derived/hand-cuts/TH1.f14.png",
+      "sha256": "fe1b5b8073b3fc17f440fd201e8a4d93fd4d2ca0142b7c814ca860ddb08928e1",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        301,
+        270,
+        120,
+        132
+      ],
+      "seeds": [
+        [
+          355,
+          338
+        ]
+      ],
+      "label_from_manifest": "clenched fist with forearm",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f15",
+      "path": "assets/derived/hand-cuts/TH1.f15.png",
+      "sha256": "b13b40804dbf7fca5e1e6cbba8fcd09ddcf6a8eb753d7e6e2c76578eba3bc152",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        0,
+        427,
+        68,
+        90
+      ],
+      "seeds": [
+        [
+          38,
+          477
+        ]
+      ],
+      "label_from_manifest": "hand edge-on, thumb side",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f16",
+      "path": "assets/derived/hand-cuts/TH1.f16.png",
+      "sha256": "d9daf2dc5402a48acff090cb424a7d0cf8e378073d973877ced811fc3f462035",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        75,
+        450,
+        10,
+        33
+      ],
+      "seeds": [
+        [
+          80,
+          466
+        ]
+      ],
+      "label_from_manifest": "three loose fingertips (belongs with f17)",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f17",
+      "path": "assets/derived/hand-cuts/TH1.f17.png",
+      "sha256": "a1b2f90b517055d089c6fa20727510cc1211123f34c484316bf968b424a1a5ab",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        80,
+        427,
+        96,
+        90
+      ],
+      "seeds": [
+        [
+          127,
+          479
+        ]
+      ],
+      "label_from_manifest": "hand reaching, fingers apart from palm",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f18",
+      "path": "assets/derived/hand-cuts/TH1.f18.png",
+      "sha256": "4093a9605a4bf0c7075887f9b8065d4963c9efb99b9ed937f9e5f150dd1ba281",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        175,
+        443,
+        71,
+        74
+      ],
+      "seeds": [
+        [
+          215,
+          485
+        ]
+      ],
+      "label_from_manifest": "hand edge-on, hooked",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f19",
+      "path": "assets/derived/hand-cuts/TH1.f19.png",
+      "sha256": "974e432f4bf45080937221e99755de06cfa680aeabe836f35b7f2cc30f8132c4",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        261,
+        427,
+        55,
+        90
+      ],
+      "seeds": [
+        [
+          288,
+          475
+        ]
+      ],
+      "label_from_manifest": "back of fist, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f20",
+      "path": "assets/derived/hand-cuts/TH1.f20.png",
+      "sha256": "70ba83231916aa8ce1a9608422a8019e4e699381eab49e4dc623e0e9b136f46e",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        328,
+        427,
+        57,
+        91
+      ],
+      "seeds": [
+        [
+          356,
+          474
+        ]
+      ],
+      "label_from_manifest": "back of fist, B (larger)",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f21",
+      "path": "assets/derived/hand-cuts/TH1.f21.png",
+      "sha256": "3a366090555fb3de656c203a6df137bb6aa0b8e93aec0c42b1a78bfddff70a9f",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        393,
+        424,
+        56,
+        93
+      ],
+      "seeds": [
+        [
+          422,
+          476
+        ]
+      ],
+      "label_from_manifest": "fist gripping, thumb on top",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f22",
+      "path": "assets/derived/hand-cuts/TH1.f22.png",
+      "sha256": "0ec3d2746bc580ba1fd6af78df9958334df88a44e6e1d9e778a449d4f8654dc4",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        526,
+        446,
+        64,
+        71
+      ],
+      "seeds": [
+        [
+          556,
+          482
+        ]
+      ],
+      "label_from_manifest": "fist, knuckles forward",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f23",
+      "path": "assets/derived/hand-cuts/TH1.f23.png",
+      "sha256": "f223b92ed9c8e579ef899e66e524b81d31f067061b27343122483f7caf063387",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        460,
+        453,
+        59,
+        64
+      ],
+      "seeds": [
+        [
+          487,
+          489
+        ]
+      ],
+      "label_from_manifest": "fist with thumb, small",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f24",
+      "path": "assets/derived/hand-cuts/TH1.f24.png",
+      "sha256": "7f1fe3f3c09f987cc23bd80e7642f090e0527c85edd5eae5a4dd3b999f48079f",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        0,
+        532,
+        101,
+        102
+      ],
+      "seeds": [
+        [
+          65,
+          597
+        ]
+      ],
+      "label_from_manifest": "thumbs-up, arm from lower left",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f25",
+      "path": "assets/derived/hand-cuts/TH1.f25.png",
+      "sha256": "e895f03638b3c9391b6392db39e8b74d6f0f32677cc7f8fd16fe2b7de6c0faf6",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        89,
+        521,
+        122,
+        113
+      ],
+      "seeds": [
+        [
+          160,
+          587
+        ]
+      ],
+      "label_from_manifest": "pointing finger and thumb (finger-gun), arm from lower left",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f26",
+      "path": "assets/derived/hand-cuts/TH1.f26.png",
+      "sha256": "dee893d91bd42a9b43e924cd5df90b4cbe16016658c2d9e59f970b1e4a76645b",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        211,
+        578,
+        82,
+        56
+      ],
+      "seeds": [
+        [
+          254,
+          608
+        ]
+      ],
+      "label_from_manifest": "knuckles close-up, large",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f27",
+      "path": "assets/derived/hand-cuts/TH1.f27.png",
+      "sha256": "5af57ce39edc96d27431436f64952fbb5fd25b3d5974b7ff99e900e1d225c267",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        316,
+        588,
+        52,
+        18
+      ],
+      "seeds": [
+        [
+          343,
+          596
+        ]
+      ],
+      "label_from_manifest": "row of four knuckles (fragment)",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f28",
+      "path": "assets/derived/hand-cuts/TH1.f28.png",
+      "sha256": "12b4971c8e195cab497620b6abd9a63a8a62b4b99f370e89d3970250ff6397e9",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        399,
+        578,
+        34,
+        40
+      ],
+      "seeds": [
+        [
+          414,
+          602
+        ]
+      ],
+      "label_from_manifest": "small fist",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f29",
+      "path": "assets/derived/hand-cuts/TH1.f29.png",
+      "sha256": "648a35abcfb48aac9ca1c892ddb14b825f0213de1f47db53d1eb944d2120c697",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        442,
+        575,
+        70,
+        59
+      ],
+      "seeds": [
+        [
+          472,
+          603
+        ]
+      ],
+      "label_from_manifest": "bent arm with fist, elbow raised",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f30",
+      "path": "assets/derived/hand-cuts/TH1.f30.png",
+      "sha256": "85a966ae610e2f4e4a57e36d76769045d7d17505060ff9780b1fd8464c3bab71",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        529,
+        591,
+        61,
+        15
+      ],
+      "seeds": [
+        [
+          559,
+          600
+        ]
+      ],
+      "label_from_manifest": "hand edge (fragment)",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f31",
+      "path": "assets/derived/hand-cuts/TH1.f31.png",
+      "sha256": "7c14f0ac3e75565f3f2548d96e7899eecbfe6b991fbff3284ec75bbb594b4e34",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        92,
+        676,
+        38,
+        62
+      ],
+      "seeds": [
+        [
+          104,
+          714
+        ]
+      ],
+      "label_from_manifest": "dark spike, tall, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f32",
+      "path": "assets/derived/hand-cuts/TH1.f32.png",
+      "sha256": "b60ec3fd93e4c2a4208c2761b9fff6cf7d337b033b87e7c57e97627a514fbfc6",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        138,
+        668,
+        28,
+        70
+      ],
+      "seeds": [
+        [
+          152,
+          709
+        ]
+      ],
+      "label_from_manifest": "dark spike, tall, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f33",
+      "path": "assets/derived/hand-cuts/TH1.f33.png",
+      "sha256": "7fd7cf5f6a629f91c8e22c34ace79f71de9c452e7ad82088ac00b0433bb0a6d5",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        179,
+        653,
+        74,
+        85
+      ],
+      "seeds": [
+        [
+          206,
+          702
+        ]
+      ],
+      "label_from_manifest": "forearm and fist rising up-left, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f34",
+      "path": "assets/derived/hand-cuts/TH1.f34.png",
+      "sha256": "5e81d31fc178fcad1655b71ed92b7c8488f0cd9a5d3989acba03c773c0fec6a8",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        234,
+        646,
+        107,
+        92
+      ],
+      "seeds": [
+        [
+          276,
+          701
+        ]
+      ],
+      "label_from_manifest": "forearm and fist rising up-left, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f35",
+      "path": "assets/derived/hand-cuts/TH1.f35.png",
+      "sha256": "192f2b2de0f40ed2bbbd88ccb0f71a50d22a4a39be83426cf2f89b38172462a9",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        331,
+        662,
+        125,
+        76
+      ],
+      "seeds": [
+        [
+          386,
+          702
+        ]
+      ],
+      "label_from_manifest": "arm coming down from top right, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f36",
+      "path": "assets/derived/hand-cuts/TH1.f36.png",
+      "sha256": "5b9884f62b18132a8afa097c27337896b9db9481993be81fc97e5f9aa3aa66bc",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        446,
+        661,
+        102,
+        54
+      ],
+      "seeds": [
+        [
+          488,
+          690
+        ]
+      ],
+      "label_from_manifest": "arm coming down from top right, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f37",
+      "path": "assets/derived/hand-cuts/TH1.f37.png",
+      "sha256": "e49188dc5ad05f35222c651076308fa57f7b0bd44446d3a3e3fad907cea0762a",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        24,
+        702,
+        26,
+        36
+      ],
+      "seeds": [
+        [
+          36,
+          724
+        ]
+      ],
+      "label_from_manifest": "dark spike, short, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH1.f38",
+      "path": "assets/derived/hand-cuts/TH1.f38.png",
+      "sha256": "b7f3bcf267083f991e510a1dfe3f1cabbdc3436cf456c3453e3934ad28dde169",
+      "source_path": "assets/source/w0DngzM(2).png",
+      "source_sha256": "da1af281d9858423553283104a5ed6808bfe5be3f040e05d9751bb5b61bb6381",
+      "source_rect": [
+        57,
+        702,
+        26,
+        36
+      ],
+      "seeds": [
+        [
+          69,
+          724
+        ]
+      ],
+      "label_from_manifest": "dark spike, short, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f01",
+      "path": "assets/derived/hand-cuts/TH2.f01.png",
+      "sha256": "d2367c2b64d277f2572eaac0a70147a3bf85b0d338a73ab4aac1b1041ed885e5",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        0,
+        40,
+        80,
+        66
+      ],
+      "seeds": [
+        [
+          34,
+          73
+        ]
+      ],
+      "label_from_manifest": "fist, thumb side, small",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f02",
+      "path": "assets/derived/hand-cuts/TH2.f02.png",
+      "sha256": "31c285fc5b9a744b21961266f00798651e2617e824762c0e57eaca9d714ac300",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        78,
+        37,
+        70,
+        70
+      ],
+      "seeds": [
+        [
+          109,
+          71
+        ]
+      ],
+      "label_from_manifest": "fist, thumb side, medium",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f03",
+      "path": "assets/derived/hand-cuts/TH2.f03.png",
+      "sha256": "f560154f6012c58aef273e6d93730cc12f9d1bcb694f3b4ff195dd97a4fdbf94",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        148,
+        23,
+        76,
+        84
+      ],
+      "seeds": [
+        [
+          179,
+          66
+        ]
+      ],
+      "label_from_manifest": "fist, thumb side, large",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f04",
+      "path": "assets/derived/hand-cuts/TH2.f04.png",
+      "sha256": "dbe7f8e8b08d20b0531727c1ba5894fd3c38e5a3d4b83771b735c9d1b4adff06",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        238,
+        23,
+        62,
+        83
+      ],
+      "seeds": [
+        [
+          266,
+          67
+        ]
+      ],
+      "label_from_manifest": "hand gripping, fingers curled over",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f05",
+      "path": "assets/derived/hand-cuts/TH2.f05.png",
+      "sha256": "a53972d4c67290b6973ff8ec3913a39a742d8f5625dd95e3dc7f8bae5bed2830",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        311,
+        27,
+        72,
+        80
+      ],
+      "seeds": [
+        [
+          343,
+          70
+        ]
+      ],
+      "label_from_manifest": "fist with fingers showing",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f06",
+      "path": "assets/derived/hand-cuts/TH2.f06.png",
+      "sha256": "92f312b43d8457f86a4677c77fa25d039ea388d7cab251e735d4dc76a5804ca4",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        383,
+        42,
+        12,
+        28
+      ],
+      "seeds": [
+        [
+          388,
+          54
+        ]
+      ],
+      "label_from_manifest": "finger fragment (belongs with f07)",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f07",
+      "path": "assets/derived/hand-cuts/TH2.f07.png",
+      "sha256": "0904e1f7341f735254209064a73f3058c3e308d4540f3cdab318e98bc4ac54b1",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        396,
+        0,
+        63,
+        107
+      ],
+      "seeds": [
+        [
+          422,
+          65
+        ]
+      ],
+      "label_from_manifest": "tall thumbs-up fist",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f08",
+      "path": "assets/derived/hand-cuts/TH2.f08.png",
+      "sha256": "1e0058d24eb3127a55208330e58e6fbe1b6b7d856c9214860f1f5b8b73057a70",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        463,
+        12,
+        76,
+        95
+      ],
+      "seeds": [
+        [
+          494,
+          65
+        ]
+      ],
+      "label_from_manifest": "fist, fingers lower left",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f09",
+      "path": "assets/derived/hand-cuts/TH2.f09.png",
+      "sha256": "584abf8c8181aeb4e0ba01736619aba37c3b8cc2473b5c286b9a4e9121e4229a",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        388,
+        23,
+        8,
+        14
+      ],
+      "seeds": [
+        [
+          392,
+          29
+        ]
+      ],
+      "label_from_manifest": "fingertip fragment",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f10",
+      "path": "assets/derived/hand-cuts/TH2.f10.png",
+      "sha256": "244192529a4f86fbadfb0c6ba06164c8c71333d0fd2493a8b2f7b5612c6f28dc",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        0,
+        131,
+        107,
+        76
+      ],
+      "seeds": [
+        [
+          44,
+          172
+        ]
+      ],
+      "label_from_manifest": "forearm with hand folded back, 1 of 4",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f11",
+      "path": "assets/derived/hand-cuts/TH2.f11.png",
+      "sha256": "2dc09c5111c64c423b0005d6a12d254b76399bbb66913eda6e52b087f94120b8",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        102,
+        129,
+        105,
+        78
+      ],
+      "seeds": [
+        [
+          144,
+          173
+        ]
+      ],
+      "label_from_manifest": "forearm, hand folded, 2",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f12",
+      "path": "assets/derived/hand-cuts/TH2.f12.png",
+      "sha256": "42a26173ae6b6763df6e88617ecba7b311571854a58859a4a621309216c0895e",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        191,
+        118,
+        87,
+        89
+      ],
+      "seeds": [
+        [
+          229,
+          168
+        ]
+      ],
+      "label_from_manifest": "forearm, hand folded, 3",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f13",
+      "path": "assets/derived/hand-cuts/TH2.f13.png",
+      "sha256": "db2d8747fc84515aac353a2a71d713cd5551769222eee560305b42301be95b13",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        270,
+        118,
+        106,
+        88
+      ],
+      "seeds": [
+        [
+          314,
+          165
+        ]
+      ],
+      "label_from_manifest": "forearm, hand folded, 4 (largest)",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f14",
+      "path": "assets/derived/hand-cuts/TH2.f14.png",
+      "sha256": "139a7b0fd87fde063264e50153a5b441d04fd7b912997b02aa050607d248349c",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        0,
+        222,
+        68,
+        76
+      ],
+      "seeds": [
+        [
+          42,
+          270
+        ]
+      ],
+      "label_from_manifest": "thumb close-up, large",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f15",
+      "path": "assets/derived/hand-cuts/TH2.f15.png",
+      "sha256": "2142c37ea60d01cf9830b55fc6366893c4d443e8657fcd230db8650b9ad15c51",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        108,
+        237,
+        63,
+        62
+      ],
+      "seeds": [
+        [
+          145,
+          274
+        ]
+      ],
+      "label_from_manifest": "thumb pad",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f16",
+      "path": "assets/derived/hand-cuts/TH2.f16.png",
+      "sha256": "e9c2bcaac5ce838bf5a3eb64dbde2ea1464fd1a499cb31f88d86e682e001382e",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        188,
+        240,
+        66,
+        59
+      ],
+      "seeds": [
+        [
+          227,
+          275
+        ]
+      ],
+      "label_from_manifest": "thumb knuckle",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f17",
+      "path": "assets/derived/hand-cuts/TH2.f17.png",
+      "sha256": "f056a0287d17f1d14aa5a25b548258e5570288d023e84439127d15457aa339b8",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        271,
+        224,
+        43,
+        75
+      ],
+      "seeds": [
+        [
+          298,
+          272
+        ]
+      ],
+      "label_from_manifest": "fingertip, tall",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f18",
+      "path": "assets/derived/hand-cuts/TH2.f18.png",
+      "sha256": "13e1723c753b88e9775fa9eecced360dff1758e9ada8bd71d1b6c2bde0c517fb",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        356,
+        274,
+        56,
+        25
+      ],
+      "seeds": [
+        [
+          380,
+          290
+        ]
+      ],
+      "label_from_manifest": "thumb tip, small, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f19",
+      "path": "assets/derived/hand-cuts/TH2.f19.png",
+      "sha256": "a0fc240e82f076d3360a51fc1f9c0d9d182adaa97cdbe07c43566361bb850e42",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        433,
+        274,
+        36,
+        25
+      ],
+      "seeds": [
+        [
+          449,
+          288
+        ]
+      ],
+      "label_from_manifest": "thumb tip, small, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f20",
+      "path": "assets/derived/hand-cuts/TH2.f20.png",
+      "sha256": "60f9c06c3831d4546fcd06ed93e56cbc69028dc2a27dbc87e0ebbecfa9ada4d0",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        483,
+        265,
+        113,
+        34
+      ],
+      "seeds": [
+        [
+          540,
+          282
+        ]
+      ],
+      "label_from_manifest": "finger lying flat, pointing right",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f21",
+      "path": "assets/derived/hand-cuts/TH2.f21.png",
+      "sha256": "9ee2f2d676b1cbf8a1d9bf316f162554d10dc9af14f77a834682f0061da43133",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        83,
+        224,
+        19,
+        24
+      ],
+      "seeds": [
+        [
+          94,
+          234
+        ]
+      ],
+      "label_from_manifest": "finger fragment",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f22",
+      "path": "assets/derived/hand-cuts/TH2.f22.png",
+      "sha256": "f152ed634e0bc1c7ce492cdd4fe8a309c04268845bfbbb67ad44f1f55fc83f01",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        339,
+        228,
+        14,
+        37
+      ],
+      "seeds": [
+        [
+          347,
+          243
+        ]
+      ],
+      "label_from_manifest": "finger fragment",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f23",
+      "path": "assets/derived/hand-cuts/TH2.f23.png",
+      "sha256": "a68f5711db4fe7939e4ceda51e12169f4d636733fd5fd135137493f1d82880a2",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        0,
+        315,
+        88,
+        87
+      ],
+      "seeds": [
+        [
+          40,
+          364
+        ]
+      ],
+      "label_from_manifest": "back of hand, thumb out left, 1 of 4",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f24",
+      "path": "assets/derived/hand-cuts/TH2.f24.png",
+      "sha256": "efe78239d11664cdc6b77208993dab7ebbcb12b0c24540fc820320b305e43320",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        72,
+        315,
+        88,
+        87
+      ],
+      "seeds": [
+        [
+          112,
+          364
+        ]
+      ],
+      "label_from_manifest": "back of hand, 2",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f25",
+      "path": "assets/derived/hand-cuts/TH2.f25.png",
+      "sha256": "8fc7b0e2356790071dda6fc3043fba3aa00b37fdcb32eca231609a76d8e693f8",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        151,
+        315,
+        88,
+        87
+      ],
+      "seeds": [
+        [
+          191,
+          364
+        ]
+      ],
+      "label_from_manifest": "back of hand, 3",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f26",
+      "path": "assets/derived/hand-cuts/TH2.f26.png",
+      "sha256": "7325050a97f94484272d9736845aa66a752769a8c0a4b5c5c36a7305cd15a903",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        227,
+        327,
+        87,
+        75
+      ],
+      "seeds": [
+        [
+          267,
+          366
+        ]
+      ],
+      "label_from_manifest": "back of hand, 4",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f27",
+      "path": "assets/derived/hand-cuts/TH2.f27.png",
+      "sha256": "df0558ceddf230e992521f94cc7324540a65c113058b2ebff791114cf1bc390d",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        309,
+        317,
+        72,
+        86
+      ],
+      "seeds": [
+        [
+          343,
+          361
+        ]
+      ],
+      "label_from_manifest": "back of fist with veins",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f28",
+      "path": "assets/derived/hand-cuts/TH2.f28.png",
+      "sha256": "b1026108ab4c5dc182dec971b178dd898f464f406ad991ae70fee2e727376b64",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        0,
+        423,
+        47,
+        62
+      ],
+      "seeds": [
+        [
+          30,
+          461
+        ]
+      ],
+      "label_from_manifest": "thumb, tall, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f29",
+      "path": "assets/derived/hand-cuts/TH2.f29.png",
+      "sha256": "4b99d7d8453378182f30442a8355ef2feda45cb7e22c78811eb4b9415abe9e60",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        49,
+        464,
+        46,
+        21
+      ],
+      "seeds": [
+        [
+          67,
+          477
+        ]
+      ],
+      "label_from_manifest": "thumb tip, low, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f30",
+      "path": "assets/derived/hand-cuts/TH2.f30.png",
+      "sha256": "265faeb711de905406a625de15f92ad69462cada8ee410b9db78438ae00005cf",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        117,
+        419,
+        60,
+        65
+      ],
+      "seeds": [
+        [
+          154,
+          461
+        ]
+      ],
+      "label_from_manifest": "thumb, tall, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f31",
+      "path": "assets/derived/hand-cuts/TH2.f31.png",
+      "sha256": "6d91e45a08a52f3e245511008be3626cde077ed94b0f6b084be859105ff52a1c",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        203,
+        463,
+        45,
+        21
+      ],
+      "seeds": [
+        [
+          221,
+          476
+        ]
+      ],
+      "label_from_manifest": "thumb tip, low, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f32",
+      "path": "assets/derived/hand-cuts/TH2.f32.png",
+      "sha256": "68c08e1442392ddb4361e10c681d3b482381d0ec85d302c9219418df2eddfcc7",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        267,
+        432,
+        57,
+        53
+      ],
+      "seeds": [
+        [
+          298,
+          463
+        ]
+      ],
+      "label_from_manifest": "thumb knuckle, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f33",
+      "path": "assets/derived/hand-cuts/TH2.f33.png",
+      "sha256": "7eff4d58bb469ea56dc59dca1123246d243875969b6921c483fdafb69a138ac2",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        343,
+        463,
+        32,
+        22
+      ],
+      "seeds": [
+        [
+          359,
+          475
+        ]
+      ],
+      "label_from_manifest": "thumb tip, low, C",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f34",
+      "path": "assets/derived/hand-cuts/TH2.f34.png",
+      "sha256": "b7dd036d5de0f2c2f3319e491ecfdac32607b14c67cce563fb80b46e162a337b",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        385,
+        435,
+        55,
+        50
+      ],
+      "seeds": [
+        [
+          418,
+          464
+        ]
+      ],
+      "label_from_manifest": "thumb knuckle, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f35",
+      "path": "assets/derived/hand-cuts/TH2.f35.png",
+      "sha256": "5ed3154843ab334d61a71e292528fadfc67142df320ab878a563cea71b50334f",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        459,
+        416,
+        144,
+        69
+      ],
+      "seeds": [
+        [
+          523,
+          465
+        ],
+        [
+          526,
+          431
+        ]
+      ],
+      "label_from_manifest": "finger-gun pieces (several loose parts)",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f36",
+      "path": "assets/derived/hand-cuts/TH2.f36.png",
+      "sha256": "689dba7164f84757a63160effd07bb3768a16bb5093bb480bfcf6d6cb631a0c2",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        615,
+        402,
+        101,
+        83
+      ],
+      "seeds": [
+        [
+          665,
+          459
+        ]
+      ],
+      "label_from_manifest": "large pointing finger, lower right",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f37",
+      "path": "assets/derived/hand-cuts/TH2.f37.png",
+      "sha256": "75587b6c5ddc45d89a8fb6661b74e4adc2d26582c9375a05fb208b57a4e7a729",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        61,
+        422,
+        17,
+        27
+      ],
+      "seeds": [
+        [
+          70,
+          432
+        ]
+      ],
+      "label_from_manifest": "fingertip fragment",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f38",
+      "path": "assets/derived/hand-cuts/TH2.f38.png",
+      "sha256": "5c4ada535b0a51e6e5e6e7eca1dcf976398570062272fb6bf5e3cde0aecebc56",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        186,
+        422,
+        17,
+        23
+      ],
+      "seeds": [
+        [
+          195,
+          431
+        ]
+      ],
+      "label_from_manifest": "fingertip fragment",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f39",
+      "path": "assets/derived/hand-cuts/TH2.f39.png",
+      "sha256": "09839cfd2540f20a1c23dd34606b42370d71fcf50290eb6cdc934f914c3bed78",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        704,
+        420,
+        10,
+        20
+      ],
+      "seeds": [
+        [
+          709,
+          429
+        ]
+      ],
+      "label_from_manifest": "fingertip fragment",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f40",
+      "path": "assets/derived/hand-cuts/TH2.f40.png",
+      "sha256": "64ae070561e3d21be7084ecafb99b2c350f8856185f9bb81d43f355186e96f1f",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        0,
+        522,
+        40,
+        68
+      ],
+      "seeds": [
+        [
+          25,
+          563
+        ]
+      ],
+      "label_from_manifest": "thumb upright, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f41",
+      "path": "assets/derived/hand-cuts/TH2.f41.png",
+      "sha256": "2f3f25d9e3ce81ff5d9a0440ba83cef393c6927de52ec53f1b7c4d4ceeece494",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        96,
+        522,
+        40,
+        68
+      ],
+      "seeds": [
+        [
+          121,
+          562
+        ]
+      ],
+      "label_from_manifest": "thumb upright, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f42",
+      "path": "assets/derived/hand-cuts/TH2.f42.png",
+      "sha256": "3c4a8c35cd101443d71f447937c6cf7a265b4326ab992cf43c2c12428ca9ea9b",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        194,
+        522,
+        53,
+        67
+      ],
+      "seeds": [
+        [
+          216,
+          565
+        ]
+      ],
+      "label_from_manifest": "thumb bent",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f43",
+      "path": "assets/derived/hand-cuts/TH2.f43.png",
+      "sha256": "e4b253adf9adb44edeb3b45b14c90768f45a078a8606f72d221fc8a2bedcb64b",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        264,
+        528,
+        53,
+        61
+      ],
+      "seeds": [
+        [
+          287,
+          564
+        ]
+      ],
+      "label_from_manifest": "thumb curled",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f44",
+      "path": "assets/derived/hand-cuts/TH2.f44.png",
+      "sha256": "347e0e554010ee288d46abd3cf0ff97100809c5f2ae957e51db85b71a82baded",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        62,
+        525,
+        18,
+        27
+      ],
+      "seeds": [
+        [
+          72,
+          536
+        ]
+      ],
+      "label_from_manifest": "fragment",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f45",
+      "path": "assets/derived/hand-cuts/TH2.f45.png",
+      "sha256": "6545c70af851cc9b6a4cd3e28974df805d972d6a218ebfc3a6d6dbf74e1b80c9",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        159,
+        525,
+        17,
+        23
+      ],
+      "seeds": [
+        [
+          168,
+          535
+        ]
+      ],
+      "label_from_manifest": "fragment",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f46",
+      "path": "assets/derived/hand-cuts/TH2.f46.png",
+      "sha256": "2c4d0d3b3210cfd68845a8aba942555f33dc51978dc0edef338fd2f40a25cf0c",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        334,
+        496,
+        72,
+        93
+      ],
+      "seeds": [
+        [
+          372,
+          556
+        ]
+      ],
+      "label_from_manifest": "thumbs-up from fist, A",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f47",
+      "path": "assets/derived/hand-cuts/TH2.f47.png",
+      "sha256": "f4daaf4dd7e0097829011afdb62981879328945649fd02c5d576c06692f3a541",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        404,
+        500,
+        83,
+        90
+      ],
+      "seeds": [
+        [
+          450,
+          558
+        ]
+      ],
+      "label_from_manifest": "thumbs-up from fist, B",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f48",
+      "path": "assets/derived/hand-cuts/TH2.f48.png",
+      "sha256": "970bcb06c6abb1661b0601c1be35cfb07c6e63c26d870cd52a4250235ec167d0",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        0,
+        636,
+        103,
+        66
+      ],
+      "seeds": [
+        [
+          61,
+          672
+        ]
+      ],
+      "label_from_manifest": "forearm from lower left, fist, 1 of 7",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f49",
+      "path": "assets/derived/hand-cuts/TH2.f49.png",
+      "sha256": "8f2d2926a448dd954fed28476bfb2c51b040c6c38e77b34ae556f5fa80f28c69",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        90,
+        600,
+        111,
+        102
+      ],
+      "seeds": [
+        [
+          156,
+          664
+        ]
+      ],
+      "label_from_manifest": "forearm, thumbs-up, 2",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f50",
+      "path": "assets/derived/hand-cuts/TH2.f50.png",
+      "sha256": "f360741c5f9dea8ef6b37de361961e9c0b94d8a2f8167616766d77af4d0d6a10",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        177,
+        609,
+        108,
+        93
+      ],
+      "seeds": [
+        [
+          244,
+          663
+        ]
+      ],
+      "label_from_manifest": "forearm, fist closing, 3",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f51",
+      "path": "assets/derived/hand-cuts/TH2.f51.png",
+      "sha256": "169bf587e2534df5969afba737cd0355242891413bdd7fcd91c60476aa51b539",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        267,
+        621,
+        109,
+        81
+      ],
+      "seeds": [
+        [
+          330,
+          663
+        ]
+      ],
+      "label_from_manifest": "forearm, fist, 4",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f52",
+      "path": "assets/derived/hand-cuts/TH2.f52.png",
+      "sha256": "7e7f8d56c0f9a8c1cca3b1b85d372841ca765573dfc3f9ef0b664c2cd44239a9",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        358,
+        608,
+        117,
+        94
+      ],
+      "seeds": [
+        [
+          426,
+          666
+        ]
+      ],
+      "label_from_manifest": "forearm, thumbs-up, 5",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f53",
+      "path": "assets/derived/hand-cuts/TH2.f53.png",
+      "sha256": "aaf9c341ce9045ac21bea6fff3d870e4cdd881edada3750d90e2ed01e43b327b",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        457,
+        608,
+        110,
+        95
+      ],
+      "seeds": [
+        [
+          520,
+          670
+        ]
+      ],
+      "label_from_manifest": "forearm, thumbs-up with fingers open, 6",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    },
+    {
+      "id": "TH2.f54",
+      "path": "assets/derived/hand-cuts/TH2.f54.png",
+      "sha256": "1a5f3bc6c5dc3b2c1f57a03807499d5d7f177da3d46742271ce66ca18f0268ad",
+      "source_path": "assets/source/z6nxuVr(1).png",
+      "source_sha256": "6aca06c1a104e9d76e515edd6f1738352406a7e73349160f1e12e5585acdea70",
+      "source_rect": [
+        556,
+        634,
+        98,
+        68
+      ],
+      "seeds": [
+        [
+          615,
+          673
+        ]
+      ],
+      "label_from_manifest": "forearm, fist reaching, 7",
+      "method": "manifest seed-connected alpha extraction, threshold 16, 8-connected",
+      "status": "crop_verified_not_animation_approved",
+      "wrist_anchor": "UNMEASURED",
+      "striking_point": "UNMEASURED",
+      "anatomical_side": "UNREVIEWED"
+    }
+  ]
+}

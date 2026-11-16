@@ -1,0 +1,151 @@
+{
+  "scope": "preparation packet only; not hands-game acceptance",
+  "time_utc": "2026-11-16T18:07:57.166409+00:00",
+  "checks": [
+    {
+      "name": "json_syntax",
+      "result": "PASS"
+    },
+    {
+      "name": "optional_agent_toml_syntax",
+      "result": "PASS",
+      "note": "Not proof of browser Cloud activation"
+    },
+    {
+      "name": "source_hashes",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "scripts/verify_packet.py",
+        "--sources-only"
+      ],
+      "exit": 0,
+      "expected_exit": 0,
+      "result": "PASS",
+      "stdout": "PASS: 224 listed file records; 0 errors.\nThis checks delivered/protected bytes, not game functionality or licensing.\n",
+      "stderr": ""
+    },
+    {
+      "name": "doctor",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "scripts/doctor.py"
+      ],
+      "exit": 0,
+      "expected_exit": 0,
+      "result": "PASS",
+      "stdout": "{\n  \"os\": \"Linux-6.18.57-x86_64-with-glibc2.41\",\n  \"python\": \"3.13.5\",\n  \"tools\": {\n    \"node\": {\n      \"available\": true,\n      \"version\": \"v22.16.0\"\n    },\n    \"git\": {\n      \"available\": true,\n      \"version\": \"git version 2.47.3\"\n    },\n    \"gh\": {\n      \"available\": false,\n      \"version\": null\n    },\n    \"chromium\": {\n      \"available\": true,\n      \"version\": \"Chromium 144.0.7559.96 built on Debian GNU/Linux 13 (trixie)\"\n    },\n    \"ffmpeg\": {\n      \"available\": true,\n      \"version\": \"ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers\"\n    }\n  },\n  \"optional_python_modules\": {\n    \"PIL\": true,\n    \"scipy\": true,\n    \"playwright\": true\n  },\n  \"github_authenticated\": \"NOT_CHECKED\",\n  \"cloud_environment\": \"NOT_INFERRED\",\n  \"native_subagents\": \"CHECK_ACTUAL_CODING_TOOLS\",\n  \"image_generation\": \"CHECK_ACTUAL_CODING_TOOLS\",\n  \"note\": \"No environment secrets inspected. Installed binaries do not establish service access.\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "name": "prepare_workspace",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "scripts/prepare_workspace.py"
+      ],
+      "exit": 0,
+      "expected_exit": 0,
+      "result": "PASS",
+      "stdout": "Created editable game/rc from locked v0.3.1 donor.\nCreated required output directories. No assertions, source or controls were changed.\n",
+      "stderr": ""
+    },
+    {
+      "name": "prepare_workspace_idempotence",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "scripts/prepare_workspace.py"
+      ],
+      "exit": 0,
+      "expected_exit": 0,
+      "result": "PASS",
+      "stdout": "Working copy already exists; preserved all edits.\nCreated required output directories. No assertions, source or controls were changed.\n",
+      "stderr": ""
+    },
+    {
+      "name": "workspace_edit_preserved",
+      "result": "PASS"
+    },
+    {
+      "name": "verify_donor_scratch_rebuild_and_five_files",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "scripts/verify_donor.py"
+      ],
+      "exit": 0,
+      "expected_exit": 0,
+      "result": "PASS",
+      "stdout": "generate-scene: 0\nbuild-host: 0\nbuild-playable: 0\nphysical: 0\nedge_cases: 0\nintegration: 0\ndegradation_occupancy_v031: 0\npressure: 0\nPASS; report: /tmp/fe-packet-qa-l7p9q3a2/packet/evidence/execution/donor-verification/result.json\nSelected checks are not a full-suite, Windows, hardware-performance or human-feel certification.\n",
+      "stderr": ""
+    },
+    {
+      "name": "local_git_bootstrap",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "scripts/bootstrap_repository.py"
+      ],
+      "exit": 0,
+      "expected_exit": 0,
+      "result": "PASS",
+      "stdout": "Initialized an independent local repository on codex/hands-first-v0-1.\nNo files staged, commits created, remote created or push attempted.\n",
+      "stderr": ""
+    },
+    {
+      "name": "local_git_bootstrap_idempotence",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "scripts/bootstrap_repository.py"
+      ],
+      "exit": 0,
+      "expected_exit": 0,
+      "result": "PASS",
+      "stdout": "Independent local review branch verified.\nNo files staged, commits created, remote created or push attempted.\n",
+      "stderr": ""
+    },
+    {
+      "name": "protected_remote_refusal",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "scripts/bootstrap_repository.py"
+      ],
+      "exit": 2,
+      "expected_exit": 2,
+      "result": "PASS",
+      "stdout": "",
+      "stderr": "Setup/publication stopped safely: Origin is not the authorized new game. No repository changes made.\n"
+    },
+    {
+      "name": "remote_create_push",
+      "result": "NOT_RUN",
+      "note": "No authenticated remote write in preparation"
+    },
+    {
+      "name": "tamper_detected",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "scripts/verify_packet.py",
+        "--sources-only"
+      ],
+      "exit": 1,
+      "expected_exit": 1,
+      "result": "PASS",
+      "stdout": "FAIL: 224 listed file records; 1 errors.\nThis checks delivered/protected bytes, not game functionality or licensing.\n",
+      "stderr": "Hash mismatch: assets/source/w0DngzM(2).png\n"
+    },
+    {
+      "name": "candidate_hand_region_recrop",
+      "result": "PASS",
+      "regions": 92,
+      "byte_mismatches": 0,
+      "note": "Partial components included; not animation/anchor approval"
+    },
+    {
+      "name": "video_source_paths",
+      "result": "PASS",
+      "count": 3
+    },
+    {
+      "name": "document_path_references",
+      "result": "PASS"
+    }
+  ],
+  "overall": "PASS_FOR_PACKET_CHECKS_WITH_EXPLICIT_REMOTE_AND_GAME_LIMITS"
+}

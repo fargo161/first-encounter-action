@@ -1,0 +1,82 @@
+PASS Stable floor and fixed clock
+PASS Jump rises, lands and retains identity
+PASS Low ceiling blocks jump
+PASS Punch hits once; recovery rejects spam
+PASS Grab, carry, release preserve actor
+PASS Throw hits wall without tunneling
+PASS Obstruction blocks reach
+PASS Self-grab and conflicting ownership rejected
+PASS Appearance does not alter body; control swap retains state
+PASS Same movement and hazard rules across controllers
+PASS State swap removes collision and enables authored edge once
+PASS Removing support makes actor fall
+PASS Contact episode deduplicates injury
+PASS Holder loss clears relationship
+PASS 30 / 60 / 144 render Hz produce matching physical state
+{
+  "passed": 15,
+  "total": 15,
+  "results": [
+    {
+      "name": "Stable floor and fixed clock",
+      "status": "PASS"
+    },
+    {
+      "name": "Jump rises, lands and retains identity",
+      "status": "PASS"
+    },
+    {
+      "name": "Low ceiling blocks jump",
+      "status": "PASS"
+    },
+    {
+      "name": "Punch hits once; recovery rejects spam",
+      "status": "PASS"
+    },
+    {
+      "name": "Grab, carry, release preserve actor",
+      "status": "PASS"
+    },
+    {
+      "name": "Throw hits wall without tunneling",
+      "status": "PASS"
+    },
+    {
+      "name": "Obstruction blocks reach",
+      "status": "PASS"
+    },
+    {
+      "name": "Self-grab and conflicting ownership rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "Appearance does not alter body; control swap retains state",
+      "status": "PASS"
+    },
+    {
+      "name": "Same movement and hazard rules across controllers",
+      "status": "PASS"
+    },
+    {
+      "name": "State swap removes collision and enables authored edge once",
+      "status": "PASS"
+    },
+    {
+      "name": "Removing support makes actor fall",
+      "status": "PASS"
+    },
+    {
+      "name": "Contact episode deduplicates injury",
+      "status": "PASS"
+    },
+    {
+      "name": "Holder loss clears relationship",
+      "status": "PASS"
+    },
+    {
+      "name": "30 / 60 / 144 render Hz produce matching physical state",
+      "status": "PASS"
+    }
+  ]
+}
+
